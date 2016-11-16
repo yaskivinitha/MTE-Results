@@ -1,0 +1,771 @@
+;;==========================================================================================================;;
+;;This file has the performance metrics for lpsc 2015 abstracts that have annotated file associated         ;;
+;;The metrics compare the target occurences in the text document with the labelled targets in annotations ;;
+;;Overall metrics are present at the bottom of the fille                                                    ;;
+;;==========================================================================================================;;
+~~~~~~~~~~~~~Processing file :  1994 ~~~~~~~~~~~~~~~
+False positive :  Mount Sharp
+False positive :  Mount Sharp
+True positive :  Confidence Hills
+True positive :  Pink Cliffs
+True positive :  Book Cliffs
+True positive :  Book Cliffs
+True positive :  Pink Cliffs
+False negative : Confidence Hill
+False negative : Shoemaker
+False negative : Alexander Hills
+False negative : Chinle
+False negative : Alexander Hills
+False negative : Alexander Hills
+False negative : Carnivore Canyon
+False negative : Alexander Hills
+False negative : Carnivore Canyon
+False negative : Chinle
+False negative : Whale Rock
+False negative : Chinle
+False negative : Whale Rock
+False negative : Chinle
+False negative : Whale Rock
+True positives count: 5
+False positives count: 2
+False negatives count: 15
+Precision =  0.714285714286
+Recall =  0.25
+F Score =  0.37037037037
+~~~~~~~~~~~~~Processing file :  2022 ~~~~~~~~~~~~~~~
+False positive :  Mission
+False positive :  Mount Sharp
+True positive :  Redlands
+True positive :  Redlands
+True positive :  Saline Valley
+False positive :  Pearson
+False negative : Saline Valley
+False negative : Desert Range
+True positives count: 3
+False positives count: 3
+False negatives count: 2
+Precision =  0.5
+Recall =  0.6
+F Score =  0.545454545455
+~~~~~~~~~~~~~Processing file :  2093 ~~~~~~~~~~~~~~~
+True positive :  Darwin
+False positive :  Rocknest
+True positive :  Darwin
+False positive :  Rocknest
+False positive :  Book Cliffs
+True positive :  Book Cliffs
+True positive :  Castle Valley
+True positive :  Delta
+True positive :  Ibex Pass
+False positive :  Pink Cliffs
+True positive :  Pink Cliffs
+True positive :  San Rafael Swell
+False positive :  Rocknest
+True positive :  Anderson
+False negative : Book Cliff
+False negative : Pink Cliff
+False negative : Pink Cliff
+False negative : Goblin Valley
+False negative : Saddle Peak
+True positives count: 9
+False positives count: 5
+False negatives count: 5
+Precision =  0.642857142857
+Recall =  0.642857142857
+F Score =  0.642857142857
+~~~~~~~~~~~~~Processing file :  2099 ~~~~~~~~~~~~~~~
+True positive :  Book Cliffs
+True positive :  San Gabriel
+True positive :  Darwin
+True positive :  Book Cliffs
+False positive :  Confidence Hills
+True positive :  Book Cliffs
+True positive :  Vaqueros
+True positive :  Confidence Hills
+False positive :  Confidence Hills
+False positive :  Pink Cliffs
+False positive :  San Gabriel
+True positive :  Confidence Hills
+True positive :  Pink Cliffs
+False negative : Confidence Hills
+False negative : Pink Cliffs
+False negative : Carnivore Canyon
+False negative : Alexander Hill
+False negative : Chinle
+False negative : Whale Rock
+False negative : San Gabriel
+False negative : Carnivore Canyon
+False negative : Alexander Hill
+False negative : Chinle
+False negative : Confidence Hill
+False negative : Pink Cliffs
+False negative : Whale Rock
+False negative : Whale Rock
+False negative : Carnivore Canyon
+False negative : Alexander Hills
+False negative : Orrocopia
+False negative : Whale Rock
+False negative : Pink Cliffs
+False negative : Alexander Hills
+True positives count: 9
+False positives count: 4
+False negatives count: 20
+Precision =  0.692307692308
+Recall =  0.310344827586
+F Score =  0.428571428571
+~~~~~~~~~~~~~Processing file :  2119 ~~~~~~~~~~~~~~~
+True positive :  Anderson
+True positives count: 1
+False positives count: 0
+False negatives count: 0
+Precision =  1.0
+Recall =  1.0
+F Score =  1.0
+~~~~~~~~~~~~~Processing file :  2124 ~~~~~~~~~~~~~~~
+False positive :  Link
+False positive :  Dune Fields
+False positive :  Mount Sharp
+False positive :  Bagnold Dune
+False positive :  Dune Field
+False positive :  Anderson
+True positives count: 0
+False positives count: 6
+False negatives count: 0
+Precision = Undefined
+Recall = Undefined
+F Score = Undefined
+~~~~~~~~~~~~~Processing file :  2132 ~~~~~~~~~~~~~~~
+False negative : Pinnacle
+False negative : Stuart Islands
+True positives count: 0
+False positives count: 0
+False negatives count: 2
+Precision = Undefined
+Recall = Undefined
+F Score = Undefined
+~~~~~~~~~~~~~Processing file :  2201 ~~~~~~~~~~~~~~~
+False positive :  Pebble
+False positive :  Bull
+True positives count: 0
+False positives count: 2
+False negatives count: 0
+Precision = Undefined
+Recall = Undefined
+F Score = Undefined
+~~~~~~~~~~~~~Processing file :  2232 ~~~~~~~~~~~~~~~
+True positives count: 0
+False positives count: 0
+False negatives count: 0
+Precision = Undefined
+Recall = Undefined
+F Score = Undefined
+~~~~~~~~~~~~~Processing file :  2234 ~~~~~~~~~~~~~~~
+True positive :  Sheepbed
+False positive :  Delta
+False positive :  Rocknest
+True positive :  Darwin
+False negative : Gillespie Lake
+True positives count: 2
+False positives count: 2
+False negatives count: 1
+Precision =  0.5
+Recall =  0.666666666667
+F Score =  0.571428571429
+~~~~~~~~~~~~~Processing file :  2284 ~~~~~~~~~~~~~~~
+False positive :  Link
+True positive :  Portage
+False positive :  Clark
+True positives count: 1
+False positives count: 2
+False negatives count: 0
+Precision =  0.333333333333
+Recall =  1.0
+F Score =  0.5
+~~~~~~~~~~~~~Processing file :  2301 ~~~~~~~~~~~~~~~
+False positive :  Cumberland
+False positive :  John Klein
+True positive :  John Klein
+True positive :  Cumberland
+True positive :  John Klein
+False positive :  John Klein
+True positive :  Cumberland
+True positive :  Sheepbed
+True positive :  Sheepbed
+True positive :  John Klein
+True positive :  John Klein
+True positive :  Cumberland
+True positive :  John Klein
+True positive :  Cumberland
+True positive :  John Klein
+True positive :  Cumberland
+True positive :  John Klein
+False positive :  Dump Pile
+False positive :  Dump Pile
+True positive :  Cumberland
+False positive :  Dump Pile
+False positive :  John Klein
+True positive :  John Klein
+False positive :  Dump Pile
+False positive :  John Klein
+True positive :  Cumberland
+False positive :  Dump Pile
+False positive :  Dump Pile
+True positive :  John Klein
+True positive :  Cumberland
+True positive :  Cumberland
+True positive :  Cumberland
+True positive :  Cumberland
+False positive :  Dump Pile
+False positive :  Dump Pile
+False positive :  Dump Pile
+True positive :  John Klein
+False positive :  John Klein
+False positive :  Dump Pile
+False negative : Cumberland
+False negative : John Klein
+False negative : John Klein
+True positives count: 23
+False positives count: 16
+False negatives count: 3
+Precision =  0.589743589744
+Recall =  0.884615384615
+F Score =  0.707692307692
+~~~~~~~~~~~~~Processing file :  2324 ~~~~~~~~~~~~~~~
+False positive :  Bathurst
+True positive :  Bathurst
+False positive :  Bathurst
+False positive :  Doublet
+True positive :  Jake
+True positive :  Jake
+True positive :  Jake
+False positive :  Rocknest
+True positive :  Sheepbed
+False positive :  Dune Field
+False negative : Bathurst Inlet
+False negative : Bathurst Inlet
+False negative : Jake
+False negative : Slide Mountain
+True positives count: 5
+False positives count: 5
+False negatives count: 4
+Precision =  0.5
+Recall =  0.555555555556
+F Score =  0.526315789474
+~~~~~~~~~~~~~Processing file :  2338 ~~~~~~~~~~~~~~~
+True positives count: 0
+False positives count: 0
+False negatives count: 0
+Precision = Undefined
+Recall = Undefined
+F Score = Undefined
+~~~~~~~~~~~~~Processing file :  2339 ~~~~~~~~~~~~~~~
+False positive :  Confidence Hills
+True positive :  Book Cliffs
+True positive :  Confidence Hills
+True positive :  Pink Cliffs
+True positive :  Confidence Hills
+True positive :  Confidence Hills
+False positive :  Confidence Hills
+False positive :  Confidence Hills
+False positive :  Book Cliffs
+False negative : Shoemaker
+False negative : Alexander Hills
+False negative : Chinle
+False negative : Whale Rock
+False negative : Whale Rock
+False negative : Whale Rock
+False negative : Book Cliffs
+True positives count: 5
+False positives count: 4
+False negatives count: 7
+Precision =  0.555555555556
+Recall =  0.416666666667
+F Score =  0.47619047619
+~~~~~~~~~~~~~Processing file :  2399 ~~~~~~~~~~~~~~~
+False positive :  Mission
+True positive :  Confidence Hills
+False negative : Confidence Hills
+False negative : Alexander Hills
+False negative : Chinle
+True positives count: 1
+False positives count: 1
+False negatives count: 3
+Precision =  0.5
+Recall =  0.25
+F Score =  0.333333333333
+~~~~~~~~~~~~~Processing file :  2417 ~~~~~~~~~~~~~~~
+False positive :  Anderson
+True positive :  Bonanza King
+True positive :  Confidence Hills
+True positive :  Cumberland
+True positive :  John Klein
+True positive :  Windjana
+True positive :  Bonanza King
+False positive :  John Klein
+True positive :  John Klein
+True positive :  Sheepbed
+True positive :  Cumberland
+True positive :  Cumberland
+True positive :  Cumberland
+True positive :  John Klein
+False positive :  John Klein
+True positive :  Windjana
+False positive :  Windjana
+True positive :  Confidence Hills
+True positive :  Confidence Hills
+False positive :  Mount Sharp
+True positive :  Confidence Hills
+True positive :  Cumberland
+True positive :  John Klein
+True positive :  Windjana
+True positive :  Bonanza King
+False negative : Cumberland
+False negative : John Klein
+True positives count: 20
+False positives count: 5
+False negatives count: 2
+Precision =  0.8
+Recall =  0.909090909091
+F Score =  0.851063829787
+~~~~~~~~~~~~~Processing file :  2452 ~~~~~~~~~~~~~~~
+True positive :  Becraft
+True positive :  Harrison
+True positive :  La Reine
+True positive :  Pisolet
+True positive :  Sparkle
+False positive :  Jake
+True positive :  Sparkle
+True positive :  Becraft
+True positive :  Mara
+True positive :  Harrison
+True positive :  Harrison
+True positive :  Link
+False negative : Jake-M
+True positives count: 11
+False positives count: 1
+False negatives count: 1
+Precision =  0.916666666667
+Recall =  0.916666666667
+F Score =  0.916666666667
+~~~~~~~~~~~~~Processing file :  2536 ~~~~~~~~~~~~~~~
+False positive :  Flat
+True positives count: 0
+False positives count: 1
+False negatives count: 0
+Precision = Undefined
+Recall = Undefined
+F Score = Undefined
+~~~~~~~~~~~~~Processing file :  2620 ~~~~~~~~~~~~~~~
+True positive :  Windjana
+True positive :  Windjana
+True positive :  Dillinger
+True positive :  Dillinger
+True positive :  Windjana
+True positive :  Windjana
+True positive :  Windjana
+True positive :  Windjana
+True positive :  Windjana
+False positive :  Rocknest
+True positive :  Windjana
+True positive :  Windjana
+True positive :  Windjana
+True positive :  Cumberland
+True positive :  Windjana
+True positive :  Windjana
+True positive :  Windjana
+True positive :  Windjana
+True positive :  Windjana
+True positive :  Windjana
+True positive :  Windjana
+True positive :  Windjana
+True positive :  Windjana
+False positive :  Bull
+True positive :  Portage
+True positive :  Windjana
+False negative : Windjana
+False negative : John_Klein
+True positives count: 24
+False positives count: 2
+False negatives count: 2
+Precision =  0.923076923077
+Recall =  0.923076923077
+F Score =  0.923076923077
+~~~~~~~~~~~~~Processing file :  2715 ~~~~~~~~~~~~~~~
+False positive :  Mission
+False positive :  Delta
+False positive :  Delta
+False positive :  Flat
+False positive :  Flat
+False positive :  Flat
+True positive :  Confidence Hills
+True positive :  Confidence Hills
+True positive :  Pink Cliffs
+True positive :  Sheepbed
+True positive :  Cumberland
+True positive :  Sheepbed
+False negative : Mojave
+True positives count: 6
+False positives count: 6
+False negatives count: 1
+Precision =  0.5
+Recall =  0.857142857143
+F Score =  0.631578947368
+~~~~~~~~~~~~~Processing file :  2720 ~~~~~~~~~~~~~~~
+True positives count: 0
+False positives count: 0
+False negatives count: 0
+Precision = Undefined
+Recall = Undefined
+F Score = Undefined
+~~~~~~~~~~~~~Processing file :  2724 ~~~~~~~~~~~~~~~
+True positives count: 0
+False positives count: 0
+False negatives count: 0
+Precision = Undefined
+Recall = Undefined
+F Score = Undefined
+~~~~~~~~~~~~~Processing file :  2735 ~~~~~~~~~~~~~~~
+False positive :  Confidence Hills
+True positive :  Confidence Hills
+True positive :  Confidence Hills
+True positive :  Confidence Hills
+True positive :  Cumberland
+True positive :  John Klein
+False positive :  Mount Sharp
+False positive :  Rocknest
+True positive :  Windjana
+True positive :  Cumberland
+True positive :  John Klein
+True positive :  John Klein
+True positive :  Cumberland
+True positive :  John Klein
+True positive :  Windjana
+True positive :  Confidence Hills
+True positive :  Cumberland
+True positive :  John Klein
+True positive :  Windjana
+True positive :  Windjana
+False negative : Confidence Hills
+False negative : CH
+False negative : Confidence Hills
+False negative : CH
+False negative : CH
+False negative : CH
+True positives count: 17
+False positives count: 3
+False negatives count: 6
+Precision =  0.85
+Recall =  0.739130434783
+F Score =  0.790697674419
+~~~~~~~~~~~~~Processing file :  2748 ~~~~~~~~~~~~~~~
+False positive :  Flat
+False positive :  Flat
+False positive :  Flat
+True positive :  Stephen
+True positive :  Windjana
+True positive :  Caribou
+False positive :  Flat
+True positive :  Peg
+True positive :  Peg
+True positive :  Redstone
+True positive :  Redstone
+True positive :  Stephen
+True positive :  Stephen
+False positive :  Flat
+False positive :  Flat
+True positive :  Windjana
+False negative : Caribou
+False negative : Redstone
+False negative : Stephen
+False negative : Peg
+False negative : Redstone
+False negative : Stephen
+True positives count: 10
+False positives count: 6
+False negatives count: 6
+Precision =  0.625
+Recall =  0.625
+F Score =  0.625
+~~~~~~~~~~~~~Processing file :  2767 ~~~~~~~~~~~~~~~
+False positive :  Rocknest
+False positive :  Rocknest
+False positive :  Rocknest
+False positive :  Rocknest
+False positive :  Rocknest
+True positive :  Confidence Hills
+False positive :  Rocknest
+True positives count: 1
+False positives count: 6
+False negatives count: 0
+Precision =  0.142857142857
+Recall =  1.0
+F Score =  0.25
+~~~~~~~~~~~~~Processing file :  2773 ~~~~~~~~~~~~~~~
+True positives count: 0
+False positives count: 0
+False negatives count: 0
+Precision = Undefined
+Recall = Undefined
+F Score = Undefined
+~~~~~~~~~~~~~Processing file :  2775 ~~~~~~~~~~~~~~~
+True positives count: 0
+False positives count: 0
+False negatives count: 0
+Precision = Undefined
+Recall = Undefined
+F Score = Undefined
+~~~~~~~~~~~~~Processing file :  2781 ~~~~~~~~~~~~~~~
+False positive :  Mission
+True positives count: 0
+False positives count: 1
+False negatives count: 0
+Precision = Undefined
+Recall = Undefined
+F Score = Undefined
+~~~~~~~~~~~~~Processing file :  2789 ~~~~~~~~~~~~~~~
+False positive :  Dover
+True positive :  Sheepbed
+True positive :  Sheepbed
+True positive :  Darwin
+True positive :  Sheepbed
+True positive :  Sparkle
+True positive :  Chakonipau
+True positive :  Darwin
+False positive :  Flat
+True positive :  Kittery
+False negative : Sandy_Dam
+False negative : CumberlandNew_RP
+False negative : Tukarak
+False negative : Harrison
+False negative : Angmaat
+False negative : Quechee_Gorge
+False negative : Crystal_Spring
+True positives count: 8
+False positives count: 2
+False negatives count: 7
+Precision =  0.8
+Recall =  0.533333333333
+F Score =  0.64
+~~~~~~~~~~~~~Processing file :  2791 ~~~~~~~~~~~~~~~
+False positive :  Mission
+False positive :  Mission
+False positive :  Mission
+False positive :  Delta
+False positive :  Mission
+False positive :  Mission
+False positive :  Mission
+False positive :  Mission
+False positive :  Mission
+False positive :  Mission
+False positive :  Mission
+False positive :  Mission
+False positive :  Mission
+False positive :  Delta
+False positive :  Mission
+False positive :  Rocknest
+False positive :  Mission
+False positive :  Mission
+False positive :  Mission
+False positive :  Mission
+False positive :  Mission
+True positives count: 0
+False positives count: 21
+False negatives count: 0
+Precision = Undefined
+Recall = Undefined
+F Score = Undefined
+~~~~~~~~~~~~~Processing file :  2818 ~~~~~~~~~~~~~~~
+False positive :  Mission
+False positive :  Mission
+False positive :  Mission
+False positive :  Mission
+False positive :  Mission
+False positive :  Anderson
+True positives count: 0
+False positives count: 6
+False negatives count: 0
+Precision = Undefined
+Recall = Undefined
+F Score = Undefined
+~~~~~~~~~~~~~Processing file :  2850 ~~~~~~~~~~~~~~~
+True positive :  Epworth
+False negative : Epworth_5
+False negative : Blackhead_7
+False negative : Epworth_5
+False negative : Blackhead_7
+False negative : Epworth_5
+False negative : Epworth_5
+False negative : Blackhead_7
+False negative : Epworth_5
+False negative : Blackhead_7
+True positives count: 1
+False positives count: 0
+False negatives count: 9
+Precision =  1.0
+Recall =  0.1
+F Score =  0.181818181818
+~~~~~~~~~~~~~Processing file :  2855 ~~~~~~~~~~~~~~~
+True positive :  Book Cliffs
+True positive :  Confidence Hills
+False positive :  Mission
+True positive :  Pink Cliffs
+False positive :  Mission
+True positive :  Confidence Hills
+True positive :  Confidence Hills
+True positive :  Confidence Hills
+True positive :  Mammoth
+True positive :  Maturango
+True positive :  Pink Cliffs
+True positive :  Pink Cliffs
+True positive :  Pink Cliffs
+True positive :  Pink Cliffs
+True positive :  Book Cliffs
+True positive :  Book Cliffs
+True positive :  Book Cliffs
+True positive :  Goblin Valley
+True positive :  Cajon
+True positive :  Mescal
+True positive :  Puente
+False negative : Shoemaker
+False negative : Alexander Hills
+False negative : Chinle
+False negative : Whale Rock
+False negative : Paradox
+False negative : Moenkopi
+False negative : Morrison
+False negative : Shoemaker
+False negative : Shoemaker
+False negative : Pelona
+False negative : Ricardo
+False negative : Ricardo
+False negative : Mojave
+False negative : Mojave
+False negative : Potatoe
+False negative : Rosamead
+False negative : Knob Valley
+False negative : Potatoe
+False negative : Book Cliffs
+False negative : Jail Canyon
+False negative : Dad Mountain
+False negative : Anaverde
+False negative : Punchbowl
+False negative : Afton Canyon
+False negative : Topanga
+False negative : Alexander Hills
+False negative : Alexander Hills
+False negative : Alexander Hills
+False negative : Chinle
+False negative : Chinle
+False negative : Pickhandle
+False negative : Goldstone
+False negative : Coachella
+False negative : Tropico
+False negative : Chinle
+False negative : Whale Rock
+False negative : Whale Rock
+False negative : Whale Rock
+False negative : San Andreas
+True positives count: 19
+False positives count: 2
+False negatives count: 39
+Precision =  0.904761904762
+Recall =  0.327586206897
+F Score =  0.481012658228
+~~~~~~~~~~~~~Processing file :  2892 ~~~~~~~~~~~~~~~
+True positives count: 0
+False positives count: 0
+False negatives count: 0
+Precision = Undefined
+Recall = Undefined
+F Score = Undefined
+~~~~~~~~~~~~~Processing file :  2893 ~~~~~~~~~~~~~~~
+True positive :  Dillinger
+True positive :  Mondooma
+True positive :  Mondooma
+True positive :  Neil
+True positive :  Neil
+True positive :  Stephen
+True positive :  Stephen
+True positive :  Mondooma
+True positive :  Mondooma
+True positive :  Neil
+True positive :  Stephen
+True positive :  Stephen
+True positive :  Windjana
+True positive :  Windjana
+True positive :  Stephen
+True positive :  Stephen
+True positive :  Windjana
+True positive :  Stephen
+False negative : Stephen
+False negative : Stephen
+False negative : Neil
+False negative : Mondooma
+True positives count: 18
+False positives count: 0
+False negatives count: 4
+Precision =  1.0
+Recall =  0.818181818182
+F Score =  0.9
+~~~~~~~~~~~~~Processing file :  2919 ~~~~~~~~~~~~~~~
+True positives count: 0
+False positives count: 0
+False negatives count: 0
+Precision = Undefined
+Recall = Undefined
+F Score = Undefined
+~~~~~~~~~~~~~Processing file :  2940 ~~~~~~~~~~~~~~~
+False positive :  Mission
+False positive :  Link
+False positive :  Link
+False negative : Bell Island
+False negative : Bell Island
+False negative : Bell Island
+False negative : Bell Island
+True positives count: 0
+False positives count: 3
+False negatives count: 4
+Precision = Undefined
+Recall = Undefined
+F Score = Undefined
+~~~~~~~~~~~~~Processing file :  2966 ~~~~~~~~~~~~~~~
+False positive :  Bishop
+True positives count: 0
+False positives count: 1
+False negatives count: 0
+Precision = Undefined
+Recall = Undefined
+F Score = Undefined
+~~~~~~~~~~~~~Processing file :  2990 ~~~~~~~~~~~~~~~
+True positive :  Harrison
+True positives count: 1
+False positives count: 0
+False negatives count: 0
+Precision =  1.0
+Recall =  1.0
+F Score =  1.0
+~~~~~~~~~~~~~Processing file :  3012 ~~~~~~~~~~~~~~~
+True positives count: 0
+False positives count: 0
+False negatives count: 0
+Precision = Undefined
+Recall = Undefined
+F Score = Undefined
+~~~~~~~~~~~~~Processing file :  3021 ~~~~~~~~~~~~~~~
+False positive :  Mission
+False positive :  Mission
+True positives count: 0
+False positives count: 2
+False negatives count: 0
+Precision = Undefined
+Recall = Undefined
+F Score = Undefined
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+				    OVERALL METRICS 				
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+True positives : 200
+False positives : 120
+False negatives : 143
+Total Precision =  0.625
+Total Recall =  0.583090379009
+F Score =  0.603318250377
