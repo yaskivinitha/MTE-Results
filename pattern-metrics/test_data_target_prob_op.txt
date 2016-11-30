@@ -1,0 +1,90 @@
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Number of caseframes applied = 367
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Pattern -  ActVp_Prep_<NP>:POS__POINTS_ON  || Hits is -  4  || Accuracy is -  0.571428571429
+Matched target names are : ['Bathurst', 'Jake', 'Jake', 'Bathurst']
+Extraction :  each image  || length is -  10 || File :  1433.cases
+Extraction :  these veins all  || length is -  15 || File :  1524.cases
+Extraction :  Bathurst Inlet and Jake M. rocks  || length is -  32 || File :  2324.cases
+Extraction :  Jake  || length is -  4 || File :  2324.cases
+Extraction :  Bathurst Inlet  || length is -  14 || File :  2324.cases
+Extraction :  the peaks  || length is -  9 || File :  2775.cases
+Extraction :  the baseline  || length is -  12 || File :  2775.cases
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Pattern -  Np_Prep_<NP>:POS__STUDY_TO  || Hits is -  1  || Accuracy is -  0.333333333333
+Matched target names are : ['target']
+Extraction :  mixed-layer clays  || length is -  17 || File :  1989.cases
+Extraction :  smectites  || length is -  9 || File :  1989.cases
+Extraction :  the blind target data  || length is -  21 || File :  2022.cases
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Pattern -  Np_Prep_<NP>:POS__ROCKS_OF  || Hits is -  1  || Accuracy is -  0.2
+Matched target names are : ['member']
+Extraction :  the Cooperstown and Kimberley formations  || length is -  40 || File :  1438.cases
+Extraction :  group &&3  || length is -  9 || File :  1943.cases
+Extraction :  group &&5  || length is -  9 || File :  1943.cases
+Extraction :  group &&3  || length is -  9 || File :  2452.cases
+Extraction :  the same member  || length is -  15 || File :  2893.cases
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Pattern -  ActVp_Prep_<NP>:POS__RATIOED_TO  || Hits is -  1  || Accuracy is -  0.5
+Matched target names are : ['Rocknest']
+Extraction :  Rocknest values Fig &&3  || length is -  23 || File :  1682.cases
+Extraction :  that of USZ1494  || length is -  15 || File :  2850.cases
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Pattern -  Np_Prep_<NP>:POS__LOCATIONS_ON  || Hits is -  2  || Accuracy is -  0.142857142857
+Matched target names are : ['Stovepipe_Wells', 'target']
+Extraction :  Perdido2  || length is -  8 || File :  1433.cases
+Extraction :  Stovepipe_Wells  || length is -  15 || File :  1433.cases
+Extraction :  each target  || length is -  11 || File :  1514.cases
+Extraction :  HiRISE color mosaic  || length is -  19 || File :  2124.cases
+Extraction :  the grid  || length is -  8 || File :  2232.cases
+Extraction :  the matrix  || length is -  10 || File :  2232.cases
+Extraction :  &&2 basaltic clasts  || length is -  19 || File :  2232.cases
+Extraction :  each clast  || length is -  10 || File :  2232.cases
+Extraction :  the Mg element map  || length is -  18 || File :  2232.cases
+Extraction :  each pellet  || length is -  11 || File :  2338.cases
+Extraction :  the sample surface  || length is -  18 || File :  2724.cases
+Extraction :  rock  || length is -  4 || File :  2940.cases
+Extraction :  eachlocation  || length is -  12 || File :  3012.cases
+Extraction :  the island of Suduroy  || length is -  21 || File :  3021.cases
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Pattern -  Np_Prep_<NP>:POS__POINTS_ON  || Hits is -  2  || Accuracy is -  0.4
+Matched target names are : ['targets', 'target']
+Extraction :  a given rock  || length is -  12 || File :  1943.cases
+Extraction :  finegrained homogenous targets  || length is -  30 || File :  1943.cases
+Extraction :  a given rock target >COMMA AS_WELL_AS chemical variation  || length is -  56 || File :  2452.cases
+Extraction :  the baseline  || length is -  12 || File :  2775.cases
+Extraction :  calcium sulfate veins  || length is -  21 || File :  2966.cases
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Pattern -  Np_Prep_<NP>:POS__IMPACT_INTO  || Hits is -  1  || Accuracy is -  1.0
+Matched target names are : ['target']
+Extraction :  a target  || length is -  8 || File :  2892.cases
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Pattern -  Np_Prep_<NP>:POS__SOLS_OF  || Hits is -  1  || Accuracy is -  1.0
+Matched target names are : ['Mission']
+Extraction :  the mission  || length is -  11 || File :  2940.cases
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Pattern -  ActVp_Prep_<NP>:POS__ACQUIRED_ON  || Hits is -  1  || Accuracy is -  0.0833333333333
+Matched target names are : ['target']
+Extraction :  the flight model  || length is -  16 || File :  1510.cases
+Extraction :  an analog instrument  || length is -  20 || File :  1510.cases
+Extraction :  Mars  || length is -  4 || File :  1510.cases
+Extraction :  Mars  || length is -  4 || File :  1510.cases
+Extraction :  the shergottite calibration target  || length is -  34 || File :  1510.cases
+Extraction :  Mars  || length is -  4 || File :  1510.cases
+Extraction :  sol &&467  || length is -  9 || File :  2124.cases
+Extraction :  the surface  || length is -  11 || File :  2399.cases
+Extraction :  Sol &&626  || length is -  9 || File :  2748.cases
+Extraction :  Sol &&399  || length is -  9 || File :  2919.cases
+Extraction :  gypsum  || length is -  6 || File :  2966.cases
+Extraction :  Mars Science Laboratory  || length is -  23 || File :  2990.cases
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Pattern -  ActVp_Prep_<NP>:POS__KNOWN_AS  || Hits is -  1  || Accuracy is -  0.5
+Matched target names are : ['Bonanza_King']
+Extraction :  BONANZA_KING  || length is -  12 || File :  2417.cases
+Extraction :  Bayesian model averaging  || length is -  24 || File :  2940.cases
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Pattern -  Np_Prep_<NP>:POS__STRATIGRAPHY_IN  || Hits is -  1  || Accuracy is -  1.0
+Matched target names are : ['Mount_Sharp']
+Extraction :  a canyon of western MOUNT_SHARP  || length is -  31 || File :  1634.cases
+Total patterns evaluated =  94
+Count of patterns with valid extractions = 11

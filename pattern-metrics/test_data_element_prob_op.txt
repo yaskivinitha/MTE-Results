@@ -1,0 +1,820 @@
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Number of caseframes applied = 1599
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Pattern -  Np_Prep_<NP>:POS__CRYSTALS_OF  || Hits is -  1  || Accuracy is -  1.0
+Matched target names are : ['As']
+Extraction :  an as-yetundetermined evaporite mineral || File :  2399.cases
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Pattern -  ActVp_<dobj>:POS__FEATURES  || Hits is -  1  || Accuracy is -  0.5
+Matched target names are : ['S']
+Extraction :  s mineralogy || File :  1524.cases
+Extraction :  Curiosity || File :  1682.cases
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Pattern -  Np_Prep_<NP>:POS__OXIDATION_OF  || Hits is -  1  || Accuracy is -  0.5
+Matched target names are : ['Manganese']
+Extraction :  the minerals || File :  2201.cases
+Extraction :  MANGANESE || File :  2893.cases
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Pattern -  Np_Prep_<NP>:POS__SIGNATURES_IN  || Hits is -  2  || Accuracy is -  1.0
+Matched target names are : ['Mt']
+Extraction :  lower Mt || File :  2339.cases
+Extraction :  lower Mt || File :  2339.cases
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Pattern -  ActVp_Prep_<NP>:POS__EXHIBIT_WITH  || Hits is -  1  || Accuracy is -  1.0
+Matched target names are : ['Iron']
+Extraction :  presence of ferric sulfates and iron oxides || File :  1433.cases
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Pattern -  Np_Prep_<NP>:POS__STANDARDS_FOR  || Hits is -  1  || Accuracy is -  0.333333333333
+Matched target names are : ['Ni']
+Extraction :  analyses || File :  1510.cases
+Extraction :  USE || File :  2338.cases
+Extraction :  Ni || File :  2720.cases
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Pattern -  ActVp_Prep_<NP>:POS__FALL_INTO  || Hits is -  1  || Accuracy is -  0.5
+Matched target names are : ['Ti']
+Extraction :  &&2 clusters of TI values || File :  2124.cases
+Extraction :  &&3 general categories || File :  2775.cases
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Pattern -  Np_Prep_<NP>:POS__DATABASE_FOR  || Hits is -  1  || Accuracy is -  0.5
+Matched target names are : ['Zn']
+Extraction :  Zn quantification || File :  1413.cases
+Extraction :  analysis of minor || File :  2338.cases
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Pattern -  ActVp_<dobj>:NEG__CONTAIN  || Hits is -  2  || Accuracy is -  1.0
+Matched target names are : ['Na', 'Ca']
+Extraction :  either Ca or Na || File :  1514.cases
+Extraction :  abundant Ca || File :  2893.cases
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Pattern -  ActVp_Prep_<NP>:POS__LEFT_BY  || Hits is -  1  || Accuracy is -  1.0
+Matched target names are : ['Ga']
+Extraction :  a bubble of gas or volatile-rich material || File :  1249.cases
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Pattern -  ActVp_<dobj>:NEG__EXPLAIN  || Hits is -  1  || Accuracy is -  1.0
+Matched target names are : ['Ca']
+Extraction :  the enhanced Ca signal || File :  2022.cases
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Pattern -  <subj>_ActVp:POS__SPACE  || Hits is -  1  || Accuracy is -  0.0196078431373
+Matched target names are : ['Al', 'S']
+Extraction :  &&6 || File :  1373.cases
+Extraction :  &&2009 || File :  1373.cases
+Extraction :  the French || File :  1413.cases
+Extraction :  &&2012 || File :  1413.cases
+Extraction :  &&2012 || File :  1413.cases
+Extraction :  &&2 || File :  1433.cases
+Extraction :  Maurice >COMMA S. >COMMA et al || File :  1433.cases
+Extraction :  &&2012 || File :  1438.cases
+Extraction :  &&3 || File :  1438.cases
+Extraction :  &&2012 || File :  1510.cases
+Extraction :  &&2012 || File :  1514.cases
+Extraction :  References || File :  1524.cases
+Extraction :  &&2 || File :  1524.cases
+Extraction :  &&2012 || File :  1566.cases
+Extraction :  &&2012 || File :  1566.cases
+Extraction :  &&2012 || File :  1634.cases
+Extraction :  &&2012 || File :  1634.cases
+Extraction :  &&2001 || File :  1875.cases
+Extraction :  &&3 || File :  2022.cases
+Extraction :  References || File :  2022.cases
+Extraction :  &&2 || File :  2022.cases
+Extraction :  &&2012 || File :  2119.cases
+Extraction :  &&2012 || File :  2119.cases
+Extraction :  References || File :  2232.cases
+Extraction :  &&2012 || File :  2234.cases
+Extraction :  &&2012 || File :  2301.cases
+Extraction :  &&2012 || File :  2324.cases
+Extraction :  &&2012 || File :  2324.cases
+Extraction :  &&2012 || File :  2338.cases
+Extraction :  &&2012 || File :  2338.cases
+Extraction :  REFERENCES || File :  2417.cases
+Extraction :  &&2012 || File :  2452.cases
+Extraction :  &&2012 || File :  2452.cases
+Extraction :  &&2012 || File :  2620.cases
+Extraction :  &&2012 || File :  2720.cases
+Extraction :  &&2012 || File :  2767.cases
+Extraction :  &&2012 || File :  2767.cases
+Extraction :  &&2012 || File :  2773.cases
+Extraction :  &&2012 || File :  2775.cases
+Extraction :  &&2012 || File :  2775.cases
+Extraction :  &&2012 || File :  2789.cases
+Extraction :  &&2012 || File :  2789.cases
+Extraction :  &&3 || File :  2791.cases
+Extraction :  &&2012 || File :  2850.cases
+Extraction :  &&2012 || File :  2850.cases
+Extraction :  &&2012 || File :  2855.cases
+Extraction :  &&2012 || File :  2940.cases
+Extraction :  &&5 || File :  2966.cases
+Extraction :  &&6 || File :  2966.cases
+Extraction :  &&2012 || File :  2990.cases
+Extraction :  &&2012 || File :  2990.cases
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Pattern -  ActVp_<dobj>:POS__DETECTED  || Hits is -  2  || Accuracy is -  0.4
+Matched target names are : ['Manganese', 'Calcium']
+Extraction :  a type of cluster-like || File :  1524.cases
+Extraction :  plagioclase || File :  2301.cases
+Extraction :  the shift || File :  2417.cases
+Extraction :  manganese || File :  2748.cases
+Extraction :  calcium sulfates || File :  2966.cases
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Pattern -  Np_Prep_<NP>:POS__DISTANCES_OF  || Hits is -  1  || Accuracy is -  0.333333333333
+Matched target names are : ['Cm']
+Extraction :  well || File :  2789.cases
+Extraction :  &&2.1 cm || File :  2855.cases
+Extraction :  several &&100 m. || File :  2990.cases
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Pattern -  infinitive_verb_<dobj>:POS__DEFINE  || Hits is -  1  || Accuracy is -  0.25
+Matched target names are : ['Zn']
+Extraction :  the best Zn lines || File :  1413.cases
+Extraction :  the distribution and texture of mineralized veins >COMMA and data || File :  1903.cases
+Extraction :  the SuperCam transmission spectrometer || File :  2781.cases
+Extraction :  a new group or a subdivision || File :  2789.cases
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Pattern -  <subj>_ActVp:POS__COUNTS  || Hits is -  1  || Accuracy is -  1.0
+Matched target names are : ['Y']
+Extraction :  The y-axis || File :  2536.cases
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Pattern -  <subj>_ActVp:POS__CONCENTRATED  || Hits is -  1  || Accuracy is -  0.25
+Matched target names are : ['Ni']
+Extraction :  the observed Ni concentrations || File :  1875.cases
+Extraction :  Pahrump || File :  2093.cases
+Extraction :  Observations || File :  2234.cases
+Extraction :  elements || File :  2234.cases
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Pattern -  Np_Prep_<NP>:POS__MODELS_WITH  || Hits is -  1  || Accuracy is -  0.25
+Matched target names are : ['Ga']
+Extraction :  sand compositions || File :  1634.cases
+Extraction :  gas absorption || File :  1736.cases
+Extraction :  mm-scale error levels || File :  2399.cases
+Extraction :  DEPTH || File :  2940.cases
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Pattern -  <subj>_ActVp:POS__MATCHES  || Hits is -  1  || Accuracy is -  0.333333333333
+Matched target names are : ['K']
+Extraction :  the LIBS lab || File :  1510.cases
+Extraction :  K || File :  1989.cases
+Extraction :  STR || File :  2132.cases
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Pattern -  <subj>_ActVp:POS__CORRELATES  || Hits is -  1  || Accuracy is -  1.0
+Matched target names are : ['Mn']
+Extraction :  increasing Mn-abundance || File :  2748.cases
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Pattern -  ActVp_Prep_<NP>:POS__OBSERVED_AT  || Hits is -  1  || Accuracy is -  0.142857142857
+Matched target names are : ['K']
+Extraction :  &&295-298 K || File :  1505.cases
+Extraction :  temperatures || File :  1505.cases
+Extraction :  Meridiani Planum || File :  1505.cases
+Extraction :  the Pahrump locality || File :  1903.cases
+Extraction :  this outcrop || File :  1994.cases
+Extraction :  the Whale || File :  1994.cases
+Extraction :  Gale || File :  2093.cases
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Pattern -  ActVp_<dobj>:POS__EVOLVED  || Hits is -  1  || Accuracy is -  1.0
+Matched target names are : ['Ga']
+Extraction :  gas analyses of each || File :  2715.cases
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Pattern -  ActVp_Prep_<NP>:POS__LOCATED_AT  || Hits is -  1  || Accuracy is -  0.333333333333
+Matched target names are : ['Mt']
+Extraction :  a distal portion of the alluvial fan || File :  1943.cases
+Extraction :  the end of a long channel || File :  2124.cases
+Extraction :  the base of Mt || File :  2735.cases
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Pattern -  Np_Prep_<NP>:POS__INTENSITIES_OF  || Hits is -  2  || Accuracy is -  0.666666666667
+Matched target names are : ['Ni', 'P']
+Extraction :  these lines || File :  2099.cases
+Extraction :  &&5 Ni lines || File :  2720.cases
+Extraction :  their P || File :  2850.cases
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Pattern -  Np_Prep_<NP>:POS__NI_FOR  || Hits is -  3  || Accuracy is -  0.75
+Matched target names are : ['Mn', 'Cr', 'S']
+Extraction :  Mn || File :  2338.cases
+Extraction :  Cr >COMMA and &&10.36 eV || File :  2338.cases
+Extraction :  S. || File :  2338.cases
+Extraction :  each matrix || File :  2720.cases
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Pattern -  PassVp_Prep_<NP>:POS__ENRICHED_IN  || Hits is -  13  || Accuracy is -  0.866666666667
+Matched target names are : ['Al', 'S', 'Fe', 'Ni', 'Zn', 'Magnesium', 'K', 'Mg', 'Li', 'Cr', 'Ca']
+Extraction :  Fe >COMMA Al >COMMA and S || File :  1769.cases
+Extraction :  meteorites || File :  1875.cases
+Extraction :  MgSO4 >COMMA Ni >COMMA and Zn || File :  1901.cases
+Extraction :  magnesium || File :  1903.cases
+Extraction :  K || File :  1989.cases
+Extraction :  Mg || File :  2099.cases
+Extraction :  Al || File :  2099.cases
+Extraction :  Li and Cr || File :  2099.cases
+Extraction :  Li || File :  2099.cases
+Extraction :  Al || File :  2099.cases
+Extraction :  Fe || File :  2339.cases
+Extraction :  Ca and S relative || File :  2399.cases
+Extraction :  alkali feldspars || File :  2452.cases
+Extraction :  Fe || File :  2767.cases
+Extraction :  K || File :  2789.cases
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Pattern -  ActVp_Prep_<NP>:POS__ROCKS_WITH  || Hits is -  2  || Accuracy is -  0.25
+Matched target names are : ['No', 'N']
+Extraction :  low silica contents || File :  1736.cases
+Extraction :  pre || File :  2022.cases
+Extraction :  the same sediment source region || File :  2234.cases
+Extraction :  no visible grains || File :  2452.cases
+Extraction :  compositions || File :  2536.cases
+Extraction :  compositions || File :  2536.cases
+Extraction :  lower n. Figure &&3 || File :  2536.cases
+Extraction :  diagenetic features || File :  2715.cases
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Pattern -  ActVp_<dobj>:POS__YIELDING  || Hits is -  1  || Accuracy is -  0.333333333333
+Matched target names are : ['K']
+Extraction :  short jarosite lifetimes || File :  1505.cases
+Extraction :  undecipherable individual phase compositions || File :  1514.cases
+Extraction :  K-feldspar filling voids || File :  2620.cases
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Pattern -  Np_Prep_<NP>:POS__CONTRIBUTION_OF  || Hits is -  1  || Accuracy is -  0.2
+Matched target names are : ['Mn']
+Extraction :  a potassic source rock || File :  1438.cases
+Extraction :  meteoritic material || File :  1875.cases
+Extraction :  larger impactors || File :  1875.cases
+Extraction :  the continuum || File :  2536.cases
+Extraction :  Mn-bearing phases || File :  2748.cases
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Pattern -  ActVp_<dobj>:POS__SHOWING  || Hits is -  2  || Accuracy is -  0.111111111111
+Matched target names are : ['Cl', 'Sr', 'Iron']
+Extraction :  unique nature of Pahrump Hills || File :  1433.cases
+Extraction :  locations of &&5 passive spectra || File :  1433.cases
+Extraction :  locations of passive spectra || File :  1433.cases
+Extraction :  the geological units of the region and the location || File :  1438.cases
+Extraction :  a nearly pure anorthitic feldspar || File :  1514.cases
+Extraction :  the difference || File :  1682.cases
+Extraction :  distribution of diagenetic crystal clusters and dendrites || File :  1901.cases
+Extraction :  the characteritics feature of the CaF molecular emission || File :  1989.cases
+Extraction :  the correlation || File :  2099.cases
+Extraction :  the correlation || File :  2099.cases
+Extraction :  prominent undercutting || File :  2324.cases
+Extraction :  a clear distinction || File :  2452.cases
+Extraction :  the high-Mn || File :  2748.cases
+Extraction :  more Cl and Sr || File :  2767.cases
+Extraction :  a strong anticorrelation || File :  2789.cases
+Extraction :  a dark material || File :  2893.cases
+Extraction :  the expected products || File :  2990.cases
+Extraction :  the predominance of iron || File :  3021.cases
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Pattern -  ActVp_Prep_<NP>:POS__INDICATE_IN  || Hits is -  1  || Accuracy is -  1.0
+Matched target names are : ['Zn']
+Extraction :  Zn || File :  1413.cases
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Pattern -  ActVp_<dobj>:NEG__AFFECT  || Hits is -  1  || Accuracy is -  0.5
+Matched target names are : ['S']
+Extraction :  extent of jarosite alteration || File :  1505.cases
+Extraction :  Curiosity s ability || File :  1682.cases
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Pattern -  PassVp_Prep_<NP>:NEG__CORRELATED_WITH  || Hits is -  1  || Accuracy is -  0.5
+Matched target names are : ['Fe']
+Extraction :  Fe || File :  2099.cases
+Extraction :  elemental abundance || File :  2720.cases
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Pattern -  <subj>_AuxVp_Adjp:POS__BE_LOW  || Hits is -  1  || Accuracy is -  0.333333333333
+Matched target names are : ['Na', 'Ca']
+Extraction :  reptation fluxes || File :  1634.cases
+Extraction :  Ca and Na || File :  1989.cases
+Extraction :  apparent porosities of sandstones || File :  2234.cases
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Pattern -  ActVp_Prep_<NP>:POS__NORMALIZED_TO  || Hits is -  1  || Accuracy is -  0.25
+Matched target names are : ['Carbon']
+Extraction :  Sheepbed || File :  1438.cases
+Extraction :  APXS || File :  2284.cases
+Extraction :  spectrometer intensity || File :  2720.cases
+Extraction :  carbon || File :  2966.cases
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Pattern -  Np_Prep_<NP>:POS__DISCOVERY_OF  || Hits is -  2  || Accuracy is -  0.666666666667
+Matched target names are : ['Iron', 'Mn']
+Extraction :  possible new rock types || File :  1566.cases
+Extraction :  iron-rich sediments || File :  2892.cases
+Extraction :  Mn-oxides || File :  2893.cases
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Pattern -  Np_Prep_<NP>:POS__CONCENTRATIONS_OF  || Hits is -  2  || Accuracy is -  0.4
+Matched target names are : ['Mn', 'Ni']
+Extraction :  Mn || File :  2132.cases
+Extraction :  &&43,000-49,000 >COMMA &&7700-9995 >COMMA &&3700-5400 >COMMA &&750-2200 >COMMA &&285-1780 >COMMA &&141-1566 >COMMA &&58-1454 >COMMA &&36-1416 >COMMA and &&8-1400 ppm Ni || File :  2720.cases
+Extraction :  &&5 >COMMA &&10 >COMMA &&30 >COMMA &&50 >COMMA &&70 >COMMA and &&100 wt >PERCENT salt || File :  2724.cases
+Extraction :  chloride salt || File :  2724.cases
+Extraction :  martian atmospheric O2 || File :  2893.cases
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Pattern -  Np_Prep_<NP>:POS__ENRICHMENT_IN  || Hits is -  11  || Accuracy is -  0.647058823529
+Matched target names are : ['Zn', 'K', 'Mg', 'S', 'Nickel', 'Ni', 'Si', 'Ca', 'H', 'Cl']
+Extraction :  Zn || File :  1413.cases
+Extraction :  Yarrada || File :  1413.cases
+Extraction :  Kimberley || File :  1413.cases
+Extraction :  K. || File :  1438.cases
+Extraction :  K. References || File :  1438.cases
+Extraction :  olivine || File :  1634.cases
+Extraction :  barchan dunes || File :  1634.cases
+Extraction :  precipitates || File :  1769.cases
+Extraction :  Mg and S || File :  1901.cases
+Extraction :  both nickel || File :  1901.cases
+Extraction :  Ni || File :  1901.cases
+Extraction :  Ca and Si || File :  2452.cases
+Extraction :  K || File :  2620.cases
+Extraction :  Ca || File :  2767.cases
+Extraction :  CaCl2 || File :  2767.cases
+Extraction :  Cl and H || File :  2767.cases
+Extraction :  Mg || File :  2789.cases
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Pattern -  <subj>_ActVp:POS__WATERSHED  || Hits is -  1  || Accuracy is -  1.0
+Matched target names are : ['K']
+Extraction :  this K-rich source || File :  1438.cases
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Pattern -  Np_Prep_<NP>:POS__LINES_OF  || Hits is -  1  || Accuracy is -  0.333333333333
+Matched target names are : ['C', 'S', 'Cl']
+Extraction :  major elements || File :  1413.cases
+Extraction :  the standard || File :  1413.cases
+Extraction :  C >COMMA S >COMMA and Cl || File :  2724.cases
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Pattern -  ActVp_Prep_<NP>:POS__SHOWS_BETWEEN  || Hits is -  1  || Accuracy is -  0.333333333333
+Matched target names are : ['Mn']
+Extraction :  spectral slope and Mn-content || File :  2748.cases
+Extraction :  the Mars and the lab spectra || File :  2773.cases
+Extraction :  the RAL spectra || File :  3012.cases
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Pattern -  Np_Prep_<NP>:POS__ABUNDANCES_OF  || Hits is -  5  || Accuracy is -  0.416666666667
+Matched target names are : ['K', 'Iron', 'Mn', 'Ti', 'Fe']
+Extraction :  selected materials || File :  1875.cases
+Extraction :  major elements and some || File :  2119.cases
+Extraction :  neutral and ionized species || File :  2338.cases
+Extraction :  K_FELDSPAR || File :  2620.cases
+Extraction :  K2O and FeO || File :  2620.cases
+Extraction :  K-feldspar and iron oxides || File :  2620.cases
+Extraction :  K2O || File :  2620.cases
+Extraction :  K-feldspar and K2O || File :  2620.cases
+Extraction :  K-feldspar and K2O || File :  2620.cases
+Extraction :  Mn || File :  2748.cases
+Extraction :  Fe and Ti || File :  2789.cases
+Extraction :  &&5.2 wt >PERCENT || File :  2893.cases
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Pattern -  ActVp_Prep_<NP>:POS__MEASURED_WITH  || Hits is -  1  || Accuracy is -  0.333333333333
+Matched target names are : ['No']
+Extraction :  ChemCam || File :  2022.cases
+Extraction :  ChemCam || File :  2022.cases
+Extraction :  no LIBS || File :  2119.cases
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Pattern -  ActVp_Prep_<NP>:POS__DEPLETED_IN  || Hits is -  3  || Accuracy is -  0.75
+Matched target names are : ['Fe', 'Si']
+Extraction :  MgO || File :  2093.cases
+Extraction :  Fe || File :  2099.cases
+Extraction :  Fe || File :  2099.cases
+Extraction :  Si || File :  2339.cases
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Pattern -  Np_Prep_<NP>:POS__REFLECTANCE_OF  || Hits is -  1  || Accuracy is -  0.5
+Matched target names are : ['P']
+Extraction :  all tailings || File :  1433.cases
+Extraction :  the p-polarized ablation beam || File :  2536.cases
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Pattern -  <subj>_ActVp:NEG__CONTAIN  || Hits is -  1  || Accuracy is -  0.5
+Matched target names are : ['Mn']
+Extraction :  the other phase || File :  1514.cases
+Extraction :  the high Mn phase || File :  2893.cases
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Pattern -  ActVp_Prep_<NP>:POS__LOWER_IN  || Hits is -  1  || Accuracy is -  0.5
+Matched target names are : ['Ca']
+Extraction :  the DUMP_PILE || File :  2301.cases
+Extraction :  both Ca and missing component || File :  2301.cases
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Pattern -  Np_Prep_<NP>:POS__INTERFERENCE_FROM  || Hits is -  1  || Accuracy is -  0.333333333333
+Matched target names are : ['Fe']
+Extraction :  short-lived fluorescence backgrounds || File :  1736.cases
+Extraction :  other element lines || File :  2850.cases
+Extraction :  Fe emissions || File :  2850.cases
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Pattern -  <subj>_ActVp:NEG__APPEAR  || Hits is -  1  || Accuracy is -  0.333333333333
+Matched target names are : ['Magnesium']
+Extraction :  magnesium || File :  1524.cases
+Extraction :  more erosionally reisitant || File :  1901.cases
+Extraction :  veins || File :  1903.cases
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Pattern -  <subj>_PassVp:NEG__CORRELATED  || Hits is -  1  || Accuracy is -  0.25
+Matched target names are : ['Li', 'Cr']
+Extraction :  >PERCENT distribution of Figure &&1 || File :  1373.cases
+Extraction :  >PERCENT values || File :  1373.cases
+Extraction :  Li and Cr || File :  2099.cases
+Extraction :  permute || File :  2720.cases
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Pattern -  ActVp_Prep_<NP>:POS__LEAD_IN  || Hits is -  1  || Accuracy is -  0.5
+Matched target names are : ['Oxygen']
+Extraction :  the presence of low oxygen fugacity and hematite || File :  1769.cases
+Extraction :  this region of Mars || File :  2284.cases
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Pattern -  ActVp_<dobj>:POS__ILLUSTRATES  || Hits is -  3  || Accuracy is -  0.75
+Matched target names are : ['Si', 'Mg', 'P']
+Extraction :  the Si line ratio || File :  1369.cases
+Extraction :  the Mg &&448 nm line variation || File :  1369.cases
+Extraction :  the calibration || File :  1369.cases
+Extraction :  a variety of P emission bands and interference || File :  2850.cases
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Pattern -  Np_Prep_<NP>:POS__MIXING_WITH  || Hits is -  1  || Accuracy is -  0.5
+Matched target names are : ['Iron']
+Extraction :  surface materials || File :  1875.cases
+Extraction :  iron oxides || File :  2789.cases
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Pattern -  Np_Prep_<NP>:POS__TREND_TO  || Hits is -  1  || Accuracy is -  1.0
+Matched target names are : ['Ca']
+Extraction :  &&6 Ca-sulfate || File :  2301.cases
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Pattern -  ActVp_Prep_<NP>:POS__COMBINES_WITH  || Hits is -  1  || Accuracy is -  0.5
+Matched target names are : ['Calcium']
+Extraction :  calcium || File :  1505.cases
+Extraction :  a Remote Micro-Imager || File :  2022.cases
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Pattern -  ActVp_<dobj>:POS__LIKE  || Hits is -  1  || Accuracy is -  0.0909090909091
+Matched target names are : ['Mg', 'Ca']
+Extraction :  those || File :  1514.cases
+Extraction :  smectites || File :  1524.cases
+Extraction :  felsic clasts || File :  1943.cases
+Extraction :  the Ca-sulphate veins and the Mg-rich dendritic concretions || File :  2099.cases
+Extraction :  Casulfates || File :  2301.cases
+Extraction :  the Curiosity traverse || File :  2324.cases
+Extraction :  this || File :  2620.cases
+Extraction :  alkali feldspar || File :  2789.cases
+Extraction :  all missions || File :  2791.cases
+Extraction :  low-density supersonic deceleration || File :  2791.cases
+Extraction :  the XRD || File :  3021.cases
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Pattern -  ActVp_<dobj>:POS__APPROACHED  || Hits is -  1  || Accuracy is -  0.333333333333
+Matched target names are : ['Mt']
+Extraction :  Mt || File :  1682.cases
+Extraction :  normal || File :  2536.cases
+Extraction :  the site || File :  2855.cases
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Pattern -  <subj>_ActVp:POS__GROUP  || Hits is -  2  || Accuracy is -  0.0625
+Matched target names are : ['Si', 'Ca']
+Extraction :  Porphyritic rocks || File :  1943.cases
+Extraction :  Light-toned coarse granular rocks || File :  1943.cases
+Extraction :  Aphyric leucocratic rocks || File :  1943.cases
+Extraction :  Porphyritic targets || File :  1943.cases
+Extraction :  glassy rocks || File :  1943.cases
+Extraction :  a given ICA Si score || File :  1943.cases
+Extraction :  Light-toned rocks || File :  1943.cases
+Extraction :  Becraft || File :  1943.cases
+Extraction :  Harrison || File :  1943.cases
+Extraction :  effusive rocks || File :  1943.cases
+Extraction :  blue and light green dots corresponding || File :  1943.cases
+Extraction :  &&1 || File :  1943.cases
+Extraction :  &&1 || File :  2452.cases
+Extraction :  &&2 || File :  2452.cases
+Extraction :  &&3 || File :  2452.cases
+Extraction :  &&4 || File :  2452.cases
+Extraction :  intrusive rocks || File :  2452.cases
+Extraction :  Becraft || File :  2452.cases
+Extraction :  Porphyritic effusive targets || File :  2452.cases
+Extraction :  intrusives || File :  2452.cases
+Extraction :  Just one rock || File :  2452.cases
+Extraction :  Ca and Si || File :  2452.cases
+Extraction :  &&2 || File :  2452.cases
+Extraction :  plagioclase || File :  2452.cases
+Extraction :  the intrusive rocks || File :  2452.cases
+Extraction :  aphanitic textures || File :  2452.cases
+Extraction :  the trachyandesite field || File :  2452.cases
+Extraction :  &&2 || File :  2452.cases
+Extraction :  we || File :  2452.cases
+Extraction :  basalt/basanite || File :  2452.cases
+Extraction :  &&4 || File :  2452.cases
+Extraction :  the definition of that || File :  2789.cases
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Pattern -  ActVp_<dobj>:POS__YIELDED  || Hits is -  1  || Accuracy is -  0.5
+Matched target names are : ['Ni']
+Extraction :  RMSE values of &&2175 and &&605 ppm Ni || File :  2720.cases
+Extraction :  a zero bias || File :  2773.cases
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Pattern -  ActVp_<dobj>:POS__CONTAINS  || Hits is -  2  || Accuracy is -  0.125
+Matched target names are : ['Na', 'Ca', 'Ti']
+Extraction :  Na and Ca || File :  1514.cases
+Extraction :  &&27 >PERCENT goethite >COMMA &&44 >PERCENT serpentine >COMMA and &&22 >PERCENT clay || File :  1769.cases
+Extraction :  high Ti || File :  2099.cases
+Extraction :  more clays || File :  2099.cases
+Extraction :  several science camera systems || File :  2201.cases
+Extraction :  significant proportions of phyllosilicates and amorphous material || File :  2620.cases
+Extraction :  abundant magnetite >COMMA and minor hematite || File :  2620.cases
+Extraction :  &&40 samples || File :  2720.cases
+Extraction :  continuum || File :  2724.cases
+Extraction :  a large percentage of amorphous component(s || File :  2735.cases
+Extraction :  the performance || File :  2775.cases
+Extraction :  Raman >COMMA LIBS >COMMA and TRF spectra || File :  2781.cases
+Extraction :  time resolved Raman and fluorescence spectra || File :  2781.cases
+Extraction :  &&11 LIBS >COMMA &&8 Raman >COMMA and &&16 VISIR points || File :  2818.cases
+Extraction :  impact-induced hydrothermal deposits || File :  2892.cases
+Extraction :  a wealthof informations || File :  3012.cases
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Pattern -  <subj>_ActVp_Dobj:POS__HELP_US  || Hits is -  1  || Accuracy is -  1.0
+Matched target names are : ['S']
+Extraction :  detailed chemostratigraphic analysis using Curiosity s payload || File :  2339.cases
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Pattern -  Np_Prep_<NP>:POS__CORRELATION_BETWEEN  || Hits is -  3  || Accuracy is -  0.333333333333
+Matched target names are : ['Iron', 'Mn', 'Y']
+Extraction :  ChemCam spectral parameters || File :  1682.cases
+Extraction :  these elements || File :  2099.cases
+Extraction :  these elements || File :  2099.cases
+Extraction :  silica and iron || File :  2301.cases
+Extraction :  the &&2 elements || File :  2338.cases
+Extraction :  spectral slope and Mn-content || File :  2748.cases
+Extraction :  X and Y || File :  2940.cases
+Extraction :  Shots &&4 and &&5 || File :  2940.cases
+Extraction :  Shots &&5 and &&6 || File :  2940.cases
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Pattern -  PassVp_Prep_<NP>:POS__DESCRIBED_BY  || Hits is -  1  || Accuracy is -  1.0
+Matched target names are : ['Al']
+Extraction :  Clegg et al || File :  2818.cases
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Pattern -  PassVp_Prep_<NP>:POS__DEPLETED_IN  || Hits is -  1  || Accuracy is -  0.333333333333
+Matched target names are : ['S', 'Cl', 'K']
+Extraction :  S >COMMA Cl >COMMA and K || File :  1682.cases
+Extraction :  CaO || File :  2767.cases
+Extraction :  these || File :  2767.cases
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Pattern -  Np_Prep_<NP>:POS__AMOUNTS_TO  || Hits is -  1  || Accuracy is -  1.0
+Matched target names are : ['Mn']
+Extraction :  oxidize Mn || File :  2893.cases
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Pattern -  ActVp_Prep_<NP>:POS__OBTAINED_WITH  || Hits is -  1  || Accuracy is -  0.5
+Matched target names are : ['H']
+Extraction :  an averaged H signal-to-background ratio || File :  2022.cases
+Extraction :  the CheMin XRD instrument || File :  2620.cases
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Pattern -  <subj>_ActVp:POS__SAW  || Hits is -  1  || Accuracy is -  0.5
+Matched target names are : ['Carbon']
+Extraction :  carbon || File :  2232.cases
+Extraction :  we || File :  2417.cases
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Pattern -  ActVp_Prep_<NP>:POS__LOWER_WITH  || Hits is -  1  || Accuracy is -  0.5
+Matched target names are : ['Fe']
+Extraction :  those areas || File :  2284.cases
+Extraction :  Fe oxidation || File :  2893.cases
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Pattern -  Np_Prep_<NP>:POS__AVAILABILITY_OF  || Hits is -  1  || Accuracy is -  1.0
+Matched target names are : ['P']
+Extraction :  P || File :  2850.cases
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Pattern -  InfVp_Prep_<NP>:POS__PROVIDE_ABOUT  || Hits is -  1  || Accuracy is -  0.333333333333
+Matched target names are : ['Chlorine']
+Extraction :  the minerals >COMMA rocks >COMMA and soils of Gale Crater || File :  1510.cases
+Extraction :  this topic || File :  1875.cases
+Extraction :  chlorine || File :  2724.cases
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Pattern -  PassVp_Prep_<NP>:POS__SELECTED_FOR  || Hits is -  1  || Accuracy is -  0.25
+Matched target names are : ['In']
+Extraction :  in-depth characterization || File :  2132.cases
+Extraction :  characterization || File :  2132.cases
+Extraction :  additional drill sampling and analysis || File :  2715.cases
+Extraction :  the mast of the Mars &&2020 rover || File :  2781.cases
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Pattern -  Subj_AuxVp_<dobj>:POS__BE_THERE  || Hits is -  8  || Accuracy is -  0.222222222222
+Matched target names are : ['Na', 'No', 'S', 'Mn']
+Extraction :  no obvious association of this Na || File :  1249.cases
+Extraction :  &&10 laser shots || File :  1369.cases
+Extraction :  a clear enhancement || File :  1413.cases
+Extraction :  no clear detection of S || File :  1413.cases
+Extraction :  &&250 laser shots || File :  1510.cases
+Extraction :  no single || File :  1514.cases
+Extraction :  &&494 individual Chemcam shots || File :  1514.cases
+Extraction :  &&896 spots || File :  1514.cases
+Extraction :  modest variation || File :  1682.cases
+Extraction :  a good correlation || File :  1682.cases
+Extraction :  complications || File :  1875.cases
+Extraction :  no CheMin mineralogical data || File :  2093.cases
+Extraction :  a common increase || File :  2099.cases
+Extraction :  a systematic decrease || File :  2119.cases
+Extraction :  a very good agreement || File :  2124.cases
+Extraction :  no way || File :  2284.cases
+Extraction :  a difference || File :  2301.cases
+Extraction :  a greater exposure of bedrock || File :  2339.cases
+Extraction :  an apparent increase || File :  2339.cases
+Extraction :  no corresponding increase || File :  2339.cases
+Extraction :  a fifth sample || File :  2417.cases
+Extraction :  single point failures || File :  2417.cases
+Extraction :  a good consistency || File :  2452.cases
+Extraction :  a facies transition || File :  2715.cases
+Extraction :  evidence || File :  2735.cases
+Extraction :  a contribution of Mn-bearing phases || File :  2748.cases
+Extraction :  &&2 current applications || File :  2775.cases
+Extraction :  tens of proposed landing || File :  2791.cases
+Extraction :  many technologies || File :  2791.cases
+Extraction :  some additional shielding || File :  2791.cases
+Extraction :  geochemical data || File :  2855.cases
+Extraction :  a lack of high temperature minerals || File :  2892.cases
+Extraction :  &&2 sets of RRs || File :  2919.cases
+Extraction :  no true direct dependence || File :  2940.cases
+Extraction :  shot-to-shot dependencies || File :  2940.cases
+Extraction :  some evidence of remote analysis || File :  3021.cases
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Pattern -  <subj>_ActVp:POS__SPOTS  || Hits is -  1  || Accuracy is -  0.333333333333
+Matched target names are : ['Cm']
+Extraction :  &&1.8 cm diameter || File :  1566.cases
+Extraction :  &&200-450 m || File :  1566.cases
+Extraction :  grayscale and the location of LIBS || File :  2324.cases
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Pattern -  ActVp_Prep_<NP>:POS__ENRICHED_IN  || Hits is -  8  || Accuracy is -  0.666666666667
+Matched target names are : ['K', 'Cr', 'Li', 'Mn', 'Cl', 'H', 'Ca']
+Extraction :  K || File :  1438.cases
+Extraction :  Cr || File :  1682.cases
+Extraction :  Li || File :  2099.cases
+Extraction :  these elements || File :  2284.cases
+Extraction :  Gusev || File :  2284.cases
+Extraction :  soils and sedimentary || File :  2720.cases
+Extraction :  Mn || File :  2748.cases
+Extraction :  Cl || File :  2767.cases
+Extraction :  Cl and H || File :  2767.cases
+Extraction :  Ca || File :  2767.cases
+Extraction :  Ca || File :  2789.cases
+Extraction :  dust || File :  2940.cases
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Pattern -  <subj>_ActVp:POS__SEEMS  || Hits is -  1  || Accuracy is -  0.166666666667
+Matched target names are : ['No']
+Extraction :  it || File :  2301.cases
+Extraction :  such extensive aqueous alteration || File :  2620.cases
+Extraction :  this || File :  2767.cases
+Extraction :  it || File :  2767.cases
+Extraction :  Conclusions || File :  2789.cases
+Extraction :  no simple logic || File :  3012.cases
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Pattern -  <subj>_ActVp:POS__CROSSCUT  || Hits is -  1  || Accuracy is -  0.25
+Matched target names are : ['Mn']
+Extraction :  The Dillinger member || File :  1989.cases
+Extraction :  JOHN_KLEIN || File :  2417.cases
+Extraction :  the form of Mn-oxides filling veins || File :  2893.cases
+Extraction :  resistant fracture || File :  2893.cases
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Pattern -  <subj>_PassVp:POS__DETECTED  || Hits is -  7  || Accuracy is -  0.411764705882
+Matched target names are : ['Mn', 'Zn', 'Fluorine', 'Hydrogen', 'K', 'P']
+Extraction :  Mn || File :  1413.cases
+Extraction :  an emission line || File :  1413.cases
+Extraction :  the Zn lines || File :  1413.cases
+Extraction :  MnO-rich coating || File :  1413.cases
+Extraction :  Conclusion || File :  1413.cases
+Extraction :  high Mn content || File :  1413.cases
+Extraction :  none || File :  1736.cases
+Extraction :  atmospheric dust || File :  1736.cases
+Extraction :  fluorine || File :  1989.cases
+Extraction :  >PERCENT ZnO || File :  1989.cases
+Extraction :  CaF || File :  2093.cases
+Extraction :  hydrogen || File :  2119.cases
+Extraction :  K || File :  2735.cases
+Extraction :  just one of many mineral classes || File :  2781.cases
+Extraction :  P || File :  2850.cases
+Extraction :  sion lines || File :  2850.cases
+Extraction :  Oxychlorine species || File :  2893.cases
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Pattern -  <subj>_ActVp:POS__COMPRISE  || Hits is -  1  || Accuracy is -  1.0
+Matched target names are : ['Cl']
+Extraction :  SO3 and Cl || File :  2284.cases
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Pattern -  PassVp_Prep_<NP>:POS__ELEVATED_IN  || Hits is -  1  || Accuracy is -  0.333333333333
+Matched target names are : ['Mn']
+Extraction :  all middle units || File :  2339.cases
+Extraction :  some of these strata || File :  2339.cases
+Extraction :  Mn || File :  2748.cases
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Pattern -  <subj>_ActVp:NEG__OBSERVED  || Hits is -  1  || Accuracy is -  1.0
+Matched target names are : ['Zn']
+Extraction :  Zn || File :  1901.cases
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Pattern -  Np_Prep_<NP>:POS__CONTRIBUTIONS_FROM  || Hits is -  1  || Accuracy is -  0.333333333333
+Matched target names are : ['Sulfur']
+Extraction :  the crest || File :  1634.cases
+Extraction :  sulfur-bearing species || File :  2735.cases
+Extraction :  the Mylar || File :  2735.cases
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Pattern -  <subj>_ActVp_Dobj:POS__MOUNT_COLLEGE  || Hits is -  1  || Accuracy is -  0.333333333333
+Matched target names are : ['H', 'B', 'C', 'S']
+Extraction :  LIBS Mars chamber || File :  1510.cases
+Extraction :  S. R. Gordon1 >COMMA H. E. Newsom1 >COMMA S. Clegg2 >COMMA M. D. Dyar3 >COMMA and C. B. Agee1 || File :  2232.cases
+Extraction :  the Mineral Spectroscopy Laboratory || File :  2536.cases
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Pattern -  ActVp_Prep_<NP>:POS__NEEDED_TO  || Hits is -  1  || Accuracy is -  1.0
+Matched target names are : ['S', 'Fe']
+Extraction :  oxidize Fe or S. || File :  2893.cases
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Pattern -  <subj>_PassVp:POS__ELEVATED  || Hits is -  1  || Accuracy is -  0.333333333333
+Matched target names are : ['Cl', 'Br']
+Extraction :  Al/Si || File :  2339.cases
+Extraction :  APXS Br and Cl data || File :  2339.cases
+Extraction :  targets || File :  2748.cases
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Pattern -  ActVp_<dobj>:POS__REPORT  || Hits is -  2  || Accuracy is -  0.5
+Matched target names are : ['Zn', 'Fluorine', 'Chlorine']
+Extraction :  the detection of high Zn content || File :  1413.cases
+Extraction :  a synthesis of the chemical composition || File :  1438.cases
+Extraction :  the first dectection of chlorine and fluorine || File :  1989.cases
+Extraction :  a summary of the chemical variations occurring || File :  2099.cases
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Pattern -  Np_Prep_<NP>:POS__LINES_FOR  || Hits is -  2  || Accuracy is -  0.285714285714
+Matched target names are : ['Zn', 'P']
+Extraction :  the on-board calibration targets || File :  1369.cases
+Extraction :  Yarrada || File :  1413.cases
+Extraction :  Zn detection and quantification || File :  1413.cases
+Extraction :  quantification purposes || File :  1413.cases
+Extraction :  quantitative analysis of these elements || File :  2724.cases
+Extraction :  P || File :  2850.cases
+Extraction :  sample emission || File :  2850.cases
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Pattern -  ActVp_Prep_<NP>:POS__FIGURE_VS.  || Hits is -  2  || Accuracy is -  0.4
+Matched target names are : ['Ti', 'K']
+Extraction :  the MgO content || File :  1989.cases
+Extraction :  Ti ICA score || File :  2099.cases
+Extraction :  Al2O3 content || File :  2099.cases
+Extraction :  K ICA scores || File :  2452.cases
+Extraction :  GBW07105 || File :  2724.cases
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Pattern -  Np_Prep_<NP>:POS__MIXTURE_OF  || Hits is -  1  || Accuracy is -  0.142857142857
+Matched target names are : ['Ca']
+Extraction :  labradorite and an amorphous phase || File :  1634.cases
+Extraction :  GBW07105 || File :  2119.cases
+Extraction :  rock and veins and the chemical distribution of the mixed material || File :  2301.cases
+Extraction :  mafic sediments and Ca-sulfate material || File :  2301.cases
+Extraction :  basaltic sediments and diagenetic material || File :  2301.cases
+Extraction :  diopside and Globe olivine || File :  2338.cases
+Extraction :  hematite >COMMA phyllosilicates >COMMA and sulfates || File :  2735.cases
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Pattern -  Np_Prep_<NP>:POS__ASSOCIATION_BETWEEN  || Hits is -  1  || Accuracy is -  1.0
+Matched target names are : ['Mn']
+Extraction :  Mn-rich rocks and the redox state of surface environments || File :  2893.cases
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Pattern -  ActVp_Prep_<NP>:POS__PREDICTED_FOR  || Hits is -  1  || Accuracy is -  0.333333333333
+Matched target names are : ['P']
+Extraction :  the Murray formation || File :  2735.cases
+Extraction :  analagous terrestrial environments and a corresponding higher availability of P || File :  2850.cases
+Extraction :  abiogenic reactions || File :  2850.cases
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Pattern -  Np_Prep_<NP>:POS__IMPORTANCE_FOR  || Hits is -  1  || Accuracy is -  0.5
+Matched target names are : ['Mn']
+Extraction :  crater accumulation || File :  1875.cases
+Extraction :  understanding past habitability >COMMA and the high abundances of Mn || File :  2748.cases
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Pattern -  Np_Prep_<NP>:POS__ELEMENTS_SUCH_AS  || Hits is -  7  || Accuracy is -  1.0
+Matched target names are : ['Li', 'Rb', 'Sr', 'Ba', 'Cr', 'Hydrogen', 'Lithium', 'Mn', 'Fe', 'C', 'S', 'Cl']
+Extraction :  Li >COMMA Sr >COMMA Ba >COMMA and Rb using univariate and multivariate regression techniques || File :  1413.cases
+Extraction :  Cr || File :  1875.cases
+Extraction :  hydrogen || File :  2022.cases
+Extraction :  Li >COMMA Sr >COMMA Ba >COMMA and Rb || File :  2099.cases
+Extraction :  lithium || File :  2324.cases
+Extraction :  Fe and Mn exhibit minimal variation || File :  2339.cases
+Extraction :  C >COMMA S >COMMA and Cl || File :  2724.cases
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Pattern -  Np_Prep_<NP>:POS__MEASUREMENTS_OF  || Hits is -  3  || Accuracy is -  0.428571428571
+Matched target names are : ['Ni', 'Nickel', 'Mn']
+Extraction :  Ni || File :  1875.cases
+Extraction :  other elements || File :  1875.cases
+Extraction :  nickel || File :  1875.cases
+Extraction :  Chemcam/LIBS || File :  1901.cases
+Extraction :  the fine-grained soils || File :  2022.cases
+Extraction :  the soils || File :  2022.cases
+Extraction :  Mn-oxides || File :  2893.cases
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Pattern -  ActVp_Prep_<NP>:POS__EXHIBITS_IN  || Hits is -  1  || Accuracy is -  1.0
+Matched target names are : ['Fe']
+Extraction :  Fe || File :  2099.cases
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Pattern -  ActVp_<dobj>:POS__MEASURED  || Hits is -  1  || Accuracy is -  0.25
+Matched target names are : ['Ni']
+Extraction :  a release of water vapour || File :  1373.cases
+Extraction :  spectrum || File :  2119.cases
+Extraction :  grains || File :  2201.cases
+Extraction :  concentrations of &&43,000-49,000 >COMMA &&7700-9995 >COMMA &&3700-5400 >COMMA &&750-2200 >COMMA &&285-1780 >COMMA &&141-1566 >COMMA &&58-1454 >COMMA &&36-1416 >COMMA and &&8-1400 ppm Ni || File :  2720.cases
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Pattern -  <subj>_ActVp:POS__MOUNT  || Hits is -  1  || Accuracy is -  0.166666666667
+Matched target names are : ['H', 'B', 'C', 'S']
+Extraction :  LIBS Mars chamber || File :  1510.cases
+Extraction :  S. R. Gordon1 >COMMA H. E. Newsom1 >COMMA S. Clegg2 >COMMA M. D. Dyar3 >COMMA and C. B. Agee1 || File :  2232.cases
+Extraction :  the Mineral Spectroscopy Laboratory || File :  2338.cases
+Extraction :  the Mineral Spectroscopy Laboratory || File :  2536.cases
+Extraction :  AZ trachyandesite &&1.54 MHSA || File :  2536.cases
+Extraction :  the LIBS lab || File :  2775.cases
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Pattern -  Np_Prep_<NP>:POS__ENRICHMENT_OF  || Hits is -  4  || Accuracy is -  0.571428571429
+Matched target names are : ['Zn', 'Magnesium', 'Ni', 'Lithium']
+Extraction :  this element || File :  1413.cases
+Extraction :  Zn || File :  1413.cases
+Extraction :  ferric oxide || File :  1769.cases
+Extraction :  magnesium || File :  1901.cases
+Extraction :  the diagenetic features || File :  1901.cases
+Extraction :  Ni and Zn || File :  1901.cases
+Extraction :  the highly fluid mobile element lithium || File :  2284.cases
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Pattern -  <subj>_ActVp:POS__TAKEN  || Hits is -  2  || Accuracy is -  0.142857142857
+Matched target names are : ['C']
+Extraction :  c || File :  1249.cases
+Extraction :  LIBS spectra || File :  1369.cases
+Extraction :  all data || File :  1413.cases
+Extraction :  the &&28 shots || File :  1413.cases
+Extraction :  Sol &&624 ChemCam LIBS data || File :  1903.cases
+Extraction :  Images of all || File :  2022.cases
+Extraction :  some chemical alteration || File :  2093.cases
+Extraction :  some recrystallization || File :  2234.cases
+Extraction :  c || File :  2301.cases
+Extraction :  &&11520 spectra || File :  2452.cases
+Extraction :  predictable behavior || File :  2724.cases
+Extraction :  spectra || File :  2773.cases
+Extraction :  images || File :  2990.cases
+Extraction :  potential processes || File :  3021.cases
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Pattern -  <subj>_AuxVp_Dobj:POS__BE_ELEMENT  || Hits is -  1  || Accuracy is -  1.0
+Matched target names are : ['Hydrogen']
+Extraction :  Hydrogen || File :  2119.cases
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Pattern -  Subj_AuxVp_<dobj>:POS__BE_OLIVINE  || Hits is -  1  || Accuracy is -  1.0
+Matched target names are : ['Fe']
+Extraction :  Fe-forsterite || File :  2620.cases
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~RESULTS~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Total patterns evaluated =  471
+Count of patterns with valid extractions = 100
