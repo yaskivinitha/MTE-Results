@@ -1,0 +1,171 @@
+Starting basilisk.
+
+Bootstrapping iterations: 20
+Using improved multiple category conflict resolution
+Loading data.
+
+Attempting to read input files.
+Finished reading input files.
+Discovered 70755 head nouns and 253081 patterns
+Starting bootstrapping.
+
+Iteration 1
+Adding 5 new words to the minerals lexicon.
+	chlorite
+	LCP
+	fassaite
+	smectite
+	melilite
+
+Iteration 2
+Adding 5 new words to the minerals lexicon.
+	crystallites
+	ilmenite
+	36Cl
+	cpx
+	biota
+
+Iteration 3
+Adding 5 new words to the minerals lexicon.
+	ammonites
+	182Hf
+	spinel
+	anorthite
+	merrillite
+
+Iteration 4
+Adding 5 new words to the minerals lexicon.
+	Al-sulfates
+	φi
+	pickeringite
+	alpersite
+	leonite
+
+Iteration 5
+Adding 5 new words to the minerals lexicon.
+	dravite
+	clinochlore
+	FG-sulfide-'poor
+	vermiculite
+	saponite/talc
+
+Iteration 6
+Adding 5 new words to the minerals lexicon.
+	hexahydrite
+	actinolite
+	imogolite
+	K-feldspars
+	zeolite
+
+Iteration 7
+Adding 5 new words to the minerals lexicon.
+	NPOs
+	tissintite
+	sodalite
+	schreibersite
+	coesite
+
+Iteration 8
+Adding 5 new words to the minerals lexicon.
+	goethite
+	oxalates
+	monazite
+	melilites
+	evaporites
+
+Iteration 9
+Adding 5 new words to the minerals lexicon.
+	armalcolite
+	Ahrensite
+	eskolaite
+	maghemite
+	illite
+
+Iteration 10
+Adding 5 new words to the minerals lexicon.
+	stishovite
+	perovskite
+	allophane
+	kaolinite
+	Bi2Te2S
+
+Iteration 11
+Adding 5 new words to the minerals lexicon.
+	thenardite
+	melilite/glass
+	K-felspar
+	Соrdierite
+	chlorite/smectite
+
+Iteration 12
+Adding 5 new words to the minerals lexicon.
+	grainsby
+	vermicules
+	anothite
+	alabandite
+	aluminate
+
+Iteration 13
+Adding 5 new words to the minerals lexicon.
+	khatyrkite
+	denticle
+	fluorite
+	gibbsite
+	daubréelite
+
+Iteration 14
+Adding 5 new words to the minerals lexicon.
+	Wright2,3
+	Ca(MgFe)(CO3)2
+	Mgorthopyroxene
+	FeS-Fe1-xS
+	Britholite
+
+Iteration 15
+Adding 5 new words to the minerals lexicon.
+	Phillips1
+	Suessite
+	K-plagioclase
+	APDI-13-14h
+	K-feldspar
+
+Iteration 16
+Adding 5 new words to the minerals lexicon.
+	Cr-spinel
+	titanomagnetite
+	Beckettite
+	Capyroxene
+	carbide
+
+Iteration 17
+Adding 5 new words to the minerals lexicon.
+	Ca-clinopyroxene
+	Ca-pyroxene
+	alkali-feldspar
+	R.O.
+	FFs
+
+Iteration 18
+Adding 5 new words to the minerals lexicon.
+	Panguite
+	silicon(blue
+	chromite-ülvospinel
+	djerfisherite
+	nanodiamond
+
+Iteration 19
+Adding 5 new words to the minerals lexicon.
+	anatase
+	daubreelite
+	agglutinates
+	Corundum
+	PLAGIOCLASE_FELDSPAR
+
+Iteration 20
+Adding 5 new words to the minerals lexicon.
+	post-perovskite
+	POS
+	ringwoodite
+	Anhydrite
+	pentlandite
+

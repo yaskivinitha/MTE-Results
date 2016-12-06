@@ -1,0 +1,451 @@
+Starting basilisk.
+
+Bootstrapping iterations: 20
+Using improved multiple category conflict resolution
+Loading data.
+
+Attempting to read input files.
+Finished reading input files.
+Discovered 70755 head nouns and 253081 patterns
+Starting bootstrapping.
+
+Iteration 1
+Adding 5 new words to the target_list lexicon.
+	Tochatwi
+	Thorkell
+	TEMPLAR1
+	TELRDR
+	Si+1
+
+Adding 5 new words to the elements lexicon.
+	Fe-Ni-S-C-Si
+	yy
+	xy
+	xx
+	Gridresolution
+
+Adding 5 new words to the minerals lexicon.
+	ammonites
+	1x1
+	2x2
+	starlight
+	ilmenite
+
+Iteration 2
+Adding 5 new words to the target_list lexicon.
+	IDUR
+	Espérance6
+	Egonu
+	Argus
+	differentMSL/Curiosity
+
+Adding 5 new words to the elements lexicon.
+	aqua
+	Thisinterpretation
+	U-Th
+	d-e
+	Na[6].Observations
+
+Adding 5 new words to the minerals lexicon.
+	Al-sulfates
+	dravite
+	clinochlore
+	Bi2Te2S
+	melilites
+
+Iteration 3
+Adding 5 new words to the target_list lexicon.
+	T'oo'dichi
+	Lunaserv[5
+	Bunter
+	Inghirami
+	LimbDetect
+
+Adding 5 new words to the elements lexicon.
+	hydrohen
+	SVE
+	SE.
+	foremost
+	Steenstra1
+
+Adding 5 new words to the minerals lexicon.
+	pickeringite
+	alpersite
+	leonite
+	vermiculite
+	K-feldspars
+
+Iteration 4
+Adding 5 new words to the target_list lexicon.
+	Modgud
+	CCAM02183
+	Stirling
+	Perdido2
+	Cooperstown
+
+Adding 5 new words to the elements lexicon.
+	7Li
+	HSEs
+	HPE
+	CH4that
+	wt.%-levels
+
+Adding 5 new words to the minerals lexicon.
+	actinolite
+	imogolite
+	oxalates
+	amphiboles
+	tissintite
+
+Iteration 5
+Adding 5 new words to the target_list lexicon.
+	ofpicks
+	blandlands
+	SPMN100215
+	Hathor
+	Chinle
+
+Adding 5 new words to the elements lexicon.
+	11B
+	REEs
+	spp
+	E101.1
+	HSE
+
+Adding 5 new words to the minerals lexicon.
+	perovskites
+	hexahydrite
+	illite
+	coesite
+	stishovite
+
+Iteration 6
+Adding 5 new words to the target_list lexicon.
+	Balmoral1
+	GRGM1200A
+	from
+	Nili
+	FoP
+
+Adding 5 new words to the elements lexicon.
+	LREE
+	univariate
+	Na2O
+	permil
+	nuclides
+
+Adding 5 new words to the minerals lexicon.
+	schreibersite
+	albite
+	goethite
+	augite
+	brezinaite
+
+Iteration 7
+Adding 5 new words to the target_list lexicon.
+	CASPEX
+	Pickering
+	Hayabusa-2
+	FINESSE
+	Schiaparelli
+
+Adding 5 new words to the elements lexicon.
+	NWA-1222
+	REE
+	Threfore
+	chalcophile
+	V.
+
+Adding 5 new words to the minerals lexicon.
+	Wright2,3
+	Ca(MgFe)(CO3)2
+	polytype(6H
+	R.O.
+	Phillips1
+
+Iteration 8
+Adding 5 new words to the target_list lexicon.
+	Naoko
+	helping
+	BARB5
+	Hill
+	NASA
+
+Adding 5 new words to the elements lexicon.
+	17,18O
+	131-134Xe
+	radioelements
+	alkalies
+	siderophiles
+
+Adding 5 new words to the minerals lexicon.
+	Jaret1
+	JG9
+	Britholite
+	Ca5(PO4)3(F,Cl,OH
+	Panguite
+
+Iteration 9
+Adding 5 new words to the target_list lexicon.
+	USSR
+	arebeing
+	ESA
+	Jotunheim
+	Hayabusa2
+
+Adding 5 new words to the elements lexicon.
+	P2O5
+	134Xe
+	16O
+	13C
+	coreformation
+
+Adding 5 new words to the minerals lexicon.
+	SrI2
+	tranquillityite
+	α-cristobalite
+	Suessite
+	Brushite
+
+Iteration 10
+Adding 5 new words to the target_list lexicon.
+	Phase-A/B1
+	disclosure
+	teams
+	Yutu
+	providers
+
+Adding 5 new words to the elements lexicon.
+	Σ(Fe+Mg+Ca
+	heavyREE
+	rprocess
+	28Si
+	47Ti
+
+Adding 5 new words to the minerals lexicon.
+	Daubréelite
+	Cordierite
+	cohenite
+	Paqueite
+	djerfisherite
+
+Iteration 11
+Adding 5 new words to the target_list lexicon.
+	Participants
+	rover
+	PI
+	GASP
+	Spirit
+
+Adding 5 new words to the elements lexicon.
+	HREE
+	O.
+	18O
+	alkalis
+	SIDEROPHILE
+
+Adding 5 new words to the minerals lexicon.
+	pn
+	amphibole
+	eskolaite
+	Glotch1
+	grossular
+
+Iteration 12
+Adding 5 new words to the target_list lexicon.
+	Jurassic-Cretaceous
+	crew
+	Curiosity
+	science
+	SuperCam
+
+Adding 5 new words to the elements lexicon.
+	Fe/Si
+	halogens
+	12C
+	15N
+	Al2O3
+
+Adding 5 new words to the minerals lexicon.
+	nucleating
+	FeO/MnO
+	PLAGIOCLASE_FELDSPAR
+	antigorite
+	hematite
+
+Iteration 13
+Adding 5 new words to the target_list lexicon.
+	embarkation
+	theKaguya
+	games
+	Engineering
+	SPARTTA
+
+Adding 5 new words to the elements lexicon.
+	CaO
+	MgO
+	P.
+	NCC
+	monoxide
+
+Adding 5 new words to the minerals lexicon.
+	antogorite
+	anhydrite
+	exsolutions
+	α-quartz
+	K-feldspar
+
+Iteration 14
+Adding 5 new words to the target_list lexicon.
+	mission[1
+	board
+	deployment
+	GTS
+	Opportunity
+
+Adding 5 new words to the elements lexicon.
+	26Al
+	D.
+	FeO
+	K.
+	low-IR
+
+Adding 5 new words to the minerals lexicon.
+	thenardite
+	melilite/glass
+	K-felspar
+	Mgorthopyroxene
+	FeS-Fe1-xS
+
+Iteration 15
+Adding 5 new words to the target_list lexicon.
+	teachers
+	profiler
+	Dawn
+	Schwadron1
+	project
+
+Adding 5 new words to the elements lexicon.
+	Zr/Si
+	TiOtot
+	framboidal
+	Fe-/Mgphyllosilicates
+	C=N-C
+
+Adding 5 new words to the minerals lexicon.
+	Соrdierite
+	K-plagioclase
+	APDI-13-14h
+	denticle
+	alkali-feldspar
+
+Iteration 16
+Adding 5 new words to the target_list lexicon.
+	Walker
+	Thesis
+	users
+	arm
+	exploration
+
+Adding 5 new words to the elements lexicon.
+	An24-39
+	37Cl
+	LREE/HREE
+	andCr
+	136Xe
+
+Adding 5 new words to the minerals lexicon.
+	webs
+	xieite
+	chlorite/smectite
+	khatyrkite
+	cpx>opx
+
+Iteration 17
+Adding 5 new words to the target_list lexicon.
+	Sciences
+	Research
+	missions
+	children
+	team
+
+Adding 5 new words to the elements lexicon.
+	50Ti.If
+	50V
+	An34-43
+	HREEs
+	deuterium
+
+Adding 5 new words to the minerals lexicon.
+	vermicules
+	anothite
+	silicon(blue
+	Ca-clinopyroxene
+	biopyriboles
+
+Iteration 18
+Adding 5 new words to the target_list lexicon.
+	Watney
+	Adventures(EA
+	upcoming
+	Aeronomy
+	Belgium
+
+Adding 5 new words to the elements lexicon.
+	Al2O3+SiO2±Ge
+	194Pt
+	190Os
+	185Re
+	14N
+
+Adding 5 new words to the minerals lexicon.
+	hard
+	pegmatites
+	Fe-sulfide
+	Fe-olivine
+	Ca-pyroxene
+
+Iteration 19
+Adding 5 new words to the target_list lexicon.
+	Antarcticastroblems
+	Wei1
+	Margaritifer
+	Council
+	Developers
+
+Adding 5 new words to the elements lexicon.
+	Kwithout
+	inhancement
+	lithophiles
+	initialmass
+	carboxylic
+
+Adding 5 new words to the minerals lexicon.
+	Cr-troilite
+	Fo49-16
+	titanomagnetite
+	Capyroxene
+	Kfeldspar
+
+Iteration 20
+Adding 5 new words to the target_list lexicon.
+	Mathematics
+	topomapping
+	Astrophysics
+	Astronomy
+	parties
+
+Adding 5 new words to the elements lexicon.
+	rareearth
+	Os-Ir
+	Ni-Crspinel
+	Ir/Fe
+	subnebulae
+
+Adding 5 new words to the minerals lexicon.
+	hedenbergite
+	La/Tm
+	perovskite
+	dmisteinbergite
+	wadsleyite
+

@@ -1,0 +1,171 @@
+Starting basilisk.
+
+Bootstrapping iterations: 20
+Using improved multiple category conflict resolution
+Loading data.
+
+Attempting to read input files.
+Finished reading input files.
+Discovered 70755 head nouns and 253081 patterns
+Starting bootstrapping.
+
+Iteration 1
+Adding 5 new words to the elements lexicon.
+	Fe-Ni-S-C-Si
+	Thisinterpretation
+	yy
+	xy
+	xx
+
+Iteration 2
+Adding 5 new words to the elements lexicon.
+	Gridresolution
+	aqua
+	U-Th
+	hydrohen
+	HPE
+
+Iteration 3
+Adding 5 new words to the elements lexicon.
+	SVE
+	d-e
+	E101.1
+	wt.%-levels
+	HSEs
+
+Iteration 4
+Adding 5 new words to the elements lexicon.
+	Steenstra1
+	Na[6].Observations
+	REEs
+	CH4that
+	Na2O
+
+Iteration 5
+Adding 5 new words to the elements lexicon.
+	foremost
+	11B
+	HSE
+	SE.
+	spp
+
+Iteration 6
+Adding 5 new words to the elements lexicon.
+	7Li
+	LREE
+	nuclides
+	univariate
+	NWA-1222
+
+Iteration 7
+Adding 5 new words to the elements lexicon.
+	oldhamite
+	REE
+	perchlorate
+	Cr3
+	Fe/Si
+
+Iteration 8
+Adding 5 new words to the elements lexicon.
+	LG
+	Fe(II
+	Threfore
+	diopside
+	Ti4
+
+Iteration 9
+Adding 5 new words to the elements lexicon.
+	131-134Xe
+	17,18O
+	radioelements
+	siderophiles
+	alkalies
+
+Iteration 10
+Adding 5 new words to the elements lexicon.
+	alkalis
+	134Xe
+	P2O5
+	13C
+	halogens
+
+Iteration 11
+Adding 5 new words to the elements lexicon.
+	NCC
+	15N
+	Al2O3
+	NH3
+	16O
+
+Iteration 12
+Adding 5 new words to the elements lexicon.
+	Σ(Fe+Mg+Ca
+	28Si
+	rprocess
+	47Ti
+	HREE
+
+Iteration 13
+Adding 5 new words to the elements lexicon.
+	CaO
+	MgO
+	18O
+	volatile
+	26Al
+
+Iteration 14
+Adding 5 new words to the elements lexicon.
+	12C
+	Theia
+	Donga
+	Cr2
+	O.
+
+Iteration 15
+Adding 5 new words to the elements lexicon.
+	Zr/Si
+	TiOtot
+	framboidal
+	Fe-/Mgphyllosilicates
+	C=N-C
+
+Iteration 16
+Adding 5 new words to the elements lexicon.
+	An24-39
+	An34-43
+	andCr
+	50Ti.If
+	136Xe
+
+Iteration 17
+Adding 5 new words to the elements lexicon.
+	Kwithout
+	inhancement
+	lithophiles
+	LREE/HREE
+	37Cl
+
+Iteration 18
+Adding 5 new words to the elements lexicon.
+	rareearth
+	Os-Ir
+	Ni-Crspinel
+	Ir/Fe
+	SRNs
+
+Iteration 19
+Adding 5 new words to the elements lexicon.
+	δ184W/183W~0.36
+	log10QS
+	Al-Ti
+	RLEs
+	subnebulae
+
+Iteration 20
+Adding 5 new words to the elements lexicon.
+	atmophile
+	PGE
+	32S
+	initialmass
+	PGEs
+

@@ -1,0 +1,171 @@
+Starting basilisk.
+
+Bootstrapping iterations: 20
+Using improved multiple category conflict resolution
+Loading data.
+
+Attempting to read input files.
+Finished reading input files.
+Discovered 70755 head nouns and 253081 patterns
+Starting bootstrapping.
+
+Iteration 1
+Adding 5 new words to the target_list lexicon.
+	Tochatwi
+	Thorkell
+	TEMPLAR1
+	TELRDR
+	Si+1
+
+Iteration 2
+Adding 5 new words to the target_list lexicon.
+	IDUR
+	Espérance6
+	Egonu
+	Argus
+	Stirling
+
+Iteration 3
+Adding 5 new words to the target_list lexicon.
+	Modgud
+	blandlands
+	Perdido2
+	T'oo'dichi
+	FoP
+
+Iteration 4
+Adding 5 new words to the target_list lexicon.
+	Hathor
+	SPMN100215
+	CASPEX
+	Chinle
+	Pickering
+
+Iteration 5
+Adding 5 new words to the target_list lexicon.
+	Schiaparelli
+	differentMSL/Curiosity
+	Lunaserv[5
+	Inghirami
+	Bunter
+
+Iteration 6
+Adding 5 new words to the target_list lexicon.
+	GASP
+	Cooperstown
+	CCAM02183
+	Naoko
+	Jotunheim
+
+Iteration 7
+Adding 5 new words to the target_list lexicon.
+	GRGM1200A
+	from
+	Balmoral1
+	LimbDetect
+	869-I1
+
+Iteration 8
+Adding 5 new words to the target_list lexicon.
+	ofpicks
+	Iris
+	symplectite
+	Shaler
+	antennas
+
+Iteration 9
+Adding 5 new words to the target_list lexicon.
+	Greenhorn
+	Fireballs
+	Paterae
+	Fossa
+	specimens
+
+Iteration 10
+Adding 5 new words to the target_list lexicon.
+	Hadriaca
+	Nili
+	spots
+	FINESSE
+	S1
+
+Iteration 11
+Adding 5 new words to the target_list lexicon.
+	Victory
+	Margaret
+	bedrocks
+	Lineae
+	integrations
+
+Iteration 12
+Adding 5 new words to the target_list lexicon.
+	BARB5
+	Marie
+	swirls
+	Shoemaker
+	RN
+
+Iteration 13
+Adding 5 new words to the target_list lexicon.
+	fm
+	Spirit
+	SMFe
+	Canyon
+	cones
+
+Iteration 14
+Adding 5 new words to the target_list lexicon.
+	Anaverde
+	JK
+	sandstones
+	Chasmata
+	Mountain
+
+Iteration 15
+Adding 5 new words to the target_list lexicon.
+	CB
+	Hills
+	depressions
+	holes
+	Montes
+
+Iteration 16
+Adding 5 new words to the target_list lexicon.
+	mudstone
+	pits
+	outcrop
+	topographic
+	dome
+
+Iteration 17
+Adding 5 new words to the target_list lexicon.
+	Bungle
+	mudstones
+	FC77-1
+	Camp_Ridge
+	Pahrump
+
+Iteration 18
+Adding 5 new words to the target_list lexicon.
+	sulfates
+	fines
+	Chaos
+	calcite
+	1930's
+
+Iteration 19
+Adding 5 new words to the target_list lexicon.
+	compilation
+	LCP
+	Eros
+	carbonates
+	Phyllosilicates
+
+Iteration 20
+Adding 5 new words to the target_list lexicon.
+	smectite
+	chlorite
+	chlorides
+	oxides
+	Bowl
+
