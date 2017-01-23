@@ -1,90 +1,359 @@
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Number of caseframes applied = 367
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Pattern -  ActVp_Prep_<NP>:POS__POINTS_ON  || Hits is -  4  || Accuracy is -  0.571428571429
-Matched target names are : ['Bathurst', 'Jake', 'Jake', 'Bathurst']
-Extraction :  each image  || length is -  10 || File :  1433.cases
-Extraction :  these veins all  || length is -  15 || File :  1524.cases
-Extraction :  Bathurst Inlet and Jake M. rocks  || length is -  32 || File :  2324.cases
-Extraction :  Jake  || length is -  4 || File :  2324.cases
-Extraction :  Bathurst Inlet  || length is -  14 || File :  2324.cases
-Extraction :  the peaks  || length is -  9 || File :  2775.cases
-Extraction :  the baseline  || length is -  12 || File :  2775.cases
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Pattern -  Np_Prep_<NP>:POS__STUDY_TO  || Hits is -  1  || Accuracy is -  0.333333333333
-Matched target names are : ['target']
-Extraction :  mixed-layer clays  || length is -  17 || File :  1989.cases
-Extraction :  smectites  || length is -  9 || File :  1989.cases
-Extraction :  the blind target data  || length is -  21 || File :  2022.cases
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Pattern -  Np_Prep_<NP>:POS__ROCKS_OF  || Hits is -  1  || Accuracy is -  0.2
-Matched target names are : ['member']
-Extraction :  the Cooperstown and Kimberley formations  || length is -  40 || File :  1438.cases
-Extraction :  group &&3  || length is -  9 || File :  1943.cases
-Extraction :  group &&5  || length is -  9 || File :  1943.cases
-Extraction :  group &&3  || length is -  9 || File :  2452.cases
-Extraction :  the same member  || length is -  15 || File :  2893.cases
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Pattern -  ActVp_Prep_<NP>:POS__RATIOED_TO  || Hits is -  1  || Accuracy is -  0.5
-Matched target names are : ['Rocknest']
-Extraction :  Rocknest values Fig &&3  || length is -  23 || File :  1682.cases
-Extraction :  that of USZ1494  || length is -  15 || File :  2850.cases
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Pattern -  Np_Prep_<NP>:POS__LOCATIONS_ON  || Hits is -  2  || Accuracy is -  0.142857142857
-Matched target names are : ['Stovepipe_Wells', 'target']
-Extraction :  Perdido2  || length is -  8 || File :  1433.cases
-Extraction :  Stovepipe_Wells  || length is -  15 || File :  1433.cases
-Extraction :  each target  || length is -  11 || File :  1514.cases
-Extraction :  HiRISE color mosaic  || length is -  19 || File :  2124.cases
-Extraction :  the grid  || length is -  8 || File :  2232.cases
-Extraction :  the matrix  || length is -  10 || File :  2232.cases
-Extraction :  &&2 basaltic clasts  || length is -  19 || File :  2232.cases
-Extraction :  each clast  || length is -  10 || File :  2232.cases
-Extraction :  the Mg element map  || length is -  18 || File :  2232.cases
-Extraction :  each pellet  || length is -  11 || File :  2338.cases
-Extraction :  the sample surface  || length is -  18 || File :  2724.cases
-Extraction :  rock  || length is -  4 || File :  2940.cases
-Extraction :  eachlocation  || length is -  12 || File :  3012.cases
-Extraction :  the island of Suduroy  || length is -  21 || File :  3021.cases
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Pattern -  Np_Prep_<NP>:POS__POINTS_ON  || Hits is -  2  || Accuracy is -  0.4
-Matched target names are : ['targets', 'target']
-Extraction :  a given rock  || length is -  12 || File :  1943.cases
-Extraction :  finegrained homogenous targets  || length is -  30 || File :  1943.cases
-Extraction :  a given rock target >COMMA AS_WELL_AS chemical variation  || length is -  56 || File :  2452.cases
-Extraction :  the baseline  || length is -  12 || File :  2775.cases
-Extraction :  calcium sulfate veins  || length is -  21 || File :  2966.cases
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Pattern -  Np_Prep_<NP>:POS__IMPACT_INTO  || Hits is -  1  || Accuracy is -  1.0
-Matched target names are : ['target']
-Extraction :  a target  || length is -  8 || File :  2892.cases
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Pattern -  Np_Prep_<NP>:POS__SOLS_OF  || Hits is -  1  || Accuracy is -  1.0
-Matched target names are : ['Mission']
-Extraction :  the mission  || length is -  11 || File :  2940.cases
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Pattern -  ActVp_Prep_<NP>:POS__ACQUIRED_ON  || Hits is -  1  || Accuracy is -  0.0833333333333
-Matched target names are : ['target']
-Extraction :  the flight model  || length is -  16 || File :  1510.cases
-Extraction :  an analog instrument  || length is -  20 || File :  1510.cases
-Extraction :  Mars  || length is -  4 || File :  1510.cases
-Extraction :  Mars  || length is -  4 || File :  1510.cases
-Extraction :  the shergottite calibration target  || length is -  34 || File :  1510.cases
-Extraction :  Mars  || length is -  4 || File :  1510.cases
-Extraction :  sol &&467  || length is -  9 || File :  2124.cases
-Extraction :  the surface  || length is -  11 || File :  2399.cases
-Extraction :  Sol &&626  || length is -  9 || File :  2748.cases
-Extraction :  Sol &&399  || length is -  9 || File :  2919.cases
-Extraction :  gypsum  || length is -  6 || File :  2966.cases
-Extraction :  Mars Science Laboratory  || length is -  23 || File :  2990.cases
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Pattern -  ActVp_Prep_<NP>:POS__KNOWN_AS  || Hits is -  1  || Accuracy is -  0.5
-Matched target names are : ['Bonanza_King']
-Extraction :  BONANZA_KING  || length is -  12 || File :  2417.cases
-Extraction :  Bayesian model averaging  || length is -  24 || File :  2940.cases
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Pattern -  Np_Prep_<NP>:POS__STRATIGRAPHY_IN  || Hits is -  1  || Accuracy is -  1.0
-Matched target names are : ['Mount_Sharp']
-Extraction :  a canyon of western MOUNT_SHARP  || length is -  31 || File :  1634.cases
-Total patterns evaluated =  94
-Count of patterns with valid extractions = 11
+~~~~~~~~~~~~~~~~~~~~~~~ RESULTS ~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Total patterns evaluated =  186
+Patterns with valid extractions =  27
+~~~~~~~~~~~~~~~~~~~~~~~ PATTERN LIST ~~~~~~~~~~~~~~~~~~~~~~
+Pattern -  InfVp_Prep_<NP>:POS__ASSESS_ON
+Number of hits -  2
+Accuracy -  1.0
+Keywords matched -  ['Bathurst', 'Jake', 'target']
+============  Extractions ============
+** Bathurst Inlet and Jake M. rocks **  || File -  2324.cases
+** a given rock target >COMMA AS_WELL_AS chemical variation **  || File -  2452.cases
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Pattern -  Np_Prep_<NP>:POS__SITE_FOR
+Number of hits -  2
+Accuracy -  1.0
+Keywords matched -  ['Mission']
+============  Extractions ============
+** a human-rated mission **  || File -  2791.cases
+** the first human mission **  || File -  2791.cases
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Pattern -  Np_Prep_<NP>:POS__IMPACT_INTO
+Number of hits -  1
+Accuracy -  1.0
+Keywords matched -  ['target']
+============  Extractions ============
+** a target **  || File -  2892.cases
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Pattern -  Np_Prep_<NP>:POS__SOLS_OF
+Number of hits -  1
+Accuracy -  1.0
+Keywords matched -  ['Mission']
+============  Extractions ============
+** the mission **  || File -  2940.cases
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Pattern -  Np_Prep_<NP>:POS__STRATIGRAPHY_IN
+Number of hits -  1
+Accuracy -  1.0
+Keywords matched -  ['Mount_Sharp']
+============  Extractions ============
+** a canyon of western MOUNT_SHARP **  || File -  1634.cases
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Pattern -  ActVp_<dobj>:POS__CALLED
+Number of hits -  4
+Accuracy -  0.571428571429
+Keywords matched -  ['Badwater', 'Bonanza_King', 'John_Klein', 'Confidence_Hills']
+============  Extractions ============
+** Badwater **  || File -  1514.cases
+rasters  || File -  2232.cases
+** BONANZA_KING **  || File -  2417.cases
+** JOHN_KLEIN **  || File -  2417.cases
+Yellowknife Bay  || File -  2417.cases
+** CONFIDENCE_HILLS **  || File -  2715.cases
+the Haughton-Mars Project  || File -  2892.cases
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Pattern -  Np_Prep_<NP>:POS__SUPPORT_OF
+Number of hits -  1
+Accuracy -  0.5
+Keywords matched -  ['targets']
+============  Extractions ============
+** a more comprehensive classification of Curiosity targets **  || File -  2789.cases
+AMASE  || File -  3021.cases
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Pattern -  ActVp_Prep_<NP>:POS__RATIOED_TO
+Number of hits -  1
+Accuracy -  0.5
+Keywords matched -  ['Rocknest']
+============  Extractions ============
+** Rocknest values Fig &&3 **  || File -  1682.cases
+that of USZ1494  || File -  2850.cases
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Pattern -  ActVp_<dobj>:POS__ENTERED
+Number of hits -  1
+Accuracy -  0.5
+Keywords matched -  ['Mount_Sharp']
+============  Extractions ============
+** the first exposures of lower MOUNT_SHARP **  || File -  1903.cases
+a new phase  || File -  2855.cases
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Pattern -  Np_Prep_<NP>:POS__MATERIAL_WITHIN
+Number of hits -  1
+Accuracy -  0.5
+Keywords matched -  ['Sheepbed', 'member']
+============  Extractions ============
+** the Sheepbed Member mudstone **  || File -  1769.cases
+a relatively short distance  || File -  2791.cases
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Pattern -  infinitive_verb_<dobj>:POS__ESTABLISH
+Number of hits -  1
+Accuracy -  0.5
+Keywords matched -  ['members']
+============  Extractions ============
+this correspondence  || File -  1510.cases
+** expected spectral behavior of pure end members **  || File -  2132.cases
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Pattern -  ActVp_Prep_<NP>:POS__KNOWN_AS
+Number of hits -  1
+Accuracy -  0.5
+Keywords matched -  ['Bonanza_King']
+============  Extractions ============
+** BONANZA_KING **  || File -  2417.cases
+Bayesian model averaging  || File -  2940.cases
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Pattern -  ActVp_Prep_<NP>:POS__POINTS_ON
+Number of hits -  3
+Accuracy -  0.428571428571
+Keywords matched -  ['Bathurst', 'Jake']
+============  Extractions ============
+each image  || File -  1433.cases
+these veins all  || File -  1524.cases
+** Bathurst Inlet and Jake M. rocks **  || File -  2324.cases
+** Jake **  || File -  2324.cases
+** Bathurst Inlet **  || File -  2324.cases
+the peaks  || File -  2775.cases
+the baseline  || File -  2775.cases
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Pattern -  Np_Prep_<NP>:POS__POINTS_ON
+Number of hits -  2
+Accuracy -  0.4
+Keywords matched -  ['targets', 'target']
+============  Extractions ============
+a given rock  || File -  1943.cases
+** finegrained homogenous targets **  || File -  1943.cases
+** a given rock target >COMMA AS_WELL_AS chemical variation **  || File -  2452.cases
+the baseline  || File -  2775.cases
+calcium sulfate veins  || File -  2966.cases
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Pattern -  Np_Prep_<NP>:POS__STUDY_TO
+Number of hits -  1
+Accuracy -  0.333333333333
+Keywords matched -  ['target']
+============  Extractions ============
+mixed-layer clays  || File -  1989.cases
+smectites  || File -  1989.cases
+** the blind target data **  || File -  2022.cases
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Pattern -  Np_Prep_<NP>:POS__POINT_TO
+Number of hits -  1
+Accuracy -  0.333333333333
+Keywords matched -  ['waypoint']
+============  Extractions ============
+&&14 wt >PERCENT CaO  || File -  1249.cases
+** the Pahrump waypoint **  || File -  2099.cases
+areas  || File -  2301.cases
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Pattern -  Np_Prep_<NP>:POS__LOCATION_ON
+Number of hits -  2
+Accuracy -  0.285714285714
+Keywords matched -  ['targets', 'target']
+============  Extractions ============
+Sols &&725 and &&726  || File -  1433.cases
+each image  || File -  1433.cases
+** targets **  || File -  1514.cases
+Mars >COMMA and multiple locations  || File -  1514.cases
+** each target **  || File -  1514.cases
+the sample  || File -  2119.cases
+a high-Si  || File -  2990.cases
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Pattern -  ActVp_Prep_<NP>:POS__SAMPLES_FOR
+Number of hits -  1
+Accuracy -  0.25
+Keywords matched -  ['Cumberland', 'John_Klein', 'Rocknest', 'Windjana']
+============  Extractions ============
+this project  || File -  1510.cases
+concentrations  || File -  2720.cases
+** Rocknest >COMMA JOHN_KLEIN >COMMA Cumberland >COMMA and Windjana **  || File -  2735.cases
+improving  || File -  3021.cases
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Pattern -  Np_Prep_<NP>:POS__ROCKS_OF
+Number of hits -  1
+Accuracy -  0.2
+Keywords matched -  ['member']
+============  Extractions ============
+the Cooperstown and Kimberley formations  || File -  1438.cases
+group &&3  || File -  1943.cases
+group &&5  || File -  1943.cases
+group &&3  || File -  2452.cases
+** the same member **  || File -  2893.cases
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Pattern -  <subj>_ActVp:POS__DRILLED
+Number of hits -  1
+Accuracy -  0.142857142857
+Keywords matched -  ['Cumberland']
+============  Extractions ============
+Curiosity  || File -  1438.cases
+Brief Summary of Samples  || File -  2417.cases
+we  || File -  2417.cases
+the MSL rover  || File -  2417.cases
+the second rock  || File -  2417.cases
+** the Cumberland **  || File -  2417.cases
+1d  || File -  2417.cases
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Pattern -  Np_Prep_<NP>:POS__ANALYSIS_AT
+Number of hits -  1
+Accuracy -  0.142857142857
+Keywords matched -  ['Confidence_Hills']
+============  Extractions ============
+the same point  || File -  1524.cases
+Pahrump  || File -  1524.cases
+** the CONFIDENCE_HILLS drill site **  || File -  1994.cases
+the base of Pahrump Hills  || File -  1994.cases
+&&837 nm  || File -  2022.cases
+Mars  || File -  2893.cases
+this location  || File -  2940.cases
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Pattern -  Np_Prep_<NP>:POS__LOCATIONS_ON
+Number of hits -  2
+Accuracy -  0.142857142857
+Keywords matched -  ['Stovepipe_Wells', 'target']
+============  Extractions ============
+Perdido2  || File -  1433.cases
+** Stovepipe_Wells **  || File -  1433.cases
+** each target **  || File -  1514.cases
+HiRISE color mosaic  || File -  2124.cases
+the grid  || File -  2232.cases
+the matrix  || File -  2232.cases
+&&2 basaltic clasts  || File -  2232.cases
+each clast  || File -  2232.cases
+the Mg element map  || File -  2232.cases
+each pellet  || File -  2338.cases
+the sample surface  || File -  2724.cases
+rock  || File -  2940.cases
+eachlocation  || File -  3012.cases
+the island of Suduroy  || File -  3021.cases
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Pattern -  infinitive_verb_<dobj>:POS__ANALYZE
+Number of hits -  1
+Accuracy -  0.111111111111
+Keywords matched -  ['target']
+============  Extractions ============
+every sample  || File -  1510.cases
+the least abundant phases AS_WELL_AS the coarser fraction of the sands  || File -  1634.cases
+all grains  || File -  2201.cases
+a heterogenous sample using NWA &&7034  || File -  2232.cases
+this meteorite sample  || File -  2232.cases
+the LIBSSIM simulation of NWA &&7034  || File -  2232.cases
+mixtures of salt and basalt powders  || File -  2724.cases
+the partial correlations  || File -  2940.cases
+** the structure of the rock target **  || File -  2940.cases
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Pattern -  <subj>_ActVp:POS__CONTAINED
+Number of hits -  1
+Accuracy -  0.1
+Keywords matched -  ['Windjana']
+============  Extractions ============
+some  || File -  1249.cases
+Each batch reactor  || File -  1505.cases
+pellets  || File -  1510.cases
+iv  || File -  1736.cases
+The exposed strata  || File -  1989.cases
+Yellowknife Bay  || File -  2417.cases
+** Both aliquots of the Windjana drill powder **  || File -  2620.cases
+some of the rocks  || File -  2720.cases
+the atmosphere  || File -  2893.cases
+a set of objects  || File -  2940.cases
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Pattern -  ActVp_Prep_<NP>:POS__ACQUIRED_ON
+Number of hits -  1
+Accuracy -  0.0833333333333
+Keywords matched -  ['target']
+============  Extractions ============
+the flight model  || File -  1510.cases
+an analog instrument  || File -  1510.cases
+Mars  || File -  1510.cases
+Mars  || File -  1510.cases
+** the shergottite calibration target **  || File -  1510.cases
+Mars  || File -  1510.cases
+sol &&467  || File -  2124.cases
+the surface  || File -  2399.cases
+Sol &&626  || File -  2748.cases
+Sol &&399  || File -  2919.cases
+gypsum  || File -  2966.cases
+Mars Science Laboratory  || File -  2990.cases
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Pattern -  <subj>_ActVp:POS__DRILL
+Number of hits -  1
+Accuracy -  0.0588235294118
+Keywords matched -  ['Confidence_Hills']
+============  Extractions ============
+we  || File -  1433.cases
+the Kimberley outcrop  || File -  1433.cases
+The passive spectra of all  || File -  1433.cases
+all  || File -  1433.cases
+ChemCam reflectance spectra of all  || File -  1433.cases
+bottom  || File -  1433.cases
+right  || File -  1433.cases
+** the CONFIDENCE_HILLS unit **  || File -  2099.cases
+5IRAP/CNRS Introduction  || File -  2301.cases
+&&50 weight percent of both  || File -  2301.cases
+all middle units  || File -  2339.cases
+Vertical lines  || File -  2339.cases
+the Mars Science Laboratory Powder Acquisition  || File -  2417.cases
+the Sample Acquisition/Sampling Processing and Handling System  || File -  2417.cases
+the first &&5  || File -  2417.cases
+This  || File -  2417.cases
+the differentMSL/Curiosity  || File -  3012.cases
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Pattern -  <subj>_ActVp:POS__ANALYZED
+Number of hits -  1
+Accuracy -  0.0357142857143
+Keywords matched -  ['Badwater', 'target']
+============  Extractions ============
+stratigraphic order  || File -  1438.cases
+all potassic rocks  || File -  1438.cases
+** target Badwater **  || File -  1514.cases
+1524.PDF DIAGENETIC FEATURES  || File -  1524.cases
+RMI images of different types  || File -  1524.cases
+ChemCam  || File -  1524.cases
+1524.pdf46th Lunar and Planetary Science Conference  || File -  1524.cases
+RMI images of light-toned veins  || File -  1524.cases
+the ChemCam instrument  || File -  1524.cases
+HiRISE image and localization of light-toned veins  || File -  1524.cases
+the distinc classes of concretions  || File -  1524.cases
+The distinct compositions  || File -  1524.cases
+the stratigraphic units  || File -  1524.cases
+the rocks  || File -  2234.cases
+the regional provinces  || File -  2284.cases
+The rocks  || File -  2284.cases
+ChemCam  || File -  2301.cases
+material  || File -  2301.cases
+the first felsic alkali-rich volcanic rocks  || File -  2452.cases
+Several rocks  || File -  2620.cases
+the &&3 chloride mixtures  || File -  2724.cases
+The suite of minerals  || File -  2735.cases
+previous samples  || File -  2735.cases
+the more alkali-rich  || File -  2735.cases
+Soils  || File -  2767.cases
+each aeolian deposit  || File -  2767.cases
+data  || File -  2850.cases
+We  || File -  2940.cases
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~

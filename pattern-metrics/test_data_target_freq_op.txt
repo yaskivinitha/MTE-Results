@@ -1,515 +1,1153 @@
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Number of caseframes applied = 36
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Pattern -  Np_Prep_<NP>:POS__COMPOSITION_FOR  || Hits is -  2  || Accuracy -  0.333333333333
-Matched target names are : ['target', 'target']
-Extraction :  Goldstone  || length is -  9 || File :  1369.cases
-Extraction :  the &&3 coarse bins  || length is -  19 || File :  1369.cases
-Extraction :  a target  || length is -  8 || File :  1514.cases
-Extraction :  more details  || length is -  12 || File :  2093.cases
-Extraction :  each target  || length is -  11 || File :  2232.cases
-Extraction :  the simulated NWA &&7034 matrix  || length is -  31 || File :  2232.cases
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Pattern -  Np_Prep_<NP>:POS__LOCATIONS_ON  || Hits is -  2  || Accuracy -  0.142857142857
-Matched target names are : ['Stovepipe_Wells', 'target']
-Extraction :  Perdido2  || length is -  8 || File :  1433.cases
-Extraction :  Stovepipe_Wells  || length is -  15 || File :  1433.cases
-Extraction :  each target  || length is -  11 || File :  1514.cases
-Extraction :  HiRISE color mosaic  || length is -  19 || File :  2124.cases
-Extraction :  the grid  || length is -  8 || File :  2232.cases
-Extraction :  the matrix  || length is -  10 || File :  2232.cases
-Extraction :  &&2 basaltic clasts  || length is -  19 || File :  2232.cases
-Extraction :  each clast  || length is -  10 || File :  2232.cases
-Extraction :  the Mg element map  || length is -  18 || File :  2232.cases
-Extraction :  each pellet  || length is -  11 || File :  2338.cases
-Extraction :  the sample surface  || length is -  18 || File :  2724.cases
-Extraction :  rock  || length is -  4 || File :  2940.cases
-Extraction :  eachlocation  || length is -  12 || File :  3012.cases
-Extraction :  the island of Suduroy  || length is -  21 || File :  3021.cases
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Pattern -  <subj>_ActVp:POS__CONTAINS  || Hits is -  3  || Accuracy -  0.166666666667
-Matched target names are : ['target', 'Windjana', 'Windjana']
-Extraction :  implying  || length is -  8 || File :  1514.cases
-Extraction :  W/R &&1000  || length is -  10 || File :  1769.cases
-Extraction :  The other target  || length is -  16 || File :  2099.cases
-Extraction :  It  || length is -  2 || File :  2099.cases
-Extraction :  This instrument suite  || length is -  21 || File :  2201.cases
-Extraction :  Windjana  || length is -  8 || File :  2620.cases
-Extraction :  The Windjana sample  || length is -  19 || File :  2620.cases
-Extraction :  e.g.  || length is -  4 || File :  2715.cases
-Extraction :  Our current data set of Ni  || length is -  26 || File :  2720.cases
-Extraction :  the cooling plasma  || length is -  18 || File :  2724.cases
-Extraction :  CH  || length is -  2 || File :  2735.cases
-Extraction :  FTIR Results  || length is -  12 || File :  2775.cases
-Extraction :  &&1  || length is -  3 || File :  2781.cases
-Extraction :  the bottom plot  || length is -  15 || File :  2781.cases
-Extraction :  Mars  || length is -  4 || File :  2818.cases
-Extraction :  Gale  || length is -  4 || File :  2892.cases
-Extraction :  increases  || length is -  9 || File :  2940.cases
-Extraction :  Gale crater  || length is -  11 || File :  3012.cases
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Pattern -  Np_Prep_<NP>:POS__DATA_FROM  || Hits is -  1  || Accuracy -  0.027027027027
-Matched target names are : ['John_Klein']
-Extraction :  bin &&1  || length is -  7 || File :  1369.cases
-Extraction :  OMEGA imaging spectrometer onboard Mars  || length is -  39 || File :  1373.cases
-Extraction :  ChemCam  || length is -  7 || File :  1510.cases
-Extraction :  a duplicate  || length is -  11 || File :  1510.cases
-Extraction :  martian  || length is -  7 || File :  1510.cases
-Extraction :  sols &&13-801  || length is -  13 || File :  1514.cases
-Extraction :  sols &&13-801  || length is -  13 || File :  1514.cases
-Extraction :  CRISM  || length is -  5 || File :  1736.cases
-Extraction :  CRISM  || length is -  5 || File :  1736.cases
-Extraction :  Yellowknife Bay  || length is -  15 || File :  1769.cases
-Extraction :  X-ray fluorescence  || length is -  18 || File :  1875.cases
-Extraction :  ChemCam/LIBS and CheMin  || length is -  23 || File :  1903.cases
-Extraction :  the CheMin instrument  || length is -  21 || File :  1989.cases
-Extraction :  individual HiRISE detectors and images  || length is -  38 || File :  2124.cases
-Extraction :  Gale Crater >COMMA and Gusev Crater  || length is -  35 || File :  2284.cases
-Extraction :  the Gamma Ray Spectrometer  || length is -  26 || File :  2284.cases
-Extraction :  MER Spirit and MSL Curiosity  || length is -  28 || File :  2284.cases
-Extraction :  the rovers  || length is -  10 || File :  2284.cases
-Extraction :  the rovers  || length is -  10 || File :  2284.cases
-Extraction :  the rocks  || length is -  9 || File :  2284.cases
-Extraction :  Curiosity  || length is -  9 || File :  2284.cases
-Extraction :  the GRS experiment  || length is -  18 || File :  2284.cases
-Extraction :  the Curiosity rover  || length is -  19 || File :  2284.cases
-Extraction :  Spirit  || length is -  6 || File :  2284.cases
-Extraction :  Spirit  || length is -  6 || File :  2284.cases
-Extraction :  the surface of the rocks  || length is -  24 || File :  2301.cases
-Extraction :  the rocks and JOHN_KLEIN drill hole wall  || length is -  40 || File :  2301.cases
-Extraction :  all of Curiosity s instruments  || length is -  30 || File :  2620.cases
-Extraction :  all other solid samples  || length is -  23 || File :  2715.cases
-Extraction :  concentrations  || length is -  14 || File :  2720.cases
-Extraction :  loop &&1  || length is -  8 || File :  2855.cases
-Extraction :  the Curiosity rover  || length is -  19 || File :  2919.cases
-Extraction :  Sol &&399  || length is -  9 || File :  2919.cases
-Extraction :  the veins  || length is -  9 || File :  2966.cases
-Extraction :  martian veins  || length is -  13 || File :  2966.cases
-Extraction :  veins  || length is -  5 || File :  2966.cases
-Extraction :  Gale crater  || length is -  11 || File :  2966.cases
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Pattern -  Np_Prep_<NP>:POS__ONE_OF  || Hits is -  3  || Accuracy -  0.166666666667
-Matched target names are : ['targets', 'Vaqueros', 'target']
-Extraction :  them  || length is -  4 || File :  1373.cases
-Extraction :  the parameters  || length is -  14 || File :  1510.cases
-Extraction :  the phases  || length is -  10 || File :  1514.cases
-Extraction :  the main targets  || length is -  16 || File :  1769.cases
-Extraction :  &&2 size regimes  || length is -  16 || File :  1875.cases
-Extraction :  the major phases  || length is -  16 || File :  1989.cases
-Extraction :  the main advantages of LIBS  || length is -  27 || File :  2022.cases
-Extraction :  the most  || length is -  8 || File :  2093.cases
-Extraction :  the target Vaqueros  || length is -  19 || File :  2099.cases
-Extraction :  the following different minerals  || length is -  32 || File :  2232.cases
-Extraction :  the most  || length is -  8 || File :  2417.cases
-Extraction :  the first K-rich conglomerate  || length is -  29 || File :  2452.cases
-Extraction :  the standards  || length is -  13 || File :  2720.cases
-Extraction :  &&2 basaltic backgrounds  || length is -  24 || File :  2724.cases
-Extraction :  many mineral classes  || length is -  20 || File :  2781.cases
-Extraction :  its groups  || length is -  10 || File :  2789.cases
-Extraction :  the lowest elevation landing  || length is -  28 || File :  2791.cases
-Extraction :  the major RRs  || length is -  13 || File :  2919.cases
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Pattern -  Np_Prep_<NP>:POS__ANALYSIS_OF  || Hits is -  3  || Accuracy -  0.0789473684211
-Matched target names are : ['targets', 'Confidence_Hills', 'target']
-Extraction :  the ChemCam data  || length is -  16 || File :  1413.cases
-Extraction :  targets  || length is -  7 || File :  1524.cases
-Extraction :  the underlying  || length is -  14 || File :  1524.cases
-Extraction :  the chemical and mineralogic composition of the sands  || length is -  53 || File :  1634.cases
-Extraction :  Curiosity drive telemetry and numerical modeling of drives  || length is -  58 || File :  1682.cases
-Extraction :  soils  || length is -  5 || File :  2022.cases
-Extraction :  the first shots  || length is -  15 || File :  2022.cases
-Extraction :  the chlorine emission line  || length is -  26 || File :  2022.cases
-Extraction :  calcium sulfate veins  || length is -  21 || File :  2119.cases
-Extraction :  hydrogen  || length is -  8 || File :  2119.cases
-Extraction :  the texture and composition of the cement  || length is -  41 || File :  2234.cases
-Extraction :  associated MAHLI images  || length is -  23 || File :  2234.cases
-Extraction :  minor  || length is -  5 || File :  2338.cases
-Extraction :  the CONFIDENCE_HILLS drill target  || length is -  33 || File :  2339.cases
-Extraction :  ChemCam and APXS data  || length is -  21 || File :  2339.cases
-Extraction :  terrains  || length is -  8 || File :  2399.cases
-Extraction :  each new sample  || length is -  15 || File :  2417.cases
-Extraction :  the powder  || length is -  10 || File :  2417.cases
-Extraction :  samples  || length is -  7 || File :  2715.cases
-Extraction :  various combinations  || length is -  20 || File :  2720.cases
-Extraction :  salt anions  || length is -  11 || File :  2724.cases
-Extraction :  the mixtures  || length is -  12 || File :  2724.cases
-Extraction :  the Mars dataset  || length is -  16 || File :  2724.cases
-Extraction :  these elements  || length is -  14 || File :  2724.cases
-Extraction :  these mixtures  || length is -  14 || File :  2724.cases
-Extraction :  carbonates >COMMA sulfates >COMMA and chlorides  || length is -  47 || File :  2724.cases
-Extraction :  the CH sample  || length is -  13 || File :  2735.cases
-Extraction :  ChemCam data  || length is -  12 || File :  2789.cases
-Extraction :  well-characterized terrestrial standards  || length is -  40 || File :  2850.cases
-Extraction :  P peak intensities and overlapping emissions  || length is -  44 || File :  2850.cases
-Extraction :  MAHLI data  || length is -  10 || File :  2855.cases
-Extraction :  variance  || length is -  8 || File :  3012.cases
-Extraction :  MARS ANALOG  || length is -  11 || File :  3021.cases
-Extraction :  the materials  || length is -  13 || File :  3021.cases
-Extraction :  different materials  || length is -  19 || File :  3021.cases
-Extraction :  samples  || length is -  7 || File :  3021.cases
-Extraction :  these analogs  || length is -  13 || File :  3021.cases
-Extraction :  planetary analogs  || length is -  17 || File :  3021.cases
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Pattern -  ActVp_<dobj>:POS__INCLUDES  || Hits is -  1  || Accuracy -  0.0625
-Matched target names are : ['members']
-Extraction :  &&7 members  || length is -  11 || File :  1438.cases
-Extraction :  quartz-normative intrusive rocks  || length is -  32 || File :  1943.cases
-Extraction :  the distribution of grain sizes  || length is -  31 || File :  2201.cases
-Extraction :  clasts of varying compositions  || length is -  30 || File :  2232.cases
-Extraction :  a Laser  || length is -  7 || File :  2301.cases
-Extraction :  H2O >COMMA Cl >COMMA and other minor elements  || length is -  45 || File :  2301.cases
-Extraction :  the geology of the site  || length is -  23 || File :  2417.cases
-Extraction :  K-rich basalts  || length is -  14 || File :  2620.cases
-Extraction :  &&93 randomly-chosen geological samples  || length is -  39 || File :  2775.cases
-Extraction :  an infrared  || length is -  11 || File :  2781.cases
-Extraction :  a VISIR reflectance spectrometer  || length is -  32 || File :  2781.cases
-Extraction :  &&3358 measurements  || length is -  19 || File :  2789.cases
-Extraction :  spectra  || length is -  7 || File :  2940.cases
-Extraction :  a Remote Micro Imager  || length is -  21 || File :  2966.cases
-Extraction :  &&50 shots  || length is -  10 || File :  2966.cases
-Extraction :  the LIBS pit  || length is -  12 || File :  2990.cases
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Pattern -  ActVp_<dobj>:POS__SPACE  || Hits is -  1  || Accuracy -  0.0185185185185
-Matched target names are : ['Agency']
-Extraction :  Sci. Reviews  || length is -  12 || File :  1373.cases
-Extraction :  Sci.  || length is -  4 || File :  1373.cases
-Extraction :  Agency  || length is -  6 || File :  1413.cases
-Extraction :  Sci. Rev.  || length is -  9 || File :  1413.cases
-Extraction :  Sci. Rev.  || length is -  9 || File :  1413.cases
-Extraction :  Sci Rev.  || length is -  8 || File :  1433.cases
-Extraction :  Sci Rev.  || length is -  8 || File :  1433.cases
-Extraction :  Sci. Rev.  || length is -  9 || File :  1438.cases
-Extraction :  Sci. Rev.  || length is -  9 || File :  1438.cases
-Extraction :  Sci. Revs  || length is -  9 || File :  1510.cases
-Extraction :  Sci. Rev.  || length is -  9 || File :  1514.cases
-Extraction :  Sci.  || length is -  4 || File :  1514.cases
-Extraction :  Sci. Rev. &&170  || length is -  15 || File :  1524.cases
-Extraction :  Sci. Rev.  || length is -  9 || File :  1524.cases
-Extraction :  Sci. Rev. &&170  || length is -  15 || File :  1566.cases
-Extraction :  Sci. Rev. &&170  || length is -  15 || File :  1566.cases
-Extraction :  Sci. Rev.  || length is -  9 || File :  1634.cases
-Extraction :  Sci. Rev.  || length is -  9 || File :  1634.cases
-Extraction :  Sci. Rev.  || length is -  9 || File :  1875.cases
-Extraction :  Science Institute  || length is -  17 || File :  2022.cases
-Extraction :  Sci Rev  || length is -  7 || File :  2022.cases
-Extraction :  Sci Rev  || length is -  7 || File :  2022.cases
-Extraction :  Science Reviews  || length is -  15 || File :  2093.cases
-Extraction :  Sci. Rev.  || length is -  9 || File :  2119.cases
-Extraction :  Sci. Rev.  || length is -  9 || File :  2119.cases
-Extraction :  Sci. Rev.  || length is -  9 || File :  2232.cases
-Extraction :  Sci.  || length is -  4 || File :  2232.cases
-Extraction :  Science Reviews  || length is -  15 || File :  2234.cases
-Extraction :  Science Review  || length is -  14 || File :  2301.cases
-Extraction :  Sci. Rev.  || length is -  9 || File :  2324.cases
-Extraction :  Sci. Rev.  || length is -  9 || File :  2324.cases
-Extraction :  Sci. Revs  || length is -  9 || File :  2338.cases
-Extraction :  Sci. Revs  || length is -  9 || File :  2338.cases
-Extraction :  Sci. Rev.  || length is -  9 || File :  2417.cases
-Extraction :  Science  || length is -  7 || File :  2452.cases
-Extraction :  Science  || length is -  7 || File :  2452.cases
-Extraction :  Sci. Rev. &&170  || length is -  15 || File :  2620.cases
-Extraction :  Sci. Revs  || length is -  9 || File :  2720.cases
-Extraction :  Science  || length is -  7 || File :  2767.cases
-Extraction :  Science  || length is -  7 || File :  2767.cases
-Extraction :  Sci. Revs  || length is -  9 || File :  2773.cases
-Extraction :  Sci. Revs  || length is -  9 || File :  2775.cases
-Extraction :  Sci. Rev.  || length is -  9 || File :  2775.cases
-Extraction :  Sci. Rev.  || length is -  9 || File :  2789.cases
-Extraction :  Sci. Rev.  || length is -  9 || File :  2789.cases
-Extraction :  Sci Rev  || length is -  7 || File :  2791.cases
-Extraction :  Sci. Rev. 170:95  || length is -  16 || File :  2850.cases
-Extraction :  Sci Rev. 170:167  || length is -  16 || File :  2850.cases
-Extraction :  Sci. Rev.  || length is -  9 || File :  2855.cases
-Extraction :  Sci. Rev.  || length is -  9 || File :  2940.cases
-Extraction :  Sci. Rev.  || length is -  9 || File :  2966.cases
-Extraction :  Sci. Rev.  || length is -  9 || File :  2966.cases
-Extraction :  Sci. Rev.  || length is -  9 || File :  2990.cases
-Extraction :  Sci. Rev.  || length is -  9 || File :  2990.cases
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Pattern -  ActVp_Prep_<NP>:POS__KNOWN_AS  || Hits is -  1  || Accuracy -  0.5
-Matched target names are : ['Bonanza_King']
-Extraction :  BONANZA_KING  || length is -  12 || File :  2417.cases
-Extraction :  Bayesian model averaging  || length is -  24 || File :  2940.cases
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Pattern -  <subj>_ActVp:POS__SHOWED  || Hits is -  1  || Accuracy -  0.0909090909091
-Matched target names are : ['Rocknest']
-Extraction :  The raised ridges  || length is -  17 || File :  1524.cases
-Extraction :  Initial Results  || length is -  15 || File :  1634.cases
-Extraction :  Modal Mineralogies  || length is -  18 || File :  1634.cases
-Extraction :  we  || length is -  2 || File :  1769.cases
-Extraction :  the MSL team  || length is -  12 || File :  2022.cases
-Extraction :  Univariate analysis of the chlorine emission line  || length is -  49 || File :  2022.cases
-Extraction :  the rock  || length is -  8 || File :  2234.cases
-Extraction :  ChemCam observations of the Rocknest suite  || length is -  42 || File :  2234.cases
-Extraction :  Corresponding RMI images  || length is -  24 || File :  2339.cases
-Extraction :  Initial results  || length is -  15 || File :  2748.cases
-Extraction :  Imaging  || length is -  7 || File :  2855.cases
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Pattern -  <subj>_ActVp:POS__BASED  || Hits is -  2  || Accuracy -  0.0555555555556
-Matched target names are : ['waypoint', 'target']
-Extraction :  using cation ratios  || length is -  19 || File :  1514.cases
-Extraction :  propagated errors  || length is -  17 || File :  1514.cases
-Extraction :  Ternary diagram of feldspar compositions  || length is -  40 || File :  1514.cases
-Extraction :  The software  || length is -  12 || File :  1514.cases
-Extraction :  examing mineral composition  || length is -  27 || File :  1514.cases
-Extraction :  single minerals  || length is -  15 || File :  1514.cases
-Extraction :  stoichiometry criteria  || length is -  22 || File :  1514.cases
-Extraction :  a recommended rock classification framework  || length is -  43 || File :  1566.cases
-Extraction :  the model  || length is -  9 || File :  1769.cases
-Extraction :  martian regolith  || length is -  16 || File :  1875.cases
-Extraction :  Our preliminary calibration  || length is -  27 || File :  1875.cases
-Extraction :  it  || length is -  2 || File :  2099.cases
-Extraction :  Pahrump waypoint description  || length is -  28 || File :  2099.cases
-Extraction :  The trend  || length is -  9 || File :  2119.cases
-Extraction :  the dunes  || length is -  9 || File :  2124.cases
-Extraction :  an accurate bulk composition of a heterogeneous target  || length is -  54 || File :  2232.cases
-Extraction :  the traverse  || length is -  12 || File :  2234.cases
-Extraction :  depletion  || length is -  9 || File :  2234.cases
-Extraction :  &&2 Areas  || length is -  9 || File :  2284.cases
-Extraction :  winds  || length is -  5 || File :  2324.cases
-Extraction :  the passage of sand  || length is -  19 || File :  2324.cases
-Extraction :  &&2  || length is -  3 || File :  2324.cases
-Extraction :  their textures  || length is -  14 || File :  2452.cases
-Extraction :  The alkali feldspar  || length is -  19 || File :  2620.cases
-Extraction :  recent results  || length is -  14 || File :  2715.cases
-Extraction :  A calibration  || length is -  13 || File :  2720.cases
-Extraction :  &&400 ppm  || length is -  9 || File :  2720.cases
-Extraction :  &&3 algorithms  || length is -  14 || File :  2775.cases
-Extraction :  iterative thresholding  || length is -  22 || File :  2775.cases
-Extraction :  squares  || length is -  7 || File :  2775.cases
-Extraction :  CaSO4  || length is -  5 || File :  2781.cases
-Extraction :  We  || length is -  2 || File :  2789.cases
-Extraction :  P  || length is -  1 || File :  2850.cases
-Extraction :  Blackhead_7  || length is -  11 || File :  2850.cases
-Extraction :  mudstone  || length is -  8 || File :  2855.cases
-Extraction :  Conclusions  || length is -  11 || File :  2892.cases
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Pattern -  <subj>_ActVp:POS__ACQUIRED  || Hits is -  1  || Accuracy -  0.0357142857143
-Matched target names are : ['targets']
-Extraction :  Earth-based calibration spectra  || length is -  31 || File :  1510.cases
-Extraction :  those  || length is -  5 || File :  1510.cases
-Extraction :  those  || length is -  5 || File :  1510.cases
-Extraction :  data  || length is -  4 || File :  1510.cases
-Extraction :  bracket Mars data  || length is -  17 || File :  1510.cases
-Extraction :  existing calibrations  || length is -  21 || File :  1510.cases
-Extraction :  Averaging all  || length is -  13 || File :  1514.cases
-Extraction :  Images  || length is -  6 || File :  1903.cases
-Extraction :  Using observations  || length is -  18 || File :  1994.cases
-Extraction :  azimulong distance ChemCam passive spectral observation  || length is -  55 || File :  2124.cases
-Extraction :  APXS data  || length is -  9 || File :  2339.cases
-Extraction :  MARDI  || length is -  5 || File :  2399.cases
-Extraction :  complementary Mastcam imaging  || length is -  29 || File :  2399.cases
-Extraction :  Comparison of spectra  || length is -  21 || File :  2536.cases
-Extraction :  spectra  || length is -  7 || File :  2536.cases
-Extraction :  the baseline than spectra  || length is -  25 || File :  2536.cases
-Extraction :  Pahrump Hills Stratigraphy >COMMA Chemistry >COMMA and Mineralogy  || length is -  65 || File :  2715.cases
-Extraction :  the visible-to-near-infrared passive spectra  || length is -  44 || File :  2748.cases
-Extraction :  The Mastcam imaging investigation  || length is -  33 || File :  2748.cases
-Extraction :  &&3  || length is -  3 || File :  2748.cases
-Extraction :  the data  || length is -  8 || File :  2767.cases
-Extraction :  more closely resemble spectra of the same targets  || length is -  49 || File :  2773.cases
-Extraction :  The mosaic  || length is -  10 || File :  2855.cases
-Extraction :  geochemical data  || length is -  16 || File :  2855.cases
-Extraction :  Aeolis Palus  || length is -  12 || File :  2919.cases
-Extraction :  spectra  || length is -  7 || File :  2966.cases
-Extraction :  we  || length is -  2 || File :  2966.cases
-Extraction :  the experience  || length is -  14 || File :  2990.cases
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Pattern -  ActVp_<dobj>:POS__USING  || Hits is -  2  || Accuracy -  0.037037037037
-Matched target names are : ['targets', 'Delta']
-Extraction :  the on-board calibration targets  || length is -  32 || File :  1369.cases
-Extraction :  the entire OMEGA dataset  || length is -  24 || File :  1373.cases
-Extraction :  the &&1.5 m band depth  || length is -  22 || File :  1373.cases
-Extraction :  the ChemCam instrument  || length is -  22 || File :  1413.cases
-Extraction :  a Rigaku Ultima IV X-Ray diffractometer  || length is -  39 || File :  1505.cases
-Extraction :  innovative multivariate analysis techniques  || length is -  43 || File :  1510.cases
-Extraction :  a new custom-designed LIBS instrument  || length is -  37 || File :  1510.cases
-Extraction :  a much lower energy density  || length is -  27 || File :  1510.cases
-Extraction :  the ARTMEIS Toolkit  || length is -  19 || File :  1682.cases
-Extraction :  minimal resources  || length is -  17 || File :  1736.cases
-Extraction :  the ChemCam team standard Partial Least Squares &&1 analysis  || length is -  60 || File :  2093.cases
-Extraction :  peak height  || length is -  11 || File :  2119.cases
-Extraction :  an ASD field spectrometer  || length is -  25 || File :  2132.cases
-Extraction :  an Edax Orbis Micro X-ray fluorescence spectrometer  || length is -  51 || File :  2132.cases
-Extraction :  a high resolution digital single-lens reflex  || length is -  44 || File :  2201.cases
-Extraction :  images  || length is -  6 || File :  2201.cases
-Extraction :  a set of images  || length is -  15 || File :  2201.cases
-Extraction :  a &&30 kV accelerating voltage  || length is -  30 || File :  2232.cases
-Extraction :  the ImageJ program  || length is -  18 || File :  2232.cases
-Extraction :  a simulated NWA &&7034 matrix composition  || length is -  41 || File :  2232.cases
-Extraction :  an aggradational delta model  || length is -  28 || File :  2234.cases
-Extraction :  the ChemCam  || length is -  11 || File :  2234.cases
-Extraction :  a Mars-analog LIBS instrument  || length is -  29 || File :  2338.cases
-Extraction :  the PLS1 routine  || length is -  16 || File :  2339.cases
-Extraction :  the open source software Hugin  || length is -  30 || File :  2399.cases
-Extraction :  a Mars-analog LIBS  || length is -  18 || File :  2536.cases
-Extraction :  commercial codes Jade and Topas  || length is -  31 || File :  2620.cases
-Extraction :  a novel multi-pass strategy  || length is -  27 || File :  2715.cases
-Extraction :  a wavelength  || length is -  12 || File :  2720.cases
-Extraction :  a Matlab routine  || length is -  16 || File :  2720.cases
-Extraction :  the maximum intensity Table &&1  || length is -  31 || File :  2720.cases
-Extraction :  cross-validation  || length is -  16 || File :  2720.cases
-Extraction :  its onboard  || length is -  11 || File :  2724.cases
-Extraction :  the nonlinear least squares Levenberg-Marquardt algorithm  || length is -  57 || File :  2724.cases
-Extraction :  a ratio  || length is -  7 || File :  2748.cases
-Extraction :  the blind sampling mode  || length is -  23 || File :  2767.cases
-Extraction :  lab-based spectra  || length is -  17 || File :  2773.cases
-Extraction :  the calibration curve  || length is -  21 || File :  2773.cases
-Extraction :  the fitting approach  || length is -  20 || File :  2775.cases
-Extraction :  squares  || length is -  7 || File :  2775.cases
-Extraction :  the entire Curiosity payload  || length is -  28 || File :  2789.cases
-Extraction :  remote Raman >COMMA fluorescence >COMMA and VISIR spectroscopy  || length is -  62 || File :  2818.cases
-Extraction :  partial least-squares regression and principal component analysis  || length is -  65 || File :  2850.cases
-Extraction :  an expanded laboratory training set  || length is -  35 || File :  2850.cases
-Extraction :  the MAHLI camera  || length is -  16 || File :  2855.cases
-Extraction :  the white  || length is -  9 || File :  2855.cases
-Extraction :  AUTHIGENIC MINERAL ASSEMBLAGES  || length is -  30 || File :  2892.cases
-Extraction :  the hyperspectral VNIR OMEGA images  || length is -  35 || File :  2966.cases
-Extraction :  the Alpha Particle X-ray Spectroscopy  || length is -  37 || File :  2966.cases
-Extraction :  a process  || length is -  9 || File :  2966.cases
-Extraction :  a moisture analyser  || length is -  19 || File :  2966.cases
-Extraction :  the laser  || length is -  9 || File :  2966.cases
-Extraction :  a prototype field  || length is -  17 || File :  3021.cases
-Extraction :  multiple techniques  || length is -  19 || File :  3021.cases
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Pattern -  Np_Prep_<NP>:POS__SPECTRA_FROM  || Hits is -  2  || Accuracy -  0.153846153846
-Matched target names are : ['targets', 'targets']
-Extraction :  planes &&1 and &&2  || length is -  18 || File :  1369.cases
-Extraction :  a large region of interest  || length is -  26 || File :  1634.cases
-Extraction :  the ChemCam instrument  || length is -  22 || File :  1875.cases
-Extraction :  areas of interest  || length is -  17 || File :  2124.cases
-Extraction :  Mastcam multifilter observations of high-Mn targets  || length is -  51 || File :  2748.cases
-Extraction :  Mars and terrestrial laboratories  || length is -  33 || File :  2773.cases
-Extraction :  a gypsum sample  || length is -  15 || File :  2781.cases
-Extraction :  a relatively pure gypsum rock  || length is -  29 || File :  2781.cases
-Extraction :  the Chem-Cam materials library  || length is -  30 || File :  2850.cases
-Extraction :  a sequence of several shots  || length is -  27 || File :  2940.cases
-Extraction :  remote targets  || length is -  14 || File :  2966.cases
-Extraction :  points  || length is -  6 || File :  2966.cases
-Extraction :  GALE CRATER EXPLORATIONBY CURIOSITY  || length is -  35 || File :  3012.cases
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Pattern -  <subj>_ActVp:POS__CONTAINED  || Hits is -  1  || Accuracy -  0.1
-Matched target names are : ['Windjana']
-Extraction :  some  || length is -  4 || File :  1249.cases
-Extraction :  Each batch reactor  || length is -  18 || File :  1505.cases
-Extraction :  pellets  || length is -  7 || File :  1510.cases
-Extraction :  iv  || length is -  2 || File :  1736.cases
-Extraction :  The exposed strata  || length is -  18 || File :  1989.cases
-Extraction :  Yellowknife Bay  || length is -  15 || File :  2417.cases
-Extraction :  Both aliquots of the Windjana drill powder  || length is -  42 || File :  2620.cases
-Extraction :  some of the rocks  || length is -  17 || File :  2720.cases
-Extraction :  the atmosphere  || length is -  14 || File :  2893.cases
-Extraction :  a set of objects  || length is -  16 || File :  2940.cases
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Pattern -  Np_Prep_<NP>:POS__PART_OF  || Hits is -  2  || Accuracy -  0.142857142857
-Matched target names are : ['Confidence_Hills', 'Sheepbed']
-Extraction :  gas-enriched lava flows  || length is -  23 || File :  1249.cases
-Extraction :  the minerals structure  || length is -  22 || File :  1373.cases
-Extraction :  the Murray formation  || length is -  20 || File :  1634.cases
-Extraction :  the line  || length is -  8 || File :  1943.cases
-Extraction :  the outcrop  || length is -  11 || File :  2093.cases
-Extraction :  CONFIDENCE_HILLS  || length is -  16 || File :  2099.cases
-Extraction :  this identification  || length is -  19 || File :  2201.cases
-Extraction :  the amorphous component of the soils  || length is -  36 || File :  2284.cases
-Extraction :  lower Mt  || length is -  8 || File :  2339.cases
-Extraction :  the Murray formation  || length is -  20 || File :  2399.cases
-Extraction :  the Sheepbed mudstone 2417.pdf46th Lunar and Planetary Science Conference  || length is -  73 || File :  2417.cases
-Extraction :  the Murray formation  || length is -  20 || File :  2715.cases
-Extraction :  the ChemCam instrument  || length is -  22 || File :  2775.cases
-Extraction :  the instrument  || length is -  14 || File :  3012.cases
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Pattern -  <subj>_ActVp:POS__ROCKS  || Hits is -  1  || Accuracy -  0.0178571428571
-Matched target names are : ['target']
-Extraction :  We  || length is -  2 || File :  1373.cases
-Extraction :  1438.PDF  || length is -  8 || File :  1438.cases
-Extraction :  potassic sedimentary  || length is -  20 || File :  1438.cases
-Extraction :  &&2  || length is -  3 || File :  1438.cases
-Extraction :  sedimentary  || length is -  11 || File :  1438.cases
-Extraction :  Interpretation and discussion  || length is -  29 || File :  1438.cases
-Extraction :  Some of the source  || length is -  18 || File :  1514.cases
-Extraction :  Procedural flow chart  || length is -  21 || File :  1566.cases
-Extraction :  Geochemical Modifiers Relative  || length is -  30 || File :  1566.cases
-Extraction :  mafic  || length is -  5 || File :  1736.cases
-Extraction :  Our time-resolved instrument  || length is -  28 || File :  1736.cases
-Extraction :  instrument  || length is -  10 || File :  1875.cases
-Extraction :  a pervasive feature of sedimentary  || length is -  34 || File :  1903.cases
-Extraction :  pumice of molten  || length is -  16 || File :  1943.cases
-Extraction :  &&1  || length is -  3 || File :  1943.cases
-Extraction :  Porphyritic class  || length is -  17 || File :  1943.cases
-Extraction :  &&2  || length is -  3 || File :  1943.cases
-Extraction :  K-feldspar bearing  || length is -  18 || File :  1943.cases
-Extraction :  Alteration of source  || length is -  20 || File :  1989.cases
-Extraction :  The very fine grain size of sedimentary  || length is -  39 || File :  1994.cases
-Extraction :  elemental analysis of soils  || length is -  27 || File :  2022.cases
-Extraction :  Sediment Source Chemistry  || length is -  25 || File :  2093.cases
-Extraction :  we  || length is -  2 || File :  2119.cases
-Extraction :  quantification of H content  || length is -  27 || File :  2119.cases
-Extraction :  Opportunity of Mn oxide bearing  || length is -  31 || File :  2132.cases
-Extraction :  a wide variety of sedimentary  || length is -  29 || File :  2234.cases
-Extraction :  instrument  || length is -  10 || File :  2234.cases
-Extraction :  a set of sedimentary  || length is -  20 || File :  2234.cases
-Extraction :  other trends  || length is -  12 || File :  2234.cases
-Extraction :  some  || length is -  4 || File :  2234.cases
-Extraction :  S  || length is -  1 || File :  2284.cases
-Extraction :  The water content of materials  || length is -  30 || File :  2284.cases
-Extraction :  UV >COMMA VIS >COMMA and VNIR atomic emission spectra of surface  || length is -  64 || File :  2338.cases
-Extraction :  Bulk  || length is -  4 || File :  2338.cases
-Extraction :  interpreting chemistry of Martian  || length is -  33 || File :  2338.cases
-Extraction :  1b  || length is -  2 || File :  2452.cases
-Extraction :  1d  || length is -  2 || File :  2452.cases
-Extraction :  &&3 felsic  || length is -  10 || File :  2452.cases
-Extraction :  a quartz-normative trend  || length is -  24 || File :  2452.cases
-Extraction :  basalt/basanite  || length is -  15 || File :  2452.cases
-Extraction :  LASER-INDUCED BREAKDOWN SPECTRA OF GLASSES  || length is -  42 || File :  2536.cases
-Extraction :  this project  || length is -  12 || File :  2536.cases
-Extraction :  Compositions  || length is -  12 || File :  2536.cases
-Extraction :  Si-richer  || length is -  9 || File :  2536.cases
-Extraction :  other  || length is -  5 || File :  2620.cases
-Extraction :  its source  || length is -  10 || File :  2620.cases
-Extraction :  potassium-enriched basaltic source  || length is -  34 || File :  2620.cases
-Extraction :  other  || length is -  5 || File :  2715.cases
-Extraction :  other  || length is -  5 || File :  2715.cases
-Extraction :  sedimentary  || length is -  11 || File :  2720.cases
-Extraction :  diverse  || length is -  7 || File :  2789.cases
-Extraction :  traces of the host  || length is -  18 || File :  2789.cases
-Extraction :  float  || length is -  5 || File :  2789.cases
-Extraction :  the composition of the target  || length is -  29 || File :  2892.cases
-Extraction :  melt  || length is -  4 || File :  2892.cases
-Extraction :  Mn-rich  || length is -  7 || File :  2893.cases
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Pattern -  ActVp_Prep_<NP>:POS__OBSERVED_IN  || Hits is -  1  || Accuracy -  0.0454545454545
-Matched target names are : ['targets']
-Extraction :  the Yellowknife Bay area  || length is -  24 || File :  1249.cases
-Extraction :  the slow flow rate  || length is -  18 || File :  1505.cases
-Extraction :  both CaCl2 flowthrough reactors  || length is -  31 || File :  1505.cases
-Extraction :  one replicate  || length is -  13 || File :  1505.cases
-Extraction :  impact-associated veins  || length is -  23 || File :  1505.cases
-Extraction :  olivine  || length is -  7 || File :  1634.cases
-Extraction :  barchan dunes  || length is -  13 || File :  1634.cases
-Extraction :  ChemCam passive spectra  || length is -  23 || File :  1736.cases
-Extraction :  soils and sedimentary sequences  || length is -  31 || File :  1875.cases
-Extraction :  deposition >COMMA and regolith evolution  || length is -  40 || File :  1875.cases
-Extraction :  the diagenetic crystal clusters and dendrites  || length is -  45 || File :  1901.cases
-Extraction :  some of the ChemCam spectra  || length is -  27 || File :  1989.cases
-Extraction :  the SNC meteorites  || length is -  18 || File :  1989.cases
-Extraction :  the soils  || length is -  9 || File :  2119.cases
-Extraction :  CheMin samples  || length is -  14 || File :  2234.cases
-Extraction :  Mastcam and RMI images of these sandstones  || length is -  42 || File :  2339.cases
-Extraction :  petrographic thin sections information  || length is -  38 || File :  2620.cases
-Extraction :  the section  || length is -  11 || File :  2715.cases
-Extraction :  Blind Targets  || length is -  13 || File :  2767.cases
-Extraction :  hydrothermal deposits  || length is -  21 || File :  2892.cases
-Extraction :  Gale crater  || length is -  11 || File :  2893.cases
-Extraction :  Gale crater9  || length is -  12 || File :  2919.cases
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Pattern -  ActVp_<dobj>:POS__CALLED  || Hits is -  4  || Accuracy -  0.571428571429
-Matched target names are : ['Badwater', 'Bonanza_King', 'John_Klein', 'Confidence_Hills']
-Extraction :  Badwater  || length is -  8 || File :  1514.cases
-Extraction :  rasters  || length is -  7 || File :  2232.cases
-Extraction :  BONANZA_KING  || length is -  12 || File :  2417.cases
-Extraction :  JOHN_KLEIN  || length is -  10 || File :  2417.cases
-Extraction :  Yellowknife Bay  || length is -  15 || File :  2417.cases
-Extraction :  CONFIDENCE_HILLS  || length is -  16 || File :  2715.cases
-Extraction :  the Haughton-Mars Project  || length is -  25 || File :  2892.cases
-Total patterns evaluated =  31
-Count of patterns with valid extractions = 19
+~~~~~~~~~~~~~~~~~~~~~~~ RESULTS ~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Total patterns evaluated =  91
+Patterns with valid extractions =  40
+~~~~~~~~~~~~~~~~~~~~~~~ PATTERN LIST ~~~~~~~~~~~~~~~~~~~~~~
+Pattern -  Np_Prep_<NP>:POS__IMPACT_INTO
+Number of hits -  1
+Accuracy -  1.0
+Keywords matched -  ['target']
+============  Extractions ============
+** a target **  || File -  2892.cases
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Pattern -  ActVp_<dobj>:POS__CALLED
+Number of hits -  4
+Accuracy -  0.571428571429
+Keywords matched -  ['Badwater', 'Bonanza_King', 'John_Klein', 'Confidence_Hills']
+============  Extractions ============
+** Badwater **  || File -  1514.cases
+rasters  || File -  2232.cases
+** BONANZA_KING **  || File -  2417.cases
+** JOHN_KLEIN **  || File -  2417.cases
+Yellowknife Bay  || File -  2417.cases
+** CONFIDENCE_HILLS **  || File -  2715.cases
+the Haughton-Mars Project  || File -  2892.cases
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Pattern -  Np_Prep_<NP>:POS__SUPPORT_OF
+Number of hits -  1
+Accuracy -  0.5
+Keywords matched -  ['targets']
+============  Extractions ============
+** a more comprehensive classification of Curiosity targets **  || File -  2789.cases
+AMASE  || File -  3021.cases
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Pattern -  ActVp_Prep_<NP>:POS__KNOWN_AS
+Number of hits -  1
+Accuracy -  0.5
+Keywords matched -  ['Bonanza_King']
+============  Extractions ============
+** BONANZA_KING **  || File -  2417.cases
+Bayesian model averaging  || File -  2940.cases
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Pattern -  <subj>_ActVp:POS__CALLED
+Number of hits -  3
+Accuracy -  0.428571428571
+Keywords matched -  ['target']
+============  Extractions ============
+** a target **  || File -  1514.cases
+The &&1064 nm laser  || File -  2232.cases
+** the target **  || File -  2417.cases
+a Martian  || File -  2417.cases
+a shallow depression  || File -  2417.cases
+** a target **  || File -  2715.cases
+the impact structure  || File -  2892.cases
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Pattern -  Np_Prep_<NP>:POS__POINTS_ON
+Number of hits -  2
+Accuracy -  0.4
+Keywords matched -  ['targets', 'target']
+============  Extractions ============
+a given rock  || File -  1943.cases
+** finegrained homogenous targets **  || File -  1943.cases
+** a given rock target >COMMA AS_WELL_AS chemical variation **  || File -  2452.cases
+the baseline  || File -  2775.cases
+calcium sulfate veins  || File -  2966.cases
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Pattern -  Np_Prep_<NP>:POS__CHARACTERISTICS_OF
+Number of hits -  1
+Accuracy -  0.333333333333
+Keywords matched -  ['target']
+============  Extractions ============
+** the target **  || File -  2452.cases
+the hydrothermal chemistry  || File -  2892.cases
+impact-induced hydrothermal fluids  || File -  2892.cases
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Pattern -  ActVp_Prep_<NP>:POS__COMPARED_TO
+Number of hits -  7
+Accuracy -  0.233333333333
+Keywords matched -  ['Dump_Pile', 'Confidence_Hills', 'Rocknest', 'targets']
+============  Extractions ============
+laboratory spectra of several ferric oxides  || File -  1433.cases
+the other  || File -  1524.cases
+the host rock  || File -  1524.cases
+the original rock  || File -  1769.cases
+planetary crusts  || File -  1875.cases
+primary martian basalts  || File -  1875.cases
+spectra of group &&3  || File -  1943.cases
+those  || File -  2022.cases
+the RMI camera  || File -  2201.cases
+the DSLR color images  || File -  2201.cases
+the average intensity of the section  || File -  2232.cases
+the average of the largest visible grains  || File -  2234.cases
+the tailings  || File -  2301.cases
+** DUMP_PILE c **  || File -  2301.cases
+** DUMP_PILE d **  || File -  2301.cases
+** DUMP_PILE f **  || File -  2301.cases
+** DUMP_PILE 2301.pdf46th Lunar and Planetary Science Conference **  || File -  2301.cases
+most of the strata  || File -  2339.cases
+** the CONFIDENCE_HILLS bedrock **  || File -  2339.cases
+all  || File -  2767.cases
+other soils  || File -  2767.cases
+Pahrump  || File -  2767.cases
+other deposits  || File -  2767.cases
+** Rocknest aeolian deposit **  || File -  2767.cases
+response  || File -  2775.cases
+other potential landing sites  || File -  2791.cases
+other landing sites  || File -  2791.cases
+** those of martian targets **  || File -  2850.cases
+spectra  || File -  2966.cases
+bulk  || File -  2966.cases
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Pattern -  <subj>_ActVp:POS__SHOWING
+Number of hits -  3
+Accuracy -  0.1875
+Keywords matched -  ['waypoint', 'Windjana']
+============  Extractions ============
+bottom  || File -  1433.cases
+Portions of Mastcam image  || File -  1433.cases
+Portions of Mastcam image  || File -  1433.cases
+HiRISE IRB color image  || File -  1438.cases
+ChemCam analyses  || File -  1514.cases
+APXS elemental measurements  || File -  1682.cases
+Pahrump section  || File -  1901.cases
+Kimberley CCam spectra  || File -  1989.cases
+** the Pahrump waypoint **  || File -  2099.cases
+** the Pahrump waypoint **  || File -  2099.cases
+Mountain rock  || File -  2324.cases
+K ICA scores  || File -  2452.cases
+** A wide-angle Mastcam-34 image of the Windjana drill site **  || File -  2748.cases
+Valley  || File -  2767.cases
+the only group  || File -  2789.cases
+B  || File -  2893.cases
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Pattern -  Np_Prep_<NP>:POS__PORTIONS_OF
+Number of hits -  1
+Accuracy -  0.166666666667
+Keywords matched -  ['Dune_Field']
+============  Extractions ============
+Mastcam image  || File -  1433.cases
+Mastcam image  || File -  1433.cases
+** the DUNE_FIELD **  || File -  1634.cases
+these outcrops  || File -  1994.cases
+both  || File -  2301.cases
+the mountain  || File -  2715.cases
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Pattern -  <subj>_ActVp:POS__CONTAINS
+Number of hits -  3
+Accuracy -  0.166666666667
+Keywords matched -  ['target', 'Windjana']
+============  Extractions ============
+implying  || File -  1514.cases
+W/R &&1000  || File -  1769.cases
+** The other target **  || File -  2099.cases
+It  || File -  2099.cases
+This instrument suite  || File -  2201.cases
+** Windjana **  || File -  2620.cases
+** The Windjana sample **  || File -  2620.cases
+e.g.  || File -  2715.cases
+Our current data set of Ni  || File -  2720.cases
+the cooling plasma  || File -  2724.cases
+CH  || File -  2735.cases
+FTIR Results  || File -  2775.cases
+&&1  || File -  2781.cases
+the bottom plot  || File -  2781.cases
+Mars  || File -  2818.cases
+Gale  || File -  2892.cases
+increases  || File -  2940.cases
+Gale crater  || File -  3012.cases
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Pattern -  Np_Prep_<NP>:POS__SPECTRA_FROM
+Number of hits -  2
+Accuracy -  0.153846153846
+Keywords matched -  ['targets']
+============  Extractions ============
+planes &&1 and &&2  || File -  1369.cases
+a large region of interest  || File -  1634.cases
+the ChemCam instrument  || File -  1875.cases
+areas of interest  || File -  2124.cases
+** Mastcam multifilter observations of high-Mn targets **  || File -  2748.cases
+Mars and terrestrial laboratories  || File -  2773.cases
+a gypsum sample  || File -  2781.cases
+a relatively pure gypsum rock  || File -  2781.cases
+the Chem-Cam materials library  || File -  2850.cases
+a sequence of several shots  || File -  2940.cases
+** remote targets **  || File -  2966.cases
+points  || File -  2966.cases
+GALE CRATER EXPLORATIONBY CURIOSITY  || File -  3012.cases
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Pattern -  Np_Prep_<NP>:POS__PART_OF
+Number of hits -  2
+Accuracy -  0.142857142857
+Keywords matched -  ['Confidence_Hills', 'Sheepbed']
+============  Extractions ============
+gas-enriched lava flows  || File -  1249.cases
+the minerals structure  || File -  1373.cases
+the Murray formation  || File -  1634.cases
+the line  || File -  1943.cases
+the outcrop  || File -  2093.cases
+** CONFIDENCE_HILLS **  || File -  2099.cases
+this identification  || File -  2201.cases
+the amorphous component of the soils  || File -  2284.cases
+lower Mt  || File -  2339.cases
+the Murray formation  || File -  2399.cases
+** the Sheepbed mudstone 2417.pdf46th Lunar and Planetary Science Conference **  || File -  2417.cases
+the Murray formation  || File -  2715.cases
+the ChemCam instrument  || File -  2775.cases
+the instrument  || File -  3012.cases
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Pattern -  Np_Prep_<NP>:POS__LOCATIONS_ON
+Number of hits -  2
+Accuracy -  0.142857142857
+Keywords matched -  ['Stovepipe_Wells', 'target']
+============  Extractions ============
+Perdido2  || File -  1433.cases
+** Stovepipe_Wells **  || File -  1433.cases
+** each target **  || File -  1514.cases
+HiRISE color mosaic  || File -  2124.cases
+the grid  || File -  2232.cases
+the matrix  || File -  2232.cases
+&&2 basaltic clasts  || File -  2232.cases
+each clast  || File -  2232.cases
+the Mg element map  || File -  2232.cases
+each pellet  || File -  2338.cases
+the sample surface  || File -  2724.cases
+rock  || File -  2940.cases
+eachlocation  || File -  3012.cases
+the island of Suduroy  || File -  3021.cases
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Pattern -  Np_Prep_<NP>:POS__&&2_TO
+Number of hits -  1
+Accuracy -  0.125
+Keywords matched -  ['targets']
+============  Extractions ============
+left  || File -  1249.cases
+7m  || File -  1369.cases
+bin &&3  || File -  1369.cases
+glassy rocks  || File -  1943.cases
+&&20 mm  || File -  2452.cases
+** trachyandesite targets **  || File -  2452.cases
+those of more abundant phases  || File -  2620.cases
+each of &&3 spectrometers  || File -  2720.cases
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Pattern -  infinitive_verb_<dobj>:POS__ANALYZE
+Number of hits -  1
+Accuracy -  0.111111111111
+Keywords matched -  ['target']
+============  Extractions ============
+every sample  || File -  1510.cases
+the least abundant phases AS_WELL_AS the coarser fraction of the sands  || File -  1634.cases
+all grains  || File -  2201.cases
+a heterogenous sample using NWA &&7034  || File -  2232.cases
+this meteorite sample  || File -  2232.cases
+the LIBSSIM simulation of NWA &&7034  || File -  2232.cases
+mixtures of salt and basalt powders  || File -  2724.cases
+the partial correlations  || File -  2940.cases
+** the structure of the rock target **  || File -  2940.cases
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Pattern -  Np_Prep_<NP>:POS__ONE_OF
+Number of hits -  2
+Accuracy -  0.111111111111
+Keywords matched -  ['targets', 'Vaqueros', 'target']
+============  Extractions ============
+them  || File -  1373.cases
+the parameters  || File -  1510.cases
+the phases  || File -  1514.cases
+** the main targets **  || File -  1769.cases
+&&2 size regimes  || File -  1875.cases
+the major phases  || File -  1989.cases
+the main advantages of LIBS  || File -  2022.cases
+the most  || File -  2093.cases
+** the target Vaqueros **  || File -  2099.cases
+the following different minerals  || File -  2232.cases
+the most  || File -  2417.cases
+the first K-rich conglomerate  || File -  2452.cases
+the standards  || File -  2720.cases
+&&2 basaltic backgrounds  || File -  2724.cases
+many mineral classes  || File -  2781.cases
+its groups  || File -  2789.cases
+the lowest elevation landing  || File -  2791.cases
+the major RRs  || File -  2919.cases
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Pattern -  <subj>_PassVp:POS__BASED
+Number of hits -  1
+Accuracy -  0.111111111111
+Keywords matched -  ['targets']
+============  Extractions ============
+Anhydrite >COMMA AS_WELL_AS bassanite and gypsum  || File -  1505.cases
+Investigation design  || File -  1736.cases
+Finer scale observations of outcrops  || File -  2234.cases
+These lines  || File -  2724.cases
+Hematite  || File -  2735.cases
+The SuperCam instrument  || File -  2781.cases
+Method  || File -  2789.cases
+** The targets **  || File -  2855.cases
+The use of these techniques  || File -  3021.cases
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Pattern -  <subj>_ActVp:POS__MADE
+Number of hits -  1
+Accuracy -  0.111111111111
+Keywords matched -  ['Liga', 'member']
+============  Extractions ============
+** the Liga member **  || File -  1438.cases
+scratch marks  || File -  1901.cases
+Lower angles of sunlight  || File -  2201.cases
+high sunlight angles  || File -  2201.cases
+Precipitates >COMMA cementation >COMMA and oxidation of the minerals  || File -  2201.cases
+ChemCam  || File -  2301.cases
+this working model  || File -  2715.cases
+the trench  || File -  2767.cases
+Curiosity  || File -  2855.cases
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Pattern -  Np_Prep_<NP>:POS__SPECTRA_OF
+Number of hits -  4
+Accuracy -  0.108108108108
+Keywords matched -  ['target', 'targets', 'Stephen']
+============  Extractions ============
+modern IR orbital datasets  || File -  1373.cases
+the top m of the surface  || File -  1373.cases
+the spectra  || File -  1413.cases
+fresh surfaces  || File -  1433.cases
+all  || File -  1433.cases
+all  || File -  1433.cases
+several ferric sulfate minerals  || File -  1433.cases
+location  || File -  1433.cases
+several ferric oxides  || File -  1433.cases
+the calibration block  || File -  1510.cases
+** the ChemCam shergottite calibration target **  || File -  1510.cases
+our entire calibration suite  || File -  1510.cases
+group &&3  || File -  1943.cases
+materials  || File -  1989.cases
+elemental emission lines  || File -  2093.cases
+materials  || File -  2099.cases
+the H  || File -  2119.cases
+laboratory mixtures  || File -  2119.cases
+the synthetic samples  || File -  2132.cases
+the same &&4 naturally occurring  || File -  2132.cases
+synthetic manganese oxides  || File -  2132.cases
+surface  || File -  2338.cases
+GLASSES  || File -  2536.cases
+glasses  || File -  2536.cases
+denser compositions  || File -  2536.cases
+the doped  || File -  2720.cases
+all &&250 laser pulses  || File -  2724.cases
+samples  || File -  2748.cases
+certain minerals  || File -  2748.cases
+powdered Mn-oxide standards  || File -  2748.cases
+Mn-oxide powders  || File -  2748.cases
+** the same calibration targets **  || File -  2773.cases
+** the same targets **  || File -  2773.cases
+calcium sulfates  || File -  2781.cases
+&&6 standards  || File -  2850.cases
+** Stephen **  || File -  2893.cases
+the initial shots  || File -  2940.cases
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Pattern -  <subj>_ActVp:POS__CONTAINED
+Number of hits -  1
+Accuracy -  0.1
+Keywords matched -  ['Windjana']
+============  Extractions ============
+some  || File -  1249.cases
+Each batch reactor  || File -  1505.cases
+pellets  || File -  1510.cases
+iv  || File -  1736.cases
+The exposed strata  || File -  1989.cases
+Yellowknife Bay  || File -  2417.cases
+** Both aliquots of the Windjana drill powder **  || File -  2620.cases
+some of the rocks  || File -  2720.cases
+the atmosphere  || File -  2893.cases
+a set of objects  || File -  2940.cases
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Pattern -  <subj>_ActVp:POS__SHOWED
+Number of hits -  1
+Accuracy -  0.0909090909091
+Keywords matched -  ['Rocknest']
+============  Extractions ============
+The raised ridges  || File -  1524.cases
+Initial Results  || File -  1634.cases
+Modal Mineralogies  || File -  1634.cases
+we  || File -  1769.cases
+the MSL team  || File -  2022.cases
+Univariate analysis of the chlorine emission line  || File -  2022.cases
+the rock  || File -  2234.cases
+** ChemCam observations of the Rocknest suite **  || File -  2234.cases
+Corresponding RMI images  || File -  2339.cases
+Initial results  || File -  2748.cases
+Imaging  || File -  2855.cases
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Pattern -  ActVp_<dobj>:POS__ROCK
+Number of hits -  2
+Accuracy -  0.0869565217391
+Keywords matched -  ['target']
+============  Extractions ============
+facies  || File -  1438.cases
+heterogeneity  || File -  1566.cases
+chemical heterogeneity  || File -  1566.cases
+morphology and texture  || File -  1943.cases
+outcrop  || File -  1994.cases
+outcrop offer compelling evidence  || File -  1994.cases
+sediments  || File -  2099.cases
+unit  || File -  2099.cases
+section  || File -  2099.cases
+section  || File -  2099.cases
+CHEMISTRY  || File -  2284.cases
+mineralogy  || File -  2301.cases
+tails  || File -  2324.cases
+tails >COMMA and lineations  || File -  2324.cases
+tails  || File -  2324.cases
+abrasion  || File -  2324.cases
+the MSL rover  || File -  2417.cases
+morphology and texture  || File -  2452.cases
+morphology  || File -  2452.cases
+matrices  || File -  2720.cases
+Identification  || File -  2818.cases
+** target Mojave **  || File -  2855.cases
+** target Mojave **  || File -  2855.cases
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Pattern -  <subj>_PassVp:POS__OBTAINED
+Number of hits -  1
+Accuracy -  0.0833333333333
+Keywords matched -  ['Pearson']
+============  Extractions ============
+observed Mg &&448 nm line intensity  || File -  1369.cases
+The highest predicted content  || File -  1413.cases
+Whole rock estimates  || File -  1943.cases
+Mars  || File -  2022.cases
+The high hydrogen signal  || File -  2022.cases
+the high H  || File -  2022.cases
+a higher Cl signal  || File -  2022.cases
+** A Pearson correlation coefficient of &&0.42 **  || File -  2022.cases
+The same results  || File -  2536.cases
+Better results  || File -  2720.cases
+information  || File -  2735.cases
+This  || File -  2990.cases
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Pattern -  <subj>_ActVp:POS__LIKE
+Number of hits -  1
+Accuracy -  0.0666666666667
+Keywords matched -  ['target']
+============  Extractions ============
+the pigeonite region  || File -  1514.cases
+more chicken wire  || File -  1524.cases
+a clay deposit  || File -  1524.cases
+we  || File -  1566.cases
+the alkalin suite looks  || File -  1943.cases
+the presence of diagenetic features  || File -  2099.cases
+diagenetic material  || File -  2301.cases
+Ventifacts and evidence  || File -  2324.cases
+Diagenesis  || File -  2620.cases
+the RMSE  || File -  2720.cases
+** the 7th testing calibration target **  || File -  2773.cases
+compositions  || File -  2789.cases
+EDL  || File -  2791.cases
+other methods  || File -  2791.cases
+process of being  || File -  3021.cases
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Pattern -  ActVp_<dobj>:POS__INCLUDES
+Number of hits -  1
+Accuracy -  0.0625
+Keywords matched -  ['members']
+============  Extractions ============
+** &&7 members **  || File -  1438.cases
+quartz-normative intrusive rocks  || File -  1943.cases
+the distribution of grain sizes  || File -  2201.cases
+clasts of varying compositions  || File -  2232.cases
+a Laser  || File -  2301.cases
+H2O >COMMA Cl >COMMA and other minor elements  || File -  2301.cases
+the geology of the site  || File -  2417.cases
+K-rich basalts  || File -  2620.cases
+&&93 randomly-chosen geological samples  || File -  2775.cases
+an infrared  || File -  2781.cases
+a VISIR reflectance spectrometer  || File -  2781.cases
+&&3358 measurements  || File -  2789.cases
+spectra  || File -  2940.cases
+a Remote Micro Imager  || File -  2966.cases
+&&50 shots  || File -  2966.cases
+the LIBS pit  || File -  2990.cases
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Pattern -  <subj>_PassVp:POS__OBSERVED
+Number of hits -  3
+Accuracy -  0.06
+Keywords matched -  ['Windjana', 'target', 'Confidence_Hills']
+============  Extractions ============
+decimeter-size hollow spheroidal objects and some apparent cylindrical objects  || File -  1249.cases
+Additional hollow features  || File -  1249.cases
+a spherical and apparently hollow object  || File -  1249.cases
+Settings and Morphologies  || File -  1249.cases
+No such features  || File -  1249.cases
+&&2  || File -  1249.cases
+Other Hollow Rounded Features  || File -  1249.cases
+Tappers  || File -  1249.cases
+>PERCENT values  || File -  1373.cases
+>PERCENT  || File -  1373.cases
+** the target Windjana **  || File -  1433.cases
+** the drill target Confidence_Hills **  || File -  1433.cases
+these minerals  || File -  1433.cases
+significant differences  || File -  1505.cases
+No iron oxide reaction products  || File -  1505.cases
+Secondary sulfate minerals  || File -  1505.cases
+gypsum and minor bassanite  || File -  1505.cases
+metastable gypsum and bassanite  || File -  1505.cases
+Light-toned veins  || File -  1524.cases
+multiple orientations  || File -  1903.cases
+several different textures of veins  || File -  1903.cases
+&&3 light-toned rocks  || File -  1943.cases
+molecular emission lines  || File -  1989.cases
+the F-bearing observations  || File -  1989.cases
+what  || File -  1989.cases
+smectites  || File -  1989.cases
+Sedimentary Facies  || File -  1994.cases
+parallel laminae  || File -  1994.cases
+Resistant mudstone/siltstone intervals  || File -  1994.cases
+Coarse cm  || File -  1994.cases
+mm-scale cross-laminae  || File -  1994.cases
+Hydrogen  || File -  2022.cases
+Calcium Sulfate Calcium sulfate veins  || File -  2093.cases
+MgO  || File -  2093.cases
+A comparable trend  || File -  2099.cases
+The emissions  || File -  2119.cases
+No systematic trend  || File -  2119.cases
+** CONFIDENCE_HILLS and Whale Rock **  || File -  2339.cases
+ChemCam  || File -  2339.cases
+&&1  || File -  2399.cases
+other morphologies  || File -  2399.cases
+material  || File -  2399.cases
+This distinction  || File -  2452.cases
+weak features  || File -  2748.cases
+The coarsest grains  || File -  2767.cases
+no obvious correlation  || File -  2767.cases
+uncorrected data  || File -  2775.cases
+Improvements  || File -  2775.cases
+A hydrogen emission line  || File -  2781.cases
+P emission lines  || File -  2850.cases
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Pattern -  <subj>_ActVp:POS__BASED
+Number of hits -  2
+Accuracy -  0.0555555555556
+Keywords matched -  ['waypoint', 'target']
+============  Extractions ============
+using cation ratios  || File -  1514.cases
+propagated errors  || File -  1514.cases
+Ternary diagram of feldspar compositions  || File -  1514.cases
+The software  || File -  1514.cases
+examing mineral composition  || File -  1514.cases
+single minerals  || File -  1514.cases
+stoichiometry criteria  || File -  1514.cases
+a recommended rock classification framework  || File -  1566.cases
+the model  || File -  1769.cases
+martian regolith  || File -  1875.cases
+Our preliminary calibration  || File -  1875.cases
+it  || File -  2099.cases
+** Pahrump waypoint description **  || File -  2099.cases
+The trend  || File -  2119.cases
+the dunes  || File -  2124.cases
+** an accurate bulk composition of a heterogeneous target **  || File -  2232.cases
+the traverse  || File -  2234.cases
+depletion  || File -  2234.cases
+&&2 Areas  || File -  2284.cases
+winds  || File -  2324.cases
+the passage of sand  || File -  2324.cases
+&&2  || File -  2324.cases
+their textures  || File -  2452.cases
+The alkali feldspar  || File -  2620.cases
+recent results  || File -  2715.cases
+A calibration  || File -  2720.cases
+&&400 ppm  || File -  2720.cases
+&&3 algorithms  || File -  2775.cases
+iterative thresholding  || File -  2775.cases
+squares  || File -  2775.cases
+CaSO4  || File -  2781.cases
+We  || File -  2789.cases
+P  || File -  2850.cases
+Blackhead_7  || File -  2850.cases
+mudstone  || File -  2855.cases
+Conclusions  || File -  2892.cases
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Pattern -  Np_Prep_<NP>:POS__ANALYSIS_OF
+Number of hits -  2
+Accuracy -  0.0526315789474
+Keywords matched -  ['targets', 'Confidence_Hills', 'target']
+============  Extractions ============
+the ChemCam data  || File -  1413.cases
+** targets **  || File -  1524.cases
+the underlying  || File -  1524.cases
+the chemical and mineralogic composition of the sands  || File -  1634.cases
+Curiosity drive telemetry and numerical modeling of drives  || File -  1682.cases
+soils  || File -  2022.cases
+the first shots  || File -  2022.cases
+the chlorine emission line  || File -  2022.cases
+calcium sulfate veins  || File -  2119.cases
+hydrogen  || File -  2119.cases
+the texture and composition of the cement  || File -  2234.cases
+associated MAHLI images  || File -  2234.cases
+minor  || File -  2338.cases
+** the CONFIDENCE_HILLS drill target **  || File -  2339.cases
+ChemCam and APXS data  || File -  2339.cases
+terrains  || File -  2399.cases
+each new sample  || File -  2417.cases
+the powder  || File -  2417.cases
+samples  || File -  2715.cases
+various combinations  || File -  2720.cases
+salt anions  || File -  2724.cases
+the mixtures  || File -  2724.cases
+the Mars dataset  || File -  2724.cases
+these elements  || File -  2724.cases
+these mixtures  || File -  2724.cases
+carbonates >COMMA sulfates >COMMA and chlorides  || File -  2724.cases
+the CH sample  || File -  2735.cases
+ChemCam data  || File -  2789.cases
+well-characterized terrestrial standards  || File -  2850.cases
+P peak intensities and overlapping emissions  || File -  2850.cases
+MAHLI data  || File -  2855.cases
+variance  || File -  3012.cases
+MARS ANALOG  || File -  3021.cases
+the materials  || File -  3021.cases
+different materials  || File -  3021.cases
+samples  || File -  3021.cases
+these analogs  || File -  3021.cases
+planetary analogs  || File -  3021.cases
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Pattern -  ActVp_Prep_<NP>:POS__OBSERVED_IN
+Number of hits -  1
+Accuracy -  0.0454545454545
+Keywords matched -  ['targets']
+============  Extractions ============
+the Yellowknife Bay area  || File -  1249.cases
+the slow flow rate  || File -  1505.cases
+both CaCl2 flowthrough reactors  || File -  1505.cases
+one replicate  || File -  1505.cases
+impact-associated veins  || File -  1505.cases
+olivine  || File -  1634.cases
+barchan dunes  || File -  1634.cases
+ChemCam passive spectra  || File -  1736.cases
+soils and sedimentary sequences  || File -  1875.cases
+deposition >COMMA and regolith evolution  || File -  1875.cases
+the diagenetic crystal clusters and dendrites  || File -  1901.cases
+some of the ChemCam spectra  || File -  1989.cases
+the SNC meteorites  || File -  1989.cases
+the soils  || File -  2119.cases
+CheMin samples  || File -  2234.cases
+Mastcam and RMI images of these sandstones  || File -  2339.cases
+petrographic thin sections information  || File -  2620.cases
+the section  || File -  2715.cases
+** Blind Targets **  || File -  2767.cases
+hydrothermal deposits  || File -  2892.cases
+Gale crater  || File -  2893.cases
+Gale crater9  || File -  2919.cases
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Pattern -  Np_Prep_<NP>:POS__NUMBER_OF
+Number of hits -  1
+Accuracy -  0.0416666666667
+Keywords matched -  ['targets']
+============  Extractions ============
+hollow features  || File -  1249.cases
+these  || File -  1249.cases
+** detections and the predicted ZnO content of the targets **  || File -  1413.cases
+points  || File -  1438.cases
+ChemCam  || File -  1438.cases
+standards  || File -  1510.cases
+evaporite minerals  || File -  1901.cases
+analyses  || File -  1943.cases
+LIBS spectra  || File -  2232.cases
+LIBS observations  || File -  2232.cases
+LIBS observations  || File -  2232.cases
+observations  || File -  2232.cases
+observations  || File -  2232.cases
+LIBS analysis locations  || File -  2232.cases
+components  || File -  2720.cases
+adjustable parameters 2775.pdf46th Lunar and Planetary Science Conference  || File -  2775.cases
+hits  || File -  2775.cases
+hits  || File -  2775.cases
+interesting diagenetic textures  || File -  2855.cases
+light  || File -  2855.cases
+ChemCam observations  || File -  2940.cases
+non-zero partial correlations  || File -  2940.cases
+non-zero partial correlations  || File -  2940.cases
+phenomena thatinfuence  || File -  3012.cases
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Pattern -  ActVp_<dobj>:POS__USING
+Number of hits -  2
+Accuracy -  0.037037037037
+Keywords matched -  ['targets', 'Delta']
+============  Extractions ============
+** the on-board calibration targets **  || File -  1369.cases
+the entire OMEGA dataset  || File -  1373.cases
+the &&1.5 m band depth  || File -  1373.cases
+the ChemCam instrument  || File -  1413.cases
+a Rigaku Ultima IV X-Ray diffractometer  || File -  1505.cases
+innovative multivariate analysis techniques  || File -  1510.cases
+a new custom-designed LIBS instrument  || File -  1510.cases
+a much lower energy density  || File -  1510.cases
+the ARTMEIS Toolkit  || File -  1682.cases
+minimal resources  || File -  1736.cases
+the ChemCam team standard Partial Least Squares &&1 analysis  || File -  2093.cases
+peak height  || File -  2119.cases
+an ASD field spectrometer  || File -  2132.cases
+an Edax Orbis Micro X-ray fluorescence spectrometer  || File -  2132.cases
+a high resolution digital single-lens reflex  || File -  2201.cases
+images  || File -  2201.cases
+a set of images  || File -  2201.cases
+a &&30 kV accelerating voltage  || File -  2232.cases
+the ImageJ program  || File -  2232.cases
+a simulated NWA &&7034 matrix composition  || File -  2232.cases
+** an aggradational delta model **  || File -  2234.cases
+the ChemCam  || File -  2234.cases
+a Mars-analog LIBS instrument  || File -  2338.cases
+the PLS1 routine  || File -  2339.cases
+the open source software Hugin  || File -  2399.cases
+a Mars-analog LIBS  || File -  2536.cases
+commercial codes Jade and Topas  || File -  2620.cases
+a novel multi-pass strategy  || File -  2715.cases
+a wavelength  || File -  2720.cases
+a Matlab routine  || File -  2720.cases
+the maximum intensity Table &&1  || File -  2720.cases
+cross-validation  || File -  2720.cases
+its onboard  || File -  2724.cases
+the nonlinear least squares Levenberg-Marquardt algorithm  || File -  2724.cases
+a ratio  || File -  2748.cases
+the blind sampling mode  || File -  2767.cases
+lab-based spectra  || File -  2773.cases
+the calibration curve  || File -  2773.cases
+the fitting approach  || File -  2775.cases
+squares  || File -  2775.cases
+the entire Curiosity payload  || File -  2789.cases
+remote Raman >COMMA fluorescence >COMMA and VISIR spectroscopy  || File -  2818.cases
+partial least-squares regression and principal component analysis  || File -  2850.cases
+an expanded laboratory training set  || File -  2850.cases
+the MAHLI camera  || File -  2855.cases
+the white  || File -  2855.cases
+AUTHIGENIC MINERAL ASSEMBLAGES  || File -  2892.cases
+the hyperspectral VNIR OMEGA images  || File -  2966.cases
+the Alpha Particle X-ray Spectroscopy  || File -  2966.cases
+a process  || File -  2966.cases
+a moisture analyser  || File -  2966.cases
+the laser  || File -  2966.cases
+a prototype field  || File -  3021.cases
+multiple techniques  || File -  3021.cases
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Pattern -  <subj>_ActVp:POS__SHOWN
+Number of hits -  1
+Accuracy -  0.037037037037
+Keywords matched -  ['Winnipesaukee']
+============  Extractions ============
+** Winnipesaukee hollow spherical feature **  || File -  1249.cases
+Circular rock feature Tappers  || File -  1249.cases
+right  || File -  1433.cases
+the ARTMEIS Toolkit  || File -  1682.cases
+Recent experiments  || File -  1989.cases
+Location of the Pahrump Hills outcrop  || File -  1994.cases
+linear  || File -  2119.cases
+iron oxides  || File -  2124.cases
+VNIR spectra of the same &&4 naturally occurring  || File -  2132.cases
+The wavelength  || File -  2132.cases
+XRD patterns of the laboratory  || File -  2132.cases
+This study  || File -  2201.cases
+the Mg EDS image  || File -  2232.cases
+Volatile elements  || File -  2284.cases
+The orientations  || File -  2324.cases
+superposed RMI mosaics  || File -  2324.cases
+bottom  || File -  2338.cases
+The baseline  || File -  2735.cases
+Mnreplacement of Fe  || File -  2748.cases
+this area  || File -  2767.cases
+Chemical analysis Studies  || File -  2767.cases
+The MSL science team  || File -  2791.cases
+our analysis of P peak intensities and overlapping emissions  || File -  2850.cases
+The sample covariance matrix  || File -  2940.cases
+sampling location &&1  || File -  2940.cases
+Graphical model of the shot-to-shot relationships  || File -  2940.cases
+raster  || File -  2990.cases
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Pattern -  <subj>_ActVp:POS__ACQUIRED
+Number of hits -  1
+Accuracy -  0.0357142857143
+Keywords matched -  ['targets']
+============  Extractions ============
+Earth-based calibration spectra  || File -  1510.cases
+those  || File -  1510.cases
+those  || File -  1510.cases
+data  || File -  1510.cases
+bracket Mars data  || File -  1510.cases
+existing calibrations  || File -  1510.cases
+Averaging all  || File -  1514.cases
+Images  || File -  1903.cases
+Using observations  || File -  1994.cases
+azimulong distance ChemCam passive spectral observation  || File -  2124.cases
+APXS data  || File -  2339.cases
+MARDI  || File -  2399.cases
+complementary Mastcam imaging  || File -  2399.cases
+Comparison of spectra  || File -  2536.cases
+spectra  || File -  2536.cases
+the baseline than spectra  || File -  2536.cases
+Pahrump Hills Stratigraphy >COMMA Chemistry >COMMA and Mineralogy  || File -  2715.cases
+the visible-to-near-infrared passive spectra  || File -  2748.cases
+The Mastcam imaging investigation  || File -  2748.cases
+&&3  || File -  2748.cases
+the data  || File -  2767.cases
+** more closely resemble spectra of the same targets **  || File -  2773.cases
+The mosaic  || File -  2855.cases
+geochemical data  || File -  2855.cases
+Aeolis Palus  || File -  2919.cases
+spectra  || File -  2966.cases
+we  || File -  2966.cases
+the experience  || File -  2990.cases
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Pattern -  <subj>_ActVp:POS__ANALYZED
+Number of hits -  1
+Accuracy -  0.0357142857143
+Keywords matched -  ['Badwater', 'target']
+============  Extractions ============
+stratigraphic order  || File -  1438.cases
+all potassic rocks  || File -  1438.cases
+** target Badwater **  || File -  1514.cases
+1524.PDF DIAGENETIC FEATURES  || File -  1524.cases
+RMI images of different types  || File -  1524.cases
+ChemCam  || File -  1524.cases
+1524.pdf46th Lunar and Planetary Science Conference  || File -  1524.cases
+RMI images of light-toned veins  || File -  1524.cases
+the ChemCam instrument  || File -  1524.cases
+HiRISE image and localization of light-toned veins  || File -  1524.cases
+the distinc classes of concretions  || File -  1524.cases
+The distinct compositions  || File -  1524.cases
+the stratigraphic units  || File -  1524.cases
+the rocks  || File -  2234.cases
+the regional provinces  || File -  2284.cases
+The rocks  || File -  2284.cases
+ChemCam  || File -  2301.cases
+material  || File -  2301.cases
+the first felsic alkali-rich volcanic rocks  || File -  2452.cases
+Several rocks  || File -  2620.cases
+the &&3 chloride mixtures  || File -  2724.cases
+The suite of minerals  || File -  2735.cases
+previous samples  || File -  2735.cases
+the more alkali-rich  || File -  2735.cases
+Soils  || File -  2767.cases
+each aeolian deposit  || File -  2767.cases
+data  || File -  2850.cases
+We  || File -  2940.cases
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Pattern -  <subj>_ActVp:POS__SHOW
+Number of hits -  2
+Accuracy -  0.0333333333333
+Keywords matched -  ['targets', 'Stephen']
+============  Extractions ============
+Figures &&4 and &&5  || File -  1369.cases
+cation-cation plots  || File -  1514.cases
+Orbital observations  || File -  1634.cases
+these data  || File -  1682.cases
+Circles  || File -  1682.cases
+Color MRO High Resolution Imaging Science Experiment  || File -  1682.cases
+Mastcam color data  || File -  1682.cases
+APXS data  || File -  1682.cases
+atmospheric modeling work  || File -  1682.cases
+ChemCam analyses  || File -  1769.cases
+we  || File -  1769.cases
+The sedimentary horizons  || File -  1769.cases
+CRISM  || File -  1769.cases
+Individual lathes  || File -  1901.cases
+crystal clusters  || File -  1901.cases
+Individual lathes  || File -  1901.cases
+APXS Analyses  || File -  1901.cases
+Bedrock  || File -  1901.cases
+Summary and Interpretation  || File -  1901.cases
+A distinct suite of veins  || File -  1903.cases
+Chemical composition and mineral inference Hierachical divisive clustering  || File -  1943.cases
+Fluorine observation  || File -  1989.cases
+Hidden Valley  || File -  2022.cases
+CheMin observations  || File -  2093.cases
+Preliminary Results  || File -  2119.cases
+Conclusions  || File -  2232.cases
+conglomerates  || File -  2234.cases
+Mastcam observations  || File -  2234.cases
+CheMin samples  || File -  2234.cases
+mobile elements  || File -  2234.cases
+a mafic ternary diagram  || File -  2234.cases
+well  || File -  2234.cases
+Curiosity  || File -  2284.cases
+3a-c  || File -  2301.cases
+Other rocks  || File -  2324.cases
+fewer rocks  || File -  2324.cases
+the unnormalized data  || File -  2338.cases
+orbitally-acquired CRISM reflectance spectra  || File -  2339.cases
+APXS data  || File -  2339.cases
+&&5 felsic rocks  || File -  2452.cases
+** &&3 felsic targets **  || File -  2452.cases
+spectra  || File -  2536.cases
+APXS measurements  || File -  2715.cases
+our results  || File -  2720.cases
+The final &&2 columns  || File -  2724.cases
+Background  || File -  2748.cases
+mineral  || File -  2748.cases
+Grain size  || File -  2767.cases
+our results  || File -  2773.cases
+the ChemCam measurement points  || File -  2789.cases
+ChemCam manganese abundances  || File -  2893.cases
+Alpha Particle X-Ray Spectrometer  || File -  2893.cases
+Ni and Cu  || File -  2893.cases
+** Passive reflectance spectra of Stephen **  || File -  2893.cases
+the Curiosity rover  || File -  2919.cases
+The images  || File -  2919.cases
+Mars Hand Lens Imager  || File -  2919.cases
+Alpha Particle X-ray Spectrometer  || File -  2919.cases
+ChemCam and APXS data  || File -  2919.cases
+the RRs  || File -  2919.cases
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Pattern -  Np_Prep_<NP>:POS__DATA_FROM
+Number of hits -  1
+Accuracy -  0.027027027027
+Keywords matched -  ['John_Klein']
+============  Extractions ============
+bin &&1  || File -  1369.cases
+OMEGA imaging spectrometer onboard Mars  || File -  1373.cases
+ChemCam  || File -  1510.cases
+a duplicate  || File -  1510.cases
+martian  || File -  1510.cases
+sols &&13-801  || File -  1514.cases
+sols &&13-801  || File -  1514.cases
+CRISM  || File -  1736.cases
+CRISM  || File -  1736.cases
+Yellowknife Bay  || File -  1769.cases
+X-ray fluorescence  || File -  1875.cases
+ChemCam/LIBS and CheMin  || File -  1903.cases
+the CheMin instrument  || File -  1989.cases
+individual HiRISE detectors and images  || File -  2124.cases
+Gale Crater >COMMA and Gusev Crater  || File -  2284.cases
+the Gamma Ray Spectrometer  || File -  2284.cases
+MER Spirit and MSL Curiosity  || File -  2284.cases
+the rovers  || File -  2284.cases
+the rovers  || File -  2284.cases
+the rocks  || File -  2284.cases
+Curiosity  || File -  2284.cases
+the GRS experiment  || File -  2284.cases
+the Curiosity rover  || File -  2284.cases
+Spirit  || File -  2284.cases
+Spirit  || File -  2284.cases
+the surface of the rocks  || File -  2301.cases
+** the rocks and JOHN_KLEIN drill hole wall **  || File -  2301.cases
+all of Curiosity s instruments  || File -  2620.cases
+all other solid samples  || File -  2715.cases
+concentrations  || File -  2720.cases
+loop &&1  || File -  2855.cases
+the Curiosity rover  || File -  2919.cases
+Sol &&399  || File -  2919.cases
+the veins  || File -  2966.cases
+martian veins  || File -  2966.cases
+veins  || File -  2966.cases
+Gale crater  || File -  2966.cases
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Pattern -  <subj>_ActVp:POS__SHOWS
+Number of hits -  1
+Accuracy -  0.0263157894737
+Keywords matched -  ['target']
+============  Extractions ============
+Investigation of shot-to-shot trends  || File -  1249.cases
+&&1  || File -  1413.cases
+Kimberley  || File -  1438.cases
+The top panel of Figure &&4  || File -  1510.cases
+The bottom panel  || File -  1510.cases
+enlargement  || File -  1514.cases
+&&2  || File -  1514.cases
+&&3  || File -  1514.cases
+Future work  || File -  1514.cases
+Their compositional analysis  || File -  1524.cases
+&&2  || File -  1634.cases
+Initial testing of the MCMC algorithm  || File -  1634.cases
+This  || File -  1769.cases
+rock  || File -  1901.cases
+The K1919-gypsum mixture  || File -  2119.cases
+&&3  || File -  2124.cases
+LIBSSIM program  || File -  2232.cases
+A further increase  || File -  2232.cases
+The rose diagram of ventifact-derived wind azimuths  || File -  2324.cases
+inferred winds  || File -  2324.cases
+&&1  || File -  2338.cases
+The figure  || File -  2338.cases
+&&2  || File -  2452.cases
+felsic group &&5  || File -  2452.cases
+MnO content  || File -  2748.cases
+&&4  || File -  2748.cases
+Table &&1  || File -  2767.cases
+this aeolian deposit  || File -  2767.cases
+&&1  || File -  2773.cases
+&&2  || File -  2818.cases
+&&3  || File -  2855.cases
+** MAHLI imaging of the target San Andreas **  || File -  2855.cases
+One of the major RRs  || File -  2919.cases
+&&2  || File -  2940.cases
+It  || File -  2940.cases
+The cross  || File -  2990.cases
+those RDR of CCS  || File -  3012.cases
+The simplestapplicatiojn of ANOVA  || File -  3012.cases
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Pattern -  ActVp_<dobj>:POS__SPACE
+Number of hits -  1
+Accuracy -  0.0185185185185
+Keywords matched -  ['Agency']
+============  Extractions ============
+Sci. Reviews  || File -  1373.cases
+Sci.  || File -  1373.cases
+** Agency **  || File -  1413.cases
+Sci. Rev.  || File -  1413.cases
+Sci. Rev.  || File -  1413.cases
+Sci Rev.  || File -  1433.cases
+Sci Rev.  || File -  1433.cases
+Sci. Rev.  || File -  1438.cases
+Sci. Rev.  || File -  1438.cases
+Sci. Revs  || File -  1510.cases
+Sci. Rev.  || File -  1514.cases
+Sci.  || File -  1514.cases
+Sci. Rev. &&170  || File -  1524.cases
+Sci. Rev.  || File -  1524.cases
+Sci. Rev. &&170  || File -  1566.cases
+Sci. Rev. &&170  || File -  1566.cases
+Sci. Rev.  || File -  1634.cases
+Sci. Rev.  || File -  1634.cases
+Sci. Rev.  || File -  1875.cases
+Science Institute  || File -  2022.cases
+Sci Rev  || File -  2022.cases
+Sci Rev  || File -  2022.cases
+Science Reviews  || File -  2093.cases
+Sci. Rev.  || File -  2119.cases
+Sci. Rev.  || File -  2119.cases
+Sci. Rev.  || File -  2232.cases
+Sci.  || File -  2232.cases
+Science Reviews  || File -  2234.cases
+Science Review  || File -  2301.cases
+Sci. Rev.  || File -  2324.cases
+Sci. Rev.  || File -  2324.cases
+Sci. Revs  || File -  2338.cases
+Sci. Revs  || File -  2338.cases
+Sci. Rev.  || File -  2417.cases
+Science  || File -  2452.cases
+Science  || File -  2452.cases
+Sci. Rev. &&170  || File -  2620.cases
+Sci. Revs  || File -  2720.cases
+Science  || File -  2767.cases
+Science  || File -  2767.cases
+Sci. Revs  || File -  2773.cases
+Sci. Revs  || File -  2775.cases
+Sci. Rev.  || File -  2775.cases
+Sci. Rev.  || File -  2789.cases
+Sci. Rev.  || File -  2789.cases
+Sci Rev  || File -  2791.cases
+Sci. Rev. 170:95  || File -  2850.cases
+Sci Rev. 170:167  || File -  2850.cases
+Sci. Rev.  || File -  2855.cases
+Sci. Rev.  || File -  2940.cases
+Sci. Rev.  || File -  2966.cases
+Sci. Rev.  || File -  2966.cases
+Sci. Rev.  || File -  2990.cases
+Sci. Rev.  || File -  2990.cases
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Pattern -  <subj>_ActVp:POS__ROCKS
+Number of hits -  1
+Accuracy -  0.0178571428571
+Keywords matched -  ['target']
+============  Extractions ============
+We  || File -  1373.cases
+1438.PDF  || File -  1438.cases
+potassic sedimentary  || File -  1438.cases
+&&2  || File -  1438.cases
+sedimentary  || File -  1438.cases
+Interpretation and discussion  || File -  1438.cases
+Some of the source  || File -  1514.cases
+Procedural flow chart  || File -  1566.cases
+Geochemical Modifiers Relative  || File -  1566.cases
+mafic  || File -  1736.cases
+Our time-resolved instrument  || File -  1736.cases
+instrument  || File -  1875.cases
+a pervasive feature of sedimentary  || File -  1903.cases
+pumice of molten  || File -  1943.cases
+&&1  || File -  1943.cases
+Porphyritic class  || File -  1943.cases
+&&2  || File -  1943.cases
+K-feldspar bearing  || File -  1943.cases
+Alteration of source  || File -  1989.cases
+The very fine grain size of sedimentary  || File -  1994.cases
+elemental analysis of soils  || File -  2022.cases
+Sediment Source Chemistry  || File -  2093.cases
+we  || File -  2119.cases
+quantification of H content  || File -  2119.cases
+Opportunity of Mn oxide bearing  || File -  2132.cases
+a wide variety of sedimentary  || File -  2234.cases
+instrument  || File -  2234.cases
+a set of sedimentary  || File -  2234.cases
+other trends  || File -  2234.cases
+some  || File -  2234.cases
+S  || File -  2284.cases
+The water content of materials  || File -  2284.cases
+UV >COMMA VIS >COMMA and VNIR atomic emission spectra of surface  || File -  2338.cases
+Bulk  || File -  2338.cases
+interpreting chemistry of Martian  || File -  2338.cases
+1b  || File -  2452.cases
+1d  || File -  2452.cases
+&&3 felsic  || File -  2452.cases
+a quartz-normative trend  || File -  2452.cases
+basalt/basanite  || File -  2452.cases
+LASER-INDUCED BREAKDOWN SPECTRA OF GLASSES  || File -  2536.cases
+this project  || File -  2536.cases
+Compositions  || File -  2536.cases
+Si-richer  || File -  2536.cases
+other  || File -  2620.cases
+its source  || File -  2620.cases
+potassium-enriched basaltic source  || File -  2620.cases
+other  || File -  2715.cases
+other  || File -  2715.cases
+sedimentary  || File -  2720.cases
+diverse  || File -  2789.cases
+traces of the host  || File -  2789.cases
+float  || File -  2789.cases
+** the composition of the target **  || File -  2892.cases
+melt  || File -  2892.cases
+Mn-rich  || File -  2893.cases
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
